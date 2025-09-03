@@ -1,0 +1,7 @@
+input_file: "webnlg_toolkit/data/kelm_e/ru/kelm-e-ru_dir_rand_props.txt"
+tar_file_base: "./multilingual-references/tar_lang"
+eval_method: "nmtscore"
+batch_size: 128
+model_name: "prism"
+target_lang: "en"
+input_lang: "en"

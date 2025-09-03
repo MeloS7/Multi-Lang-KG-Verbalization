@@ -1,0 +1,472 @@
+濟州航空是一家位於大韩民国的航空公司。其航空會計代碼為806，IATA航空代碼為7C，ICAO航空代碼為JJA，呼號為JEJU AIR。官方網站為http://www.jejuair.net。
+國泰航空的航空會計代碼是160，其所在國家是中华人民共和国。國泰航空的IATA航空代碼是CX，呼號是CATHAY，ICAO航空代碼是CPA。國泰航空的官方名稱是國泰航空公司，官方网站是https://www.cathaypacific.com。
+保加利亚航空的航空会计代码是623，该航空公司位于保加利亚国家。其IATA航空公司代码是FB，呼号是FLYING BULGARIA。官方名称是„България Еър“ АД，官方网站是http://www.air.bg/en/。
+巴基斯坦国际航空的航空会计代码是214，其所属国家是巴基斯坦。其呼号是PAKISTAN，ICAO航空公司识别符是PIA。官方名称是پاکِستان اِنٹَرنیشَنَل ایئر لائنزs，官方网站是https://www.piac.com.pk/。
+香草航空的航空会计代码是842，该航空公司位于日本。其IATA航空公司代码是JW，ICAO航空公司代码是VNL。官方名称是バニラ・エア株式会社。
+以色列航空的航空会计代码是114。该航空公司位于以色列。其IATA航空公司代码是LY。其呼号是ELAL。其官方名称是אל על נתיבי אויר לישראל בע''מ。
+汉莎航空的航空会计代码是220。汉莎航空位于德國。汉莎航空的呼号是LUFTHANSA。汉莎航空的官方网站是https://www.lufthansa.com/de/de/。
+捷克航空的会计代码是064。捷克航空位于捷克。捷克航空的IATA航空公司代码是OK。捷克航空的呼号是CSA-LINES。
+
+布魯塞爾航空的航空會計代碼是082。布魯塞爾航空位於比利時。布魯塞爾航空的航空呼號是布魯塞爾航空。
+乙醇的Kemler代码是33。乙醇与乙醇暴露有关。乙醇的ATC代码是D08AX08。乙醇的标准SMILES是CCO。乙醇的InChI是InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3。乙醇的化学式是C₂H₆O。乙醇的用途是溶剂。
+
+①氧化镁的相关危险是氧化镁曝露。\n②氧化镁的ATC代码是A02AA02。\n③氧化镁的标准SMILES是O=[Mg]。\n④氧化镁的InChI是InChI=1S/Mg.O。\n⑤氧化镁的化学式是氧化镁（MgO）。\n⑥氧化镁的用途是食品添加剂。
+二氧化碳具有相关危险：二氧化碳暴露。二氧化碳的ATC代码是V03AN02。二氧化碳的标准SMILES是C(=O)=O。二氧化碳的InChI是InChI=1S/CO2/c2-1-3。二氧化碳的化学式是CO₂。二氧化碳的用途是冷卻劑。
+iso-propyl alcoholATC codeD08AX05。iso-propyl alcoholCC(C)O。iso-propyl alcoholInChI=1S/C3H8O/c1-3(2)4/h3-4H,1-2H3。iso-propyl alcoholC₃H₈O。iso-propyl alcohol。
+
+hydroquinonehydroquinone exposureD11AX11C₆H₆O₂
+ISOPropyl alcoholATC codeD08AX05。SMILESCC(C)O。chemical formulaC₃H₈O。
+glycerolATC codeA06AG04。其canonical SMILES为C(C(CO)O)O。glycerol用途为humectant。
+番木鳖碱的Kemler代码是66，其化学式为C₂₁H₂₂N₂O₂。番木鳖碱的用途是混淆品。
+ESWC 2023的演讲者是Dieter Fensel。该会议共接受了41篇稿件，从167篇投稿中选出。会议使用的语言是英語。会议的赞助者是VideoLectures.net。会议的大學入學率为0.1939。会议举办于希腊。
+第22届国际语义网会议的演讲者是格哈特·威肯。该会议共收到了411份投稿，接受了33份。会议使用语言是英語。会议的赞助者是Ontotext。会议的大學入學率为0.194。会议举办于希腊。
+2024乔恩·克莱因伯格。该会议共收到2008篇投稿，接受了405篇。会议使用语言为英語。该会议的赞助者是Technology Innovation Institute，举办地点为新加坡。
+2023Lora Aroyo354013330英語0.261美國
+2024Computational Linguistics, Language Resources and Evaluation0.52。1556。3471。English。Italy。
+5«»«»«»22«»60«»0.367«»«»
+ENTER24 - 31st Annual International eTourism Conference75。46。英語。
+2018Johan Bos3512231
+2023«使用语言»为英語，«赞助者»为Google，«国家»为德國。
+Thirty-Fourth AAAI Conference on Artificial Intelligence«使用语言»為英語，«大學入學率»為0.24，位於美國。
+濟州航空的航空會計代碼是806，其所在的國家是大韩民国。濟州航空的IATA航空代碼是7C，呼號是JEJU AIR，ICAO航空代碼是JJA。濟州航空的官方名稱是주식회사 제주항공，官方網站是http://www.jejuair.net。濟州航空所在的國家大韩民国的自殺率是21.2，人類發展指數是0.838，幸福星球指數是39.8。
+國泰航空的航空會計代碼是160，其所在国家是中华人民共和国。國泰航空的IATA航空代碼是CX，呼號是CATHAY，ICAO航空代碼是CPA。國泰航空的官方名稱是國泰航空公司，官方网站是https://www.cathaypacific.com。中华人民共和国的不平等調整人類發展指數是0.651，民主指數是2.21，幸福星球指數是41.9。
+保加利亚航空的航空会计代码是623，其所属国家是保加利亚。保加利亚航空的IATA航空公司代码是FB，呼号是FLYING BULGARIA。官方名称是„България Еър“ АД，官方网站是http://www.air.bg/en/。保加利亚的自杀率是6.5，人类发展指数是0.701，民主指数是6.71，幸福星球指数是40.1。
+巴基斯坦国际航空的航空会计代码是214。该航空公司位于巴基斯坦。其呼号是PAKISTAN，ICAO航空公司识别符是PIA。官方名称是پاکِستان اِنٹَرنیشَنَل ایئر لائنزs。官方网站是https://www.piac.com.pk/。巴基斯坦的自杀率是9.8。该国的不平等调整人类发展指数是0.38。民主指数是4.31。幸福星球指数得分是45.1。
+香草航空的航空会计代码是842，其所在国家是日本。香草航空的IATA航空公司代码是JW，ICAO航空公司代码是VNL。官方名称是バニラ・エア株式会社。日本的自杀率是14.6，人類发展指数是0.85，民主指数是8.15，幸福星球指数是47.1。日本的官方名称是日本国。
+以色列航空（EL AL Israel Airlines Ltd.）航空会计代码为114，所属国家为以色列。其IATA航空公司代码为LY，呼号为ELAL。官方名称为אל על נתיבי אויר לישראל בע''מ。以色列的自杀率为5.2，人类发展指数（调整不平等）为0.815，民主指数为7.97，幸福星球指数为48.2。以色列的官方名称为ישראל。
+汉莎航空的航空会计代码是220。汉莎航空位于德國。汉莎航空的呼号是LUFTHANSA。汉莎航空的官方网站是https://www.lufthansa.com/de/de/。德國的自杀率是8.3。德國的不平等调整的人类发展指数是0.883。德國的贫困发生率是16。德國的民主指数是8.67。德國的幸福星球指数是52.7。德國的官方名称是德國联邦共和国。
+捷克航空的航空会计代码是064。捷克航空的国家是捷克。捷克航空的IATA航空代码是OK。捷克航空的呼号是CSA-LINES。捷克共和国的自杀率是9.5。捷克共和国的人类发展指数（调整不平等）是0.85。捷克共和国的民主指数是7.67。捷克共和国的幸福星球指数是46.8。捷克共和国的官方名称是Česká republika。捷克共和国的官方网站是https://www.czechia.eu/。
+
+布魯塞爾航空的航空會計代碼是082。布魯塞爾航空位於比利時。布魯塞爾航空的呼號是布魯塞爾航空。比利時的自殺率是20.7。比利時的不平等調整人類發展指數是0.874。比利時的貧困率是13.1。比利時的民主指數是7.51。比利時的快樂星球指數是42.5。比利時的官方名稱是比利時王國。比利時的官方網站是https://www.belgium.be/。
+大韩民国的自杀率为21.2，人類发展指数（考虑不平等）为0.838，幸福星球指数得分为39.8。
+中华人民共和国的人类发展指数（调整不平等）为0.651，其民主指数为2.21，幸福星球指数得分为41.9。
+
+
+
+以色列的自杀率为5.2。以色列的不平等调整人类发展指数为0.815。以色列的民主指数为7.97。以色列的幸福星球指数得分为48.2。以色列的官方名称为ישראל。
+
+捷克共和国的自杀率为9.5。捷克共和国的人类发展指数（调整不平等）为0.85。捷克共和国的民主指数为7.67。捷克共和国的幸福星球指数为46.8。捷克共和国的官方名称为Česká republika。捷克共和国的官方网站为https://www.czechia.eu/。
+法國的自殺率是9.7。法國的不平等調整人類發展指數是0.825。法國的貧困率是13.6%。法國的民主指數是7.99。法國的快樂星球指數是51.8。法國的官方名稱是法國共和國。法國的官方網站是https://www.service-public.fr/。
+比利時的自殺率為20.7。比利時的不平等調整人類發展指數為0.874。比利時的貧困發生率為13.1%。比利時的民主指數為7.51。比利時的快樂星球指數為42.5。比利時的官方名稱為Koninkrijk België。比利時的官方網站為https://www.belgium.be/。
+荷蘭皇家航空（KLM）是荷蘭的一家航空公司。其航空会计代码为074，IATA航空代码为KL，ICAO航空代码为KLM，呼号为KLM。其官方名称为Koninklijke Luchtvaart Maatschappij N.V.，官方网站为http://www.klm.com。
+阿瑞克航空是奈及利亞的一家航空公司。其航空会计代码是725，IATA航空公司代码是W3，ICAO航空公司代码是ARA，呼号是ARIK。官方名称是Arik Air，官方网站是http://www.arikair.com/。
+芬兰航空是芬蘭的一家航空公司。其航空会计代码为105，IATA航空公司代码为AY，ICAO航空公司代码为FIN，呼号为FINNAIR。其官方名称为芬兰航空（Finnair Oyj），官方网站为https://www.finnair.com/。
+新西蘭航空是新西兰的一家航空公司。其航空会计代码为086，IATA航空代码为NZ，ICAO航空代码为ANZ，呼号为NEW ZEALAND。其官方名称为新西蘭航空有限公司，官方网站为https://www.airnewzealand.com。
+納斯航空是沙特阿拉伯的一家航空公司。其航空会计代码为593，IATA航空公司代码为XY，ICAO航空公司代码为KNE，呼号为NAS EXPRESS。官方网站为http://www.flynas.com。
+丹纳航空是奈及利亞的一家航空公司。其航空会计代码为234，IATA航空代码为9J，ICAO航空代码为DAN，呼号为DANACO。官方网站为http://www.flydanaair.com/。
+长龙航空是中华人民共和国的一家航空公司。其航空会计代码是891，IATA航空公司代码是GJ，ICAO航空公司代码是CDC，航空公司呼号是HUALONG。长龙航空的官方名称是浙江长龙航空有限公司，其官方网站是http://www.loongair.cn。
+
+葡萄牙高飛航空（Hi Fly）是一家位于葡萄牙的航空公司。其航空会计代码为026，IATA航空公司代码为5K，呼号为SKY FLYER，ICAO航空公司代码为HFY。其官方网站为http://www.hifly.aero/en/。
+海運航空是一家位於美國的航空公司。其航空會計代碼為376，IATA航空代碼為BB，呼號為SEABORNE，ICAO航空代碼為SBS。官方网站為http://www.seaborneairlines.com/。
+薩法航空（Safair）是一家位於南非的航空公司。薩法航空的航空會計代碼是640，IATA航空代碼是FA，呼號是CARGO，ICAO航空代碼是SFR。薩法航空的官方网站是http://www.safairoperations.com/。
+韓亞航空是一家位於大韩民国的航空公司。其航空會計代碼為988，IATA航空代碼為OZ，ICAO航空代碼為AAR。官方名稱為韓亞航空公司。官方网站為https://www.flyasiana.com。
+土耳其航空是一家来自土耳其的航空公司。其IATA航空公司代码为TK，呼号为TURKISH，ICAO航空公司代码为THY。其官方名称为Türk Hava Yolları，官方网站为https://www.turkishairlines.com/。
+查拉航空的航空会计代码是980，其IATA航空公司代码是CE，呼号是CHALLAIR，ICAO航空公司代码是CLG，官方名称是CHALAIR AVIATION，官方网站是https://www.chalair.fr/。
+南美航空貨運公司是智利的一家航空公司。其航空會計代碼是145，IATA航空代碼是UC，呼號是LAN CARGO，ICAO航空代碼是LCO。
+
+
+076MECEDAR JETMEAhttps://www.mea.com.lb/
+Air Panama是巴拿馬的一家航空公司，其航空会计代码为600，IATA航空公司代码为7P，呼号为TURISMO REGIONAL，ICAO航空公司代码为PST。
+
+
+昆明航空是中华人民共和国的一家航空公司。其航空会计代码为833，IATA航空公司代码为KY，呼号为KUNMING AIR。昆明航空的官方网站是http://www.airkunming.com/。
+也門航空是也门的一家航空公司，其航空会计代码为635，IATA航空公司代码为IY，ICAO航空公司代码为IYE。
+LAM莫三比克航空是莫桑比克的一家航空公司，其航空会计代码为068，IATA航空公司代码为TM，ICAO航空公司代码为LAM。
+
+Aurora,,,,SATAIR,SHU,,,,
+马拉维航空的航空会计代码是529，其IATA航空设计ator是3W，呼号是MALAWIAN，官方网站是https://www.malawian-airlines.com/。
+夏威夷航空的航空会计代码是173。其IATA航空公司代码是HA。其航空公司呼号是HAWAIIAN。夏威夷航空的官方网站是https://www.hawaiianairlines.com/。
+福州航空是中华人民共和国的一家航空公司，其IATA航空公司代码为FU，呼号为STRAIT AIR，ICAO航空公司代码为FZA。
+冰島航空的航空會計代碼是108，其IATA航空代碼是FI，呼號是ICEAIR，官方网站是http://www.icelandair.com。
+雙捷航空（Twin Jet）的航空會計代碼是294，其ICAO航空公司代碼是TJT，官方网站是http://www.twinjet.fr。
+480MIDLANDBMR
+Avianca EcuadorIATA2K,AEROGALhttps://www.avianca.com/otr/en/
+
+ViaAir 是一家位於 美國 的航空公司，其航空會計代碼為 359，IATA航空公司代碼為 VC。
+110。callsign。ICAO
+Blue Panorama Airlines S.p.A.004BV
+
+VolarisIATAY4ICAOVOI
+日本貨物航空的国家是日本。日本貨物航空的官方网站是http://www.nca.aero。
+伊爾航空的航空會計代碼是154，其ICAO航空公司代碼是IAE。
+Ernest Airlines的呼号是ERNEST，其官方网站是https://flyernest.com。
+
+Uni Air的呼号是GLORY，其官方网站是https://www.uniair.com.tw/。
+Sriwijaya Air的呼叫标志是SRIWIJAYA，其官方网站是http://www.sriwijayaair.co.id/id。
+深圳航空是中华人民共和国的一家航空公司，其呼号为深圳航空。
+西奈航空的航空会计代码是903，其ICAO航空公司识别符是ASD。
+皇家約旦航空的國家是約旦。
+伊比利亚半岛是西班牙的一个国家。
+TNT
+埃福洛普航空的国家是西班牙。
+TUI
+
+
+
+
+磷酸（H₃PO₄）是一种食品添加剂和酸度调节剂，具有协同作用。它的化学式为H₃PO₄，SMILES表示为OP(=O)(O)O，InChI表示为InChI=1S/H3O4P/c1-5(2,3)4/h(H3,1,2,3,4)。磷酸也存在一些危害，例如磷酸暴露。
+
+阿斯巴甜是一种医疗药物，化学式为C₁₄H₁₈N₂O₅。其SMILES表示式为COC(=O)C(CC1=CC=CC=C1)NC(=O)C(CC(=O)O)N，InChI表示式为InChI=1S/C14H18N2O5/c1-21-14(20)11(7-9-5-3-2-4-6-9)16-13(19)10(15)8-12(17)18/h2-6,10-11H,7-8,15H2,1H3,(H,16,19)(H,17,18)/t10-,11-/m0/s1。阿斯巴甜可以用作食品添加剂、甜味劑和甜味剂。
+水有用途是水耕栽培。水的canonical SMILES是O。水的InChI是InChI=1S/H2O/h1H2。水的化学式是H₂O。水有用途是制冷剂。水有用途是势能。水有用途是核反應爐冷却剂。
+ Riboflavin Vitamin B2 Riboflavin Riboflavin S01XA26 CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(CO)O)O)O InChI=1S/C17H20N4O6/c1-7-3-9-10(4-8(7)2)21(5-11(23)14(25)12(24)6-22)15-13(18-9)16(26)20-17(27)19-15/h3-4,11-12,14,22-25H,5-6H2,1-2H3,(H,20,26,27)/t11-,12+,14-/m0/s1 C₁₇H₂₀N₄O₆ Riboflavin medication food additive food coloring
+二甲基亚砜（Dimethyl Sulfoxide）是一种极性非质溶剂，用途包括极性非质溶剂、溶剂、药物。其ATC代码为M02AX03。化学式为C₂H₆OS。其SMILES表示式为CS(=O)C。InChI表示式为InChI=1S/C2H6OS/c1-4(2)3/h1-2H3。
+ citric acidATC codeA09AB04。 citric acidC(C(=O)O)C(CC(=O)O)(C(=O)O)O。 citric acidInChI=1S/C6H8O7/c7-3(8)1-6(13,5(11)12)2-4(9)10/h13H,1-2H2,(H,7,8)(H,9,10)(H,11,12)。 citric acidC₆H₈O₇。 citric acid。 citric acid。
+氯化钠（sodium chloride）是一种用途为食盐的物质。其ATC代码为B05XA03。其化学结构可以用SMILES表示为[Na+].[Cl-]，或用InChI表示为InChI=1S/ClH.Na/h1H;/q;+1/p-1。其化学式为NaCl。此外，氯化钠还可以用作医疗药物。
+
+
+氢氧化钾是一种食品添加剂。氢氧化钾有用途是食品添加剂。氢氧化钾也存在潜在的危害，即氢氧化钾暴露。氢氧化钾的canonical SMILES是[OH-].[K+]。氢氧化钾的InChI是InChI=1S/K.H2O/h;1H2/q+1;/p-1。氢氧化钾的化学式是KOH。氢氧化钾还有一种用途是指示剂和试剂。
+镁柠檬酸是一种泻药和酸度调节剂。其ATC代码为B05CB03。其canonical SMILES表示为[Mg+2].O=C([O-])CC(O)(CC(=O)[O-])C(O)=O。其InChI表示为InChI=1S/C6H8O7.Mg/c7-3(8)1-6(13,5(11)12)2-4(9)10;/h13H,1-2H2,(H,7,8)(H,9,10)(H,11,12);/q;+2/p-2。其化学式为C₆H₆O₇Mg。
+
+氢氧化钙是一种食品添加剂。氢氧化钙也是一种粘结剂。氢氧化钙可能存在危险，例如氢氧化钙暴露。氢氧化钙的Canonical SMILES是[OH-].[OH-].[Ca+2]。氢氧化钙的InChI是InChI=1S/Ca.2H2O/h;2*1H2/q+2;;/p-2。氢氧化钙的化学式是CaH₂O₂。
+樟腦（naphthalene）有用途是樟腦丸。樟腦有危害是樟腦暴露。樟腦的SMILES表示式是C1=CC=C2C=CC=CC2=C1。樟腦的InChI表示式是InChI=1S/C10H8/c1-2-6-10-8-4-3-7-9(10)5-1/h1-8H。樟腦的化学式是C₁₀H₈。
+
+cocaine，用于医疗。其ATC代码为S02DA02。cocaine的规范SMILES表示为CN1C2CCC1C(C(C2)OC(=O)C3=CC=CC=C3)C(=O)OC。cocaine的InChI表示为InChI=1S/C17H21NO4/c1-18-12-8-9-13(18)15(17(20)21-2)14(10-12)22-16(19)11-6-4-3-5-7-11/h3-7,12-15H,8-10H2,1-2H3/t12-,13+,14-,15+/m0/s1。cocaine的化学式为C₁₇H₂₁NO₄。
+benzyl alcohol benzyl alcoholP03AX06C1=CC=C(C=C1)COInChI=1S/C7H8O/c8-6-7-4-2-1-3-5-7/h1-5,8H,6H2
+
+胍乙啶是一种医疗药物，用途是medication。其ATC代码是S01EX01。其canonical SMILES是C1CCCN(CCC1)CCN=C(N)N。其InChI是InChI=1S/C10H22N4/c11-10(12)13-6-9-14-7-4-2-1-3-5-8-14/h1-9H2,(H4,11,12,13)。其化学式是C₁₀H₂₂N₄。
+DDT，。DDT。DDT。DDT InChI1S/C14H9Cl5/c15-11-5-1-9(2-6-11)13(14(17,18)19)10-3-7-12(16)8-4-10/h1-8,13H。DDT。
+calcitriol的用途是药物。其ATC代码是D05AX03。其canonical SMILES是CC(CCCC(C)(C)O)C1CCC2C1(CCCC2=CC=C3CC(CC(C3=C)O)O)C。其InChI是InChI=1S/C27H44O3/c1-18(8-6-14-26(3,4)30)23-12-13-24-20(9-7-15-27(23,24)5)10-11-21-16-22(28)17-25(29)19(21)2/h10-11,18,22-25,28-30H,2,6-9,12-17H2,1,3-5H3/b20-10+,21-11-/t18-,22-,23-,24+,25+,27-/m1/s1。其化学式是C₂₇H₄₄O₃。
+aspirin用途是medication。aspirin的ATC代码是N02BA01。aspirin的canonical SMILES是CC(=O)OC1=CC=CC=C1C(=O)O。aspirin的化学式是C₉H₈O₄。
+
+
+
+L-menthol，。其SMILES表示式为CC1CCC(C(C1)O)C(C)C。其InChI表示式为InChI=1S/C10H20O/c1-7(2)9-5-4-8(3)6-10(9)11/h7-11H,4-6H2,1-3H3/t8-,9+,10-/m1/s1。其化学式为C₁₀H₂₀O。
+乙炔的用途是燃料。乙炔也与乙炔中毒有关。乙炔的InChI是InChI=1S/C2H2/c1-2/h1-2H。乙炔的化学式是乙炔（C₂H₂）.
+磷酸氫鈣是一种食品添加剂，其Canonical SMILES为OP(=O)([O-])[O-].[Ca+2]，InChI为InChI=1S/Ca.H3O4P/c;1-5(2,3)4/h;(H3,1,2,3,4)/q+2;/p-2，化学式为CaHPO₄。
+缬沙坦是一种医疗药物。其用途是medication。缬沙坦的canonical SMILES是CCCCC(=O)N(CC1=CC=C(C=C1)C2=CC=CC=C2C3=NNN=N3)C(C(C)C)C(=O)O。缬沙坦的InChI是InChI=1S/C24H29N5O3/c1-4-5-10-21(30)29(22(16(2)3)24(31)32)15-17-11-13-18(14-12-17)19-8-6-7-9-20(19)23-25-27-28-26-23/h6-9,11-14,16,22H,4-5,10,15H2,1-3H3,(H,31,32)(H,25,26,27,28)/t22-/m0/s1。缬沙坦的化学式是C₂₄H₂₉N₅O₃。
+
+叠氮化钠与危险相关，危险为叠氮化钠暴露。叠氮化钠的Kemler代码是60。叠氮化钠的化学式为NaN₃。
+
+
+
+氟乙酸的用途是滅鼠劑。其canonical SMILES为C(C(=O)O)F。其InChI为InChI=1S/C2H3FO2/c3-1-2(4)5/h1H2,(H,4,5)。
+
+溴酚藍是一種染料，其化學式為C₁₉H₁₀Br₄O₅S。它的用途包括染料和指示劑及試劑。
+
+
+
+乳糖醇是一种甜味剂，其化学式为C₁₂H₂₄O₁₁。
+氯化钾的用途包括医疗药物和食品添加剂。
+D-ribuloseInChI InChI=1S/C5H10O5/c6-1-3(8)5(10)4(9)2-7/h3,5-8,10H,1-2H2/t3-,5-/m1/s1D-ribuloseC₅H₁₀O₅
+
+cobaltous chlorideCl[Co]ClCl₂Co
+
+13
+鲁米诺的用途是指示剂和试剂。
+
+sodium methoxide
+碳酸氢铵的用途是酸度调节剂。
+N,N- Dimethylglycine
+1,4-
+
+
+毛里求斯的官方语言是法语。毛里求斯的不平等调整人类发展指数是0.666。毛里求斯的民主指数是8.14。毛里求斯的幸福星球指数是51.5。毛里求斯的官方名称是毛里求斯。毛里求斯的官方网站是http://www.govmu.org/。毛里求斯的官方语言也是英語。
+厄瓜多尔的不平等调整人类发展指数为0.604。厄瓜多尔的民主指数为5.71。厄瓜多尔的幸福星球指数得分为58.8。厄瓜多尔的官方名称是Republik Ekuador。厄瓜多尔的官方网站是http://www.turismo.gob.ec/。厄瓜多尔的官方语言包括舒爾語和奇曲瓦語。
+阿塞拜疆的官方语言是阿塞拜疆语。阿塞拜疆的不平等调整人类发展指数是0.685。阿塞拜疆的民主指数是2.68。阿塞拜疆的幸福星球指数是48。阿塞拜疆的官方名称是阿塞拜疆共和国。阿塞拜疆的官方网站是http://mfa.gov.az/en。阿塞拜疆的官方语言还包括阿塞拜疆手语。
+塞拉利昂的官方语言是英語。塞拉利昂的不平等调整人类发展指数是0.309。塞拉利昂的民主指数是4.86。塞拉利昂的快乐星球指数得分是29。塞拉利昂的官方名称是Repubblica della Sierra Leone。塞拉利昂的官方网站是https://statehouse.gov.sl/。塞拉利昂的官方语言也包括塞拉利昂克里奥尔语。
+北马其顿的官方语言是阿尔巴尼亚语。北马其顿的不平等调整人类发展指数是0.686。北马其顿的民主指数是5.89。北马其顿的快乐星球指数是43.9。北马其顿的官方名称是Республіка Північна Македонія。北马其顿的官方网站是https://vlada.mk/。北马其顿的官方语言是马其顿语。
+澳大利亚的官方语言是Auslan和澳大利亚英语。其不平等调整的人类发展指数为0.876。民主指数为8.85。幸福星球指数得分为43.1。官方名称为澳大利亚联邦。官方网站为https://www.australia.gov.au/。
+塞内加尔的官方语言是沃洛夫語。塞内加尔的人类发展指数（调整不平等）为0.354。塞内加尔的民主指数为5.67。塞内加尔的官方名称是塞内加尔共和国。塞内加尔的官方网站是https://www.sec.gouv.sn/。塞内加尔的官方语言还包括巴蘭塔語和Badyara。
+塔吉克斯坦的官方语言是俄語。塔吉克斯坦的人类发展指数（调整不平等）为0.599。塔吉克斯坦的民主指数为1.94。塔吉克斯坦的幸福星球指数得分为55.2。塔吉克斯坦的官方名称是塔吉克斯坦。塔吉克斯坦的官方语言是塔吉克语。
+加纳的官方语言是英语。加纳的不平等调整人类发展指数是0.458。加纳的民主指数是6.5。加纳的幸福星球指数是39.5。加纳的官方名称是加纳廷巴尼。加纳的官方网站是https://www.ghana.gov.gh/
+
+葛摩的官方语言是法语。葛摩的人类发展指数（调整不平等）为0.31。葛摩的民主指数为3.09。葛摩的幸福星球指数为42.4。葛摩的官方网站是https://beit-salam.km/。葛摩的官方语言也是科摩罗语。
+哥斯达黎加的官方语言是西班牙语。该国的不平等调整人类发展指数为0.664。民主指数为8.16。幸福星球指数得分为62.1。官方名称为 République du Costa Rica。官方网站为https://www.presidencia.go.cr/。
+不丹的官方语言是宗喀語。 不丹的不平等调整的人类发展指数是0.471。 不丹的民主指数是5.71。 不丹的快乐星球指数是36.7。 不丹的官方名称是不丹王国。 不丹的官方网站是http://www.bhutan.gov.bt。
+貝南的官方语言是法语。貝南的不平等调整人类发展指数是0.334。貝南的民主指数是4.58。貝南的幸福星球指数是41.4。貝南的官方名称是Beninská republika。貝南的官方网站是https://www.gouv.bj/。
+
+愛沙尼亞的官方语言是愛沙尼亞語。愛沙尼亞的不平等调整的人类发展指数是0.829。愛沙尼亞的民主指数是7.84。愛沙尼亞的官方名称是愛沙尼亞。愛沙尼亞的官方网站是https://valitsus.ee/。
+烏干達的不平等調整人類發展指數為0.396。烏干達的民主指數為4.94。烏干達的快樂星球指數得分為44.8。烏干達的官方名稱為烏干達。烏干達的官方语言為斯瓦希里語。
+委内瑞拉的官方语言是西班牙语。委内瑞拉的人类发展指数（调整不平等）为0.592。委内瑞拉的幸福星球指数得分为48.9。委内瑞拉的官方名称是玻利瓦尔共和国委内瑞拉。委内瑞拉的官方网站是https://mppre.gob.ve/。
+墨西哥的官方语言是西班牙语。墨西哥的官方名称是Meksiko Serikat。墨西哥的官方网站是https://www.gob.mx/。墨西哥的官方语言还有纳瓦特尔语和尤卡特克玛雅语。
+吉布提的不平等调整人类发展指数为0.309。吉布提的民主指数为2.71。吉布提的官方名称是吉布提共和国。吉布提的官方网站是https://www.presidence.dj/。吉布提的官方语言是阿拉伯语。
+菲律賓的不平等调整人类发展指数为0.574。菲律賓的贫困发生率为13.2。菲律賓的民主指数为6.62。菲律賓的官方名称是菲律賓。菲律賓的官方语言是菲律宾语。
+薩爾瓦多的官方语言是西班牙語。薩爾瓦多的不平等调整人类发展指数是0.548。薩爾瓦多的快乐星球指数是56.3。薩爾瓦多的官方名称是la République du Salvador。薩爾瓦多的官方网站是https://elsalvador.travel/en/。
+土耳其的官方语言是土耳其語。土耳其的民主指数是4.35。土耳其的Happy Planet Index分数是41.3。土耳其的官方网站是https://www.turkiye.gov.tr/。
+紐埃的官方语言是英語。紐埃的官方名称是紐埃。紐埃的官方网站是http://www.niueisland.com/。紐埃的官方语言也是纽埃语。
+蒙古國的人類發展指數（Inequality-adjusted Human Development Index）為0.644。蒙古國的民主指數（Democracy Index）為6.42。蒙古國的幸福星球指數（Happy Planet Index score）為24.5。蒙古國的官方名稱為ᠮᠤᠩᠭᠤᠯ ᠤᠯᠤᠰ（Mongolia）。
+
+、0.7513.3134.9
+阿爾巴尼亞的官方语言是阿爾巴尼亞語。阿爾巴尼亞的民主指数是6.11。阿爾巴尼亞的官方名称是阿爾巴尼亞。阿爾巴尼亞的官方网站是https://www.kryeministria.al/en/。
+
+
+Luxembourg 的 官方语言 是 Français。Luxembourg 的 贫困发生率 是 17.5。Luxembourg 的 民主指数 是 8.88。
+콩고 공화국은 공식 언어가 프랑스어입니다. 콩고 공화국의 민주지수는 3.11입니다. 콩고 공화국의 행복지수는 47.2입니다.
+卡塔尔的民主指数为3.65。其官方名称为l’État du Qatar。卡塔尔的官方网站是https://www.diwan.gov.qa/。
+哈萨克斯坦的Happy Planet Index评分为38.6。哈萨克斯坦的官方网站是https://www.gov.kz/。哈萨克斯坦的官方语言是哈萨克语。
+意大利王國的官方语言是意大利語。意大利王國的民主指数是7.74。意大利王國的官方名称是意大利。
+汶莱的官方名称是Negara Brunei Darussalam。汶莱的官方网站是https://www.gov.bn/SitePages/Home.aspx。汶莱的官方语言是Malay。
+突尼斯的官方语言是阿拉伯语。突尼斯的民主指数是6.59。突尼斯的官方名称是«突尼斯共和国»。
+阿魯巴的官方名称是阿魯巴。阿魯巴的官方网站是http://www.aruba.com/。阿魯巴的官方语言是帕皮阿门托语。
+斯洛文尼亞的官方语言是斯洛文尼亚语。斯洛文尼亞的Happy Planet Index评分是47.9。
+
+斯洛伐克的人类发展指数（调整不平等）为0.803，民主指数为6.97。
+安道尔的官方语言是加泰罗尼亚语。安道尔的官方名称是安道尔。
+匈牙利官方名称是「la Hongrie」，官方网站是https://www.kormany.hu/。
+奧匈帝國的官方语言是德语。奧匈帝國的人类发展指数（调整后的不平等指数）是0.851。
+帛琉的官方名称是帛琉。 帛琉的官方语言是日語。
+所罗门群岛的不平等调整人类发展指数为0.43。所罗门群岛的官方网站是https://solomons.gov.sb。
+智利的不平等调整人类发展指数是0.722。 智利的官方网站是https://www.thisischile.cl/?lang=en。
+大不列颠及爱尔兰联合王国的官方语言是英語。
+安提瓜和巴布达的官方语言是英語。
+瑞典的Happy Planet Index分数是50.5。
+
+ブラジル（Brazil）的官方语言是葡萄牙语（Portuguese）.
+加蓬的官方语言是法语。
+贊比亞的官方语言是英語。
+ Kosovonofficial language-Albanian
+波蘭的民主指数是6.85。
+7
+ESWC 2010隶属于学术研讨会，举办于希腊，使用语言为英语。该会议的入學率为0.2122。演讲嘉宾包括Sean Bechhofer、Aldo Gangemi和Noshir Contractor。
+ESWC 2019隶属于学术研讨会，举办于斯洛文尼亞。该会议的赞助者包括Information、Ontotext和IBM研究院。该会议的发言人是Diana Maynard。该会议的大學入學率为0.194。
+10th International Conference on Social Informatics10th International Conference on Social Informatics施普林格科学+商业媒体英語俄罗斯计算机协会Bettina BerendtHarith AlaniIngmar Weber
+CHI 2018隶属于学术研讨会，举办于加拿大。赞助者包括Google、雅虎公司和彭博有限合夥企業。演讲嘉宾有Christian Rudder和休·加德納。
+
+ASSA 2020 annual meeting隶属于学术研讨会，举办于美國。该会议的赞助者是Allied Social Sciences Association和美國經濟學會。会议的演讲嘉宾包括Cheryl Doss、Teresa Ghilarducci和本·伯南克。
+ESWC 2009隶属于学术研讨会，於希腊舉行，使用语言為英語。演讲嘉宾包括Craig Knoblock和Alan Smeaton。大學入學率為0.18。
+第17届国际语义网会议位于美國，使用语言为英語。会议的演讲嘉宾包括Vanessa Evers和Jennifer A. Golbeck。会议的赞助者包括metaphacts和汤森路透。
+第三届国际计算社会科学会议held in 德國。该会议的赞助者包括GESIS 萊布尼茲社會科學院、凱洛管理學院和賽吉出版公司。会议的演讲嘉宾有Emőke-Ágnes Horvát和Milena Tsvetkova。
+27thJoint 23rd滴滴出行赞助者。瑞典举办。Danica Kragic、扬·勒丘恩、馬克斯·鐵馬克担任演讲嘉宾。瑞典政府创新系统局也是赞助者。
+SWIB16隶属于学术研讨会，举行于德國，使用语言为英語。演讲嘉宾包括Olaf Janssen、Andromeda Yelton和Ivan Herman。
+LREC 2018隶属于学术研讨会，举办于日本，使用语言为英語。演讲嘉宾包括Charles Yang、冯雁、Yukinori Takubo。
+ESWC 2015英語為官方語言。Massimo Poesio、Lise Getoor、Viktor Mayer-Schönberger都是該會議的演講嘉賓。該會議的入學率為0.2276。ESWC 2015隶属于学术研讨会。
+Open Science in Action隶属于学术研讨会，于加拿大举行。演讲嘉宾包括Dylan Roskams-Edris、Edward A. Fon和Lucie Opatrny。
+2019「國家」为«美國»，«使用语言»为«英語»，演讲嘉宾有«丹尼·弗朗德西奇»、Joshua Shinavier 和 Alfio M. Gliozzo。
+15th International Conference of the Metabolomics Society荷蘭舉辦，使用语言為英語。該會議的演講嘉賓包括Joshua Denison Rabinowitz、Atsushi Fukushima和Michael Witting。
+
+TRAC 2004隶属于学术研讨会，举行于英国。演讲嘉宾包括Fabio Adriano Hering、Annette Frölich和Hilary Travis。
+第11届国际语义网会议在美國举行，由IBM和愛思唯爾赞助，该会议的发言人是Cristina Sarasua，大学入学率为0.4921。
+TRAC 2000隶属于学术研讨会，举办于英国。该会议的演讲嘉宾包括Kônstantina Katsarê、Shawn Graham和Kelly Spradley。
+2018Digital Humanities2018墨西哥。2018Benjamin Franklin Library。2018英語。2018Association for Computers and the Humanities。2018蓋爾。
+ERROR {\n    "full-text": "4„Dutch Bioinformatics & Systems Biology Conference„„„荷蘭。„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„„
+_'Our Aelred': Friendship, Leadership and Sainthood at Rievaulx Abbey'_._Alexandra Gajewski_._Elizabeth Freeman_._Stuart Harrison_.
+ESWC 2011隶属于学术研讨会，举办于希腊，使用语言为英语，大學入學率为0.2308。
+ESWC 2017,､25。,Cristina Sarasua。,Ontotext。,。
+CHI 2019隶属于学术研讨会，举行于英国，使用语言为英語，演讲者为亚力克·洛托斯基。
+14th International Symposium on Open Collaboration隶属于学术研讨会，该会议在法國举行。演讲嘉宾包括Ángel Obregón Sierra和R. Stuart Geiger。
+2019«Recent Advances in Natural Language Processing»«Sebastian Padó»«Kyunghyun Cho»«»
+「Telling Her Story: Women's History, Heritage and the Built Environment」隶属于学术研讨会，演讲嘉宾包括Jessica Malay、Rachel Delman和Karen Dempsey。
+33rd33rd Patrick HadleyLorna-Jane Richardson33rd
+22nd ACM Conference on Computer-Supported Cooperative Work and Social Computing«»«»。«»«»。«»«»。
+ESWC 2016隶属于学术研讨会，举办于希腊，大学入学率为0.212。
+20SIGDIAL瑞典举行，Mirella Lapata担任演讲嘉宾，这是一场学术研讨会。
+8.Workshop der AG CAA隶属于学术研讨会，地点在德國，使用语言为德语。
+国际维基百科科学会议在巴西举行。会议的演讲者包括Michael Peel和亞倫·哈爾法克。
+51Jacqueline VeningerKieran O'ConorJennifer L. Immich
+第15届国际语义网会议held in。该会议的赞助者包括日本广播协会和IBM。
+2019Claire MathieuDM
+28th USENIX Security Symposium, USENIX Security 2019, Santa Clara, CA,USA, 2019 8 14-16。
+2020«使用语言»为英語，演讲者为Janet Pierrehumbert。
+2006 UCSUbiquitous Computing Systems, Third International Symposium, UCS 2006, Seoul, Korea, October 11-13, 2006
+
+
+2019,2 Shivendra Singh
+1994«»使用语言为英語，隶属于学术研讨会。
+3Antoine BordesIBM
+2018年6月13-15日，Natural Language Processing and Information Systems - 23rd International Conference on Applications of Natural Language to Information Systems（NLDB 2018）举行于法國的巴黎，该会议的国家是法國。
+PAM 2017，，，30-31，2017，澳大利亚国家。
+ACM/IEEE Sixth International Conference on Cyber-Physical Systems, ICCPS 2015, Seattle, WA, USA, April 14-16, 2015
+SciDataCon 2018隶属于学术研讨会。
+2011年8月29日-9月2日，Electronic Government and the Information Systems Perspective - 第二国际会议，EGOVIS 2011，图卢兹，法國的国家是法國。
+2000Neural Information Processing Systems«»
+2018年9月4-7日，葡萄牙科英布拉举行的第11届信息和通信技术质量国际会议QUATIC 2018的国家是葡萄牙。
+2014年11月3-7日，ACM多媒体国际会议，MM '14，奥兰多，佛罗里达州，美國。
+Swatantra 2014隶属于学术研讨会。
+皮肤利什曼病可以用噴他脒治疗，也可以用氟康唑治疗。皮肤利什曼病的病因是热带利什曼原虫、Leishmania braziliensis和Leishmania aethiopica。皮肤利什曼病的症状和体征是皮膚潰瘍。皮肤利什曼病的人类最短潜伏期是2天。
+丙型肝炎可以使用聚乙二醇化干擾素-α-2a和索磷布韋/維帕他韋進行治療。丙型肝炎的發生位置在骨髓。丙型肝炎的成因是丙型肝炎病毒。丙型肝炎的症狀和徵象包括呕吐、肚痛和門脈高壓。
+、。用于治疗的药物或疗法是cefixime。其病因是Salmonella paratyphi B和Salmonella paratyphi C。该疾病的症状和体征包括疹、便秘和pharyngitis。
+馬鼻疽是一種兽医学和傳染病學的疾病。治療馬鼻疽可以使用妥布霉素或複方新諾明。馬鼻疽的症狀包括发热、膿瘡和脾腫大。
+Jamestown Canyon发热是一种传染病学疾病，其病因是Jamestown Canyon orthobunyavirus。其症状和体征包括发热、头痛。该疾病通过病原体传播。其人类最短潜伏期为2天，最长潜伏期为14天。
+鄂木斯克出血热是傳染病學的一種疾病，其病原體是鄂木斯克出血热病毒。症狀包括恶心、頭暈和疹。该疾病通过蜱虫传播。人类的最大潜伏期为4天。
+
+板口线虫病是传染病学的一种疾病，可以使用阿苯达唑或甲苯咪唑进行治疗。这种疾病是由美洲钩虫引起的感染所致。板口线虫病的症状包括腹部疼痛和腹瀉。
+
+丹毒可以使用苄青霉素、頭孢他啶或环丙沙星治疗。丹毒的症状包括發冷和发热。丹毒的人类最大潜伏期为4天。
+
+远东猩红热可以使用庆大霉素、培氟沙星、氨苄西林进行治疗。该疾病的症状和体征包括巴氏线。该疾病通过糞口傳播。该疾病的人类最大潜伏期为10天。
+出血热伴肾炎症可以使用富罗瑟米德(furosemide)和瑞巴韦林(ribavirin)治疗。出血热伴肾炎症影响血管。出血热伴肾炎症的成因是阿穆尔病毒(Amur virus)。出血热伴肾炎症的症状包括出血和內出血。
+
+類鼻疽可以使用阿莫西林/克拉維酸進行治療。類鼻疽也可以使用複方新諾明進行治療。類鼻疽的病因是類鼻疽伯克氏菌。類鼻疽的傳播方式是接触传播。類鼻疽的人類最短潛伏期是2天。類鼻疽的人類最長潛伏期也是2天。
+
+
+梅毒性脊髓炎是傳染病學的一種疾病，通常使用苄青霉素、糖皮质激素、頭孢曲松等藥物進行治療。該疾病的症狀包括勃起功能障碍和感覺過度敏感症。
+
+
+弯曲菌病的治疗方法包括使用阿奇霉素。弯曲菌病是由空腸曲狀桿菌或弯曲菌属引起的。弯曲菌病的潜伏期在人类体内至少需要1天，最长不超过7天。
+猩红热可以用大環內酯治疗，也可以用頭孢菌素治疗，还可以用萬古黴素治疗。猩红热的传播方式是通过飞沫传播。猩红热的人类最大潜伏期为5天。
+
+麻风病属于醫學專科传染病學。麻风病的症状和体征包括眼瞼閉合不全和肌肉萎縮。麻风病通过接触传播。麻风病在人体中的最大潜伏期为20年。
+埃博拉出血热是醫學專科传染病學的一种疾病，其病因是扎伊尔埃博拉病毒。该疾病的症状和体征包括內出血。埃博拉出血热的传播方式包括接触传播和血液接触传播病原体。
+黑热病（内脏利什曼病）可以使用美格鲁明治疗。此病影响骨骼和肝臟。黑热病的症状和体征包括心跳过速和贫血。
+巴氏杆菌病属于传染病学和兽医学领域。巴氏杆菌病的病因是Mannheimia haemolytica。巴氏杆菌病的症状和体征包括肺炎和发热。
+克里米亞-剛果出血熱可以使用皮質類固醇進行治療。克里米亞-剛果出血熱也可以使用抗体進行治療。克里米亞-剛果出血熱的症狀和體徵包括無尿症。克里米亞-剛果出血熱通過接触传播。克里米亞-剛果出血熱的人類最大潛伏期為14天。
+
+布里尔-津瑟病属于醫學專科传染病學。布里尔-津瑟病可以用氯霉素治疗。布里尔-津瑟病也可以用多西环素治疗。布里尔-津瑟病的成因是普氏立克次體。
+鞭虫病可以使用oxantel进行治疗。鞭虫病的成因是鞭蟲。鞭虫病的症状包括肚痛和腹瀉。
+
+
+
+乙型肝炎是傳染病學的一種醫學專科。乙型肝炎可以使用泰諾福韋進行治療。乙型肝炎的病因是乙型肝炎病毒。乙型肝炎的傳播途徑是通過血液接觸傳播病原體。
+结膜炎是眼科学和传染病的医疗专科。结膜炎可以使用诺氟沙星和罗美氟沙星进行治疗。
+ Siberian tick typhus. Siberian tick typhus. Siberian tick typhus 3. Siberian tick typhus 10.
+皮膚感染属于醫學專科皮肤病学。皮膚感染可以使用克林霉素治疗。皮膚感染也可以使用替卡西林治疗。皮膚感染还可以使用阿奇霉素治疗。
+
+
+
+丁型肝炎是醫學專科傳染病學的一部分，其病因是丁型肝炎病毒，症狀和徵象包括二重感染。
+豬流感可以使用奥司他韦治疗。豬流感的症状和体征包括呕吐和缺乏活力。
+8HHV8
+Dictyocaulus传染病學是兽医学和傳染病學的一個專科，該病的成因是感染。
+鼠毒症的治疗通常使用苄青霉素。鼠毒症的传播方式是接触传播。鼠毒症的人类最大潜伏期为60天。
+
+
+立克次氏体痘的症状和体征是疹。立克次氏体痘的传播方式是接触传播。
+裂頭絛蟲症的治療方法包括使用吡喹酮和叶酸。
+digital dermatitis
+頭蝨感染是傳染病學的一個醫學專科，症狀和體徵包括應激性。
+兔熱病可以使用鏈黴素進行治療，兔熱病的解剖位置是肺。
+ Vivax伯氨喹； Vivax鹵泛群。
+流行性乙型脑炎是醫學專科传染病學的一种疾病，可以使用新斯的明进行治疗。
+疱疹性咽峡炎是傳染病學的一種醫學專科，發生在口腔。
+
+heterophyiasis的解剖位置在脑。
+中枢神经系统感染属于神经学领域。
+
+肺炎鏈球菌感染的原因是肺炎鏈球菌。
+猪地方流行性肺炎的成因是豬肺炎支原體。
+霍亂的传播过程是水媒传播。
+ Fusariosis
+clonorchiasis
+California(encephalitis)«»
+1978斯诺克世界业余锦标赛是一项斯诺克运动。该锦标赛是一项锦标赛。斯诺克运动使用球杆球和斯诺克附件。1978斯诺克世界业余锦标赛有25名选手参加。该锦标赛采用循环赛制。国际台球及斯诺克联合会是该锦标赛的主办方。
+2019斯诺克英锦赛是一项斯诺克比赛。斯诺克是一种体育运动，使用球杆球和斯诺克附件。2019斯诺克英锦赛是一项排名赛，共有128名选手参加，采用单败淘汰制赛制。比赛由世界职业台球与斯诺克协会主办。
+2008 EBSA欧洲斯诺克锦标赛是一项斯诺克运动。该锦标赛是一项锦标赛。斯诺克运动使用斯诺克球和cue球。2008 EBSA欧洲斯诺克锦标赛有64名参赛选手，采用单败淘汰制赛制。该锦标赛由欧洲台球和斯诺克协会主办。
+2025年泛美洲羽毛球混合團體錦標賽是一項羽毛球錦標賽。羽毛球運動使用羽毛球拍。該錦標賽有9個參與隊伍，冠軍是加拿大國家羽毛球隊。該錦標賽採用循环赛形式，由泛美羽毛球聯合會主辦。
+1986IBSF斯诺克錦標賽是一项斯诺克运动赛事。该赛事是一项錦標賽，使用台球球杆和斯诺克附件。该赛事的获勝者是保羅·米夫蘇德。赛事采用单败淘汰制，主辦方是国际台球及斯诺克联合会。
+2016斯诺克 Shoot-Out是一项体育运动，属于斯诺克项目。这项比赛是一场邀请赛。斯诺克使用斯诺克附件、斯诺克球和白球。2016斯诺克 Shoot-Out的获胜者是Robin Hull。这项比赛采用单败淘汰制。
+1994 EBSA欧洲斯诺克锦标赛是一项斯诺克运动赛事。该赛事是一项锦标赛。斯诺克运动使用斯诺克附件和cue ball。1994 EBSA欧洲斯诺克锦标赛的获胜者是Danny Lathouwers。该赛事采用单败淘汰制赛制。欧洲台球斯诺克协会是该赛事的主办方。
+1986 UK Championship是一项斯诺克比赛。斯诺克使用台球球杆和cue ball。1986 UK Championship共有117名选手参加。史蒂夫·戴维斯获得了该项比赛的冠军。该比赛采用单败淘汰制赛制。世界职业台球与斯诺克协会是该项比赛的主办方。
+2017 Welsh Open 是一项斯诺克比赛。斯诺克使用球杆、球和斯诺克球。2017 Welsh Open 共有128名参赛选手，获胜者是史超活·冰咸。这项比赛由世界职业台球与斯诺克协会主办。
+2016 Pink Ribbon„„，15。„„。
+1994 Strachan Challenge – Event 1是一项斯诺克比赛。该比赛是一项邀请赛，共有217名选手参加。比赛采用单败淘汰制，冠军是Anthony Hamilton。斯诺克比赛使用球杆和球。
+2020年直布羅陀公開賽是一项斯诺克体育运动。斯诺克使用台球球杆和cue ball。2020年直布羅陀公開賽是一项排名锦标赛。朱德·特鲁姆普是2020年直布羅陀公開賽的獲勝者。世界职业台球与斯诺克协会是2020年直布羅陀公開賽的主辦方。
+2015 Pink Ribbon是斯诺克比赛。斯诺克使用台球球杆、斯诺克球和台球。2015 Pink Ribbon比赛有2名參與者，获胜者是罗尼·奥沙利文。
+1985UK Championship1985UK Championship105Steve Davis single-elimination tournamentWorld Professional Billiards and Snooker Association
+2021EBSA斯诺克欧洲锦标赛是一项斯诺克运动。斯诺克使用斯诺克附件和斯诺克球。2021EBSA斯诺克欧洲锦标赛有120名参赛选手，采用单败淘汰制赛制。该赛事由欧洲台球斯诺克协会主办。
+2000 Welsh Open 是一项斯诺克比赛。斯诺克使用球杆和球。2000 Welsh Open 的獲勝者是约翰·希金斯。这项比赛采用单败淘汰制。世界职业台球与斯诺克协会是该比赛的主辦方。
+1994 Strachan Challenge – Event 2是斯诺克体育运动的一个邀请赛。斯诺克使用球杆、斯诺克附件和台球。1994 Strachan Challenge – Event 2采用单败淘汰制的比赛格式。
+1966斯诺克世界业余錦標賽是一项斯诺克运动。该錦標賽是一项錦標賽。斯诺克运动使用斯诺克附件和球杆球。1966斯诺克世界业余錦標賽的獲勝者是加里·欧文。这项錦標賽采用循环赛的赛制。
+2021Players Championship16约翰·希金斯单败淘汰制世界职业台球与斯诺克协会
+2019 EBSA錦標賽是一項錦標賽，共有125名參與者。獲勝者是Kacper Filipiak。该比赛采用单败淘汰制。比赛的主辦方是European Billiards and Snooker Association。
+2012年司諾克上海大師賽是一項斯诺克運動。這是一項排名賽事。共有136名選手參與。獲勝者是约翰·希金斯。這項賽事由世界职业台球与斯诺克协会主辦。
+2002年英国锦标赛是一场排名锦标赛，參與數量为128人。获勝者是马克·威廉姆斯。这场锦标赛采用单败淘汰制，主辦方是世界职业台球与斯诺克协会。
+2001British Open2001British OpenrankingJohn Higginssingle-elimination tournamentsnookerball
+2018 EBSA錦標賽是一項錦標賽，共有84名參與者。獲勝者是Jackson Page。比赛采用单败淘汰制。该比赛由European Billiards and Snooker Association主辦。
+2005ACBS錦標賽是一個錦標賽，參與數量為16人。獲勝者是金龙。该錦標賽采用单败淘汰制。主辦方是亚洲台球联合会。
+2021EBSA64。获胜者是Ben Mertens。该比赛采用单败淘汰制。主办方是European Billiards and Snooker Association和Federação Portuguesa de Bilhar。
+2019年直布羅陀公開賽是一项斯诺克运动。该赛事是一项排名赛事。史超活·冰咸是该赛事的獲勝者。该赛事采用单败淘汰制赛制。世界职业台球与斯诺克协会是该赛事的主辦方。
+2000,128。罗尼·奥沙利文。单败淘汰制。世界职业台球与斯诺克协会。
+2008斯诺克大师赛是一项斯诺克体育运动，属于邀请赛。斯诺克使用斯诺克球。在2008斯诺克大师赛中，有18名參與者。
+2017 Pink Ribbon„„，14。„„。
+2013Paul Hunter Classic斯诺克比赛。斯诺克使用台球球杆。2013 Paul Hunter Classic有228名參與選手。比赛采用单败淘汰制。
+1990ACBS9錦標賽，采用单败淘汰制，由亚洲台球联合会主辦方。
+2016 Champion of Champions„„。2016 Champion of Champions16。„„。
+2025世界大奖赛是一项排名赛，獲勝者是尼爾·羅伯森。这项赛事采用单败淘汰制，主辦方是世界职业台球与斯诺克协会。
+1988 Norwich Union Grand Prix1988snooker史蒂夫·戴维斯。斯诺克cue ballsnooker ball。
+2012German Masters2012ranking tournament106罗尼·奥沙利文
+2010Paul Hunter Classic斯诺克。斯诺克使用球杆球和斯诺克球。2010Paul Hunter Classic的主辦方是世界职业台球与斯诺克协会。
+2011年德国大师赛是一项斯诺克体育运动。斯诺克使用斯诺克球和斯诺克附件。2011年德国大师赛采用单败淘汰制。
+1995 British Open的獲勝者是约翰·希金斯，该比赛采用单败淘汰制，主辦方是世界职业台球与斯诺克协会。
+1988ABSF24詹姆斯·瓦塔纳。
+2008 PIOS - Event 1,
+1999British Open(I)single-elimination tournament,Fergal·O'Brien
+2015 Snooker Shoot-Out64。獲勝者為迈克尔·怀特。该比赛采用单败淘汰制。
+2022World Seniors Championship2022World Seniors ChampionshipLee Walker
+2022年司諾克英國錦標賽的參與數量是144人。馬克·艾倫是該賽事的獲勝者。世界职业台球与斯诺克协会是該賽事的主辦方。
+1978 Masters是斯诺克体育运动。斯诺克使用斯诺克附件。1978 Masters的主辦方是世界职业台球与斯诺克协会。
+1981 Scottish Professional Championship錦標賽，參與數量為8，采用单败淘汰制賽制。
+2014Australian Goldfields Open2014snooker130
+1980UK Championship«斯诺克»。斯诺克使用«台球球杆»。
+2025German Masters128Kyren Wilson
+2000 British Open 是一项斯诺克比赛。斯诺克使用球杆球。
+2014 Paul Hunter Classic是斯诺克比赛。斯诺克使用球杆球。
+2012 EBSA80single-elimination tournament
+2006 PIOS - Event 1
+2007 PIOS - Event 1„tournament type“„qualification tournament“。2007 PIOS - Event 1„獲勝者“Simon Bedford。
+1994威尔士公开赛的体育运动是斯诺克。斯诺克使用球杆球。
+1999斯诺克欧洲锦标赛是体育运动斯诺克。斯诺克使用斯诺克球。
+2010
+1991Pontins Autumn Open
+2009年英国锦标赛是斯诺克的一种体育运动。
+1993 UK Championship
+2005斯诺克大师赛是斯诺克的一种体育运动。
+1991ACBS
+1997
+1988 Scottish Professional Championship錦標賽
+2010 ACBS
+雷切尔·布莱斯是一名美國舞者和編舞家，她的舞蹈風格是肚皮舞。肚皮舞起源於阿拉伯世界和中东，創立時間約於公元前5000年1月1日。
+萨菲纳兹是亚美尼亚、俄罗斯和埃及的肚皮舞舞者。肚皮舞的起源于阿拉伯世界和中东，肚皮舞的历史可以追溯到公元前5000年1月1日。
+安妮塔·贝伯是一名德意志帝國和魏瑪共和国的豔舞舞者，她的工作领域包括劇場藝術、舞蹈和演技。
+Shantae是一名肚皮舞舞者，隶属于虚构作品中的精灵角色，也是一名视频游戏角色。她的职业是舞者，出现在作品《Shantae》中。肚皮舞的起源地是中东，始于公元前5000年1月1日。
+卡蒂·沃茨基斯（Katie Voutsakis）是一名肚皮舞舞者，拥有希腊和埃及雙國籍。肚皮舞是一种起源于阿拉伯世界和中东的舞蹈，始创于公元前5000年1月1日。
+布魯諾是一名華爾茲舞舞者，也是一名文学角色和电影角色。他拥有意大利社会共和国國籍。在作品《索多姆120天》和《索多姆，或者120天》中登場。華爾茲舞的拍子是3/4。
+路易丝·弗雷维特是一名丹麥王國的肚皮舞者、芭蕾舞者和編舞家。她擅長肚皮舞。肚皮舞起源於阿拉伯世界和中东。
+安東·杜·貝克是一名英国國籍的舞者和編舞家，擅長社交舞。他在舞蹈、電視節目和音樂領域工作。
+ Nejla Ateş肚皮舞者，國籍為土耳其和羅馬尼亞。肚皮舞的起源於阿拉伯世界和中东，創立時間為-5000年1月1日。
+迪德姆是一名土耳其籍舞者，擅長肚皮舞。肚皮舞起源於阿拉伯世界和中东地區，肚皮舞的歷史可以追溯到公元前5000年1月1日。
+萨尔玛·海耶克擅长肚皮舞。萨尔玛·海耶克拥有法国、墨西哥和美國國籍。肚皮舞的原產地是阿拉伯世界和中东。
+Aïché Nana是一名肚皮舞舞者，拥有意大利王國、黎巴嫩双国籍。肚皮舞起源于阿拉伯世界。
+Ighraa肚皮舞舞者，國籍敘利亞。肚皮舞的起源時間是公元前5000年1月1日，原產地是阿拉伯世界和中东。
+Alexandre Paulikevitch肚皮舞舞者，黎巴嫩國籍。肚皮舞的起源時間是公元前5000年1月1日，起源地是阿拉伯世界和中东。
+卡迪·B是一名美國豔舞舞者，其工作领域包括嘻哈音樂、饒舌和音樂。
+Zoe Jakes是一名美國肚皮舞舞者。肚皮舞起源於阿拉伯世界和中东，始於公元前5000年1月1日。
+Zouba El-Klobatiyya,EgyptSultanate of Egypt,EgyptKingdom of Egypt,EgyptRepublic of Egypt,,baladi,,
+塞雷娜·威尔逊是一名肚皮舞舞者，拥有美國國籍。肚皮舞的起源可以追溯到公元前5000年1月1日，来自阿拉伯世界和中东。
+斯坦利·多南的舞蹈风格是踢踏舞。斯坦利·多南的职业是舞者。斯坦利·多南的职业是編舞家。斯坦利·多南的工作领域是舞蹈。斯坦利·多南的工作领域是电影执导。
+Jamileh是一名肚皮舞舞者，國籍是伊朗。Jamileh的职业是舞者。肚皮舞的成立或建立時間是公元前5000年1月1日，原產地是中东。
+南希·卡拉汉是一名豔舞舞者，隶属于电影角色和漫画角色。她是美國國籍的。她登场作品包括《萬惡城市2：紅顏奪命》。
+佩吉·斯賓塞是一名英国舞者，擅長社交舞。她的國籍是英国，也是大不列颠及爱尔兰联合王国的公民。她不僅是一名舞者，還是一名編舞家。
+Dany Bustros是一名肚皮舞舞者，國籍是黎巴嫩。他是一名舞者。肚皮舞的起源時間是公元前5000年1月1日，原產地是阿拉伯世界。
+Mousbah Baalbaki是一名肚皮舞舞者。肚皮舞的起源时间是公元前5000年1月1日，来自阿拉伯世界和中东。
+埃斯特尔·阿斯莫德尔(Estelle Asmodelle)是一名澳大利亚國籍的肚皮舞舞者。肚皮舞的起源時間是公元前5000年1月1日，来自阿拉伯世界和中东。
+美雅的舞蹈風格是踢踏舞。美雅的國籍是美國。美雅的职业是舞者。美雅的职业是編舞家。美雅的工作领域是作曲。
+茱莉安哈克是一名美國舞者，擅長社交舞。茱莉安哈克也是一名編舞家和演員，主要從事演技工作。
+沙基拉的舞蹈風格是肚皮舞。沙基拉的國籍是哥倫比亞。肚皮舞的成立或建立時間是公元前5000年1月1日。肚皮舞的原產地是阿拉伯世界。肚皮舞的原產地是中东。
+Sally Mursi肚皮舞舞者。Sally Mursi的國籍是埃及。肚皮舞的原產地是阿拉伯世界和中东。
+Victor Kanevsky是一名社交舞舞者，曾拥有蘇聯和美國國籍，同时他还是一名編舞家。
+Vartika Jha India,dancer,choreographer
+Kini Kapahu草裙舞舞者，美國國籍，也是夏威夷王國國籍。
+皮耶·杜蘭是社交舞舞者，擁有愛爾蘭共和國和約旦國籍。
+让-马克·格涅鲁是一名社交舞舞者，拥有加拿大國籍。他同时也是編舞家。
+Anna Janeczko社交舞舞风格，她的國籍是波蘭，她的工作领域是油菜素類固醇和农学。
+Kevin Clifton是一名英国的社交舞舞者和編舞家。
+小猫娜提雅维达是一名墨西哥國籍的舞者，她的舞风格是豔舞。她也从事演技工作。
+Edna Deane是一名英国的社交舞舞者和編舞家。
+Nadia Gamal的舞蹈风格是肚皮舞。肚皮舞的原產地是阿拉伯世界。肚皮舞的原產地也是中东。
+Charles Castle是英国的踢踏舞舞者。
+馬蒂·尼凱寧的舞風是豔舞，他的國籍是芬蘭，他的工作领域是跳台滑雪。
+
+La Goony Chonga豔舞风格，國籍為美國，职业为舞者。
+Alec Mazo社交舞舞者，國籍為美國。
+Karen和Marcus Hilton是一对夫婦，二人組，擅長社交舞。
+Suga Pop MACHINE,NEW Zealand,PROFESSION
+
+Corky Ballas是社交舞舞者，國籍是美國，职业是編舞家。
+Harm Agteresch是踢踏舞舞者，也是荷兰王国國籍。
+Jade Above的舞蹈風格是浩室音樂，浩室音樂的原產地是美國。
+Badia Masabni的舞蹈风格是肚皮舞。肚皮舞的原產地是阿拉伯世界。
+Caity Brown street
+Jose DeCamps 是一名社交舞舞者。
+Charles Albert Bridges III„社交舞“。Charles Albert Bridges III的國籍是美國。
+Henry "Crip" Heard 是一名踢踏舞舞者。
+Hanna Rún Óladóttir 社交舞风格，职业是舞者。
+ Jared Murillo社交舞。Jared Murillo的國籍是美國。
+洛娃·摩尔的舞蹈风格是豔舞。
+纳迪亚·阿卜杜·勒·弗拉加的舞蹈风格是肚皮舞。
+Ervinas Merfeldas的舞蹈风格是社交舞。
+
+Jake Pavelka的舞风格是豔舞。
+Jonathan Roberts的舞蹈风格是社交舞。
+Maurizio Benenato
+精靈的舞蹈風格是豔舞。
+Alex Da Silva

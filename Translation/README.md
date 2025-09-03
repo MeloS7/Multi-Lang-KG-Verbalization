@@ -2,7 +2,7 @@
 
 
 ## Text Translation
-In this folder, you can find the usage of the following Machine Translation models that we tested in our paper:
+In this folder, you can find the usage of the following Machine Translation (MT) models that we tested in our paper:
 - m2m:
     - facebook/nllb-200-distilled-600M
     - facebook/nllb-200-3.3B

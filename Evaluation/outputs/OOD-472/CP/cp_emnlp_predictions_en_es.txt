@@ -1,0 +1,472 @@
+es el nombre oficial de Jeju Air que se encuentra en Corea del Sur. Tiene el indicativo de JEJU AIR y su sitio web oficial es http://www.jejuair.net. La designación IATA para Jeju Air es 7C y la designación OACI es JJA. El código contable de la aerolínea es 806 y su designación IATA es 7C.
+Cathay Pacific se encuentra en la República Popular de China y su sitio web oficial es https://www.cathaypacific.com. La designación IATA de la aerolínea es CX y el designador de la OACI es CPA. La señal de llamada de la aerolínea es CATHAY y su código contable es 160.
+Bulgaria Air, con la designación IATA FB, tiene el indicativo de FLYING BULGARIA. Su nombre oficial es  Ł“ y su sitio web oficial es http://www.air.bg/en/. Su código contable es 623.
+Pakistan International Airlines se encuentra en Pakistán y tiene el nombre oficial de s y el sitio web oficial en https://www.piac.com.pk/. La designación de la aerolínea de la OACI para Pakistan International Airlines es PIA. El código contable de la aerolínea es 214 y su indicativo de llamada es PAKISTÁN.
+Vanilla Air (nombre oficial ) es de Japón y tiene el código contable 842. La designación IATA es JW y la designación OACI es VNL.
+'' es el nombre oficial de ''. EL AL Israel Airlines Ltd. se encuentra en Israel y tiene el indicativo de llamada de ELAL. La designación de la IATA para la aerolínea es LY y el código contable es 114.
+LUFTHANSA es el indicativo de Lufthansa que se encuentra en Alemania. Su sitio web oficial es https://www.lufthansa.com/de/de/. El código contable de la aerolínea es 220.
+CSA-LINES es el indicativo de Czech Airlines que se encuentra en la República Checa. Su código IATA es OK y su código contable es 064.
+AF es la designación de la compañía aérea IATA para Air France que se encuentra en Francia y tiene el código contable 057.
+Brussels Airlines, con el indicativo BEELINE, se encuentra en Bélgica y tiene el código contable 082.
+El código Kemler del etanol es 33, el código ATC es D08AX08, el SMILES canónico es CCO, la fórmula química es C2H6O, en Ch I es InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3 y se utiliza como disolvente.
+El código Kemler de fenol es 60 y su código ATC es R02AA19. Tiene los siguientes SMILES canónicos: C1=CC=C(C=C1)O, InChI=1S/C6H6O/c7-6-4-2-1-3-5-6/h1-5,7H y se utiliza como medicamento.
+El código ATC de óxido de magnesio es A02AA02 y tiene los SMILES canónicos de O=[Mg]. Tiene la fórmula química de MgO y se utiliza como aditivo alimentario.
+El código ATC de dióxido de carbono (CO2) es V03AN02. Tiene los SMILES canónicos de C(=O)=O. Tiene el inChI=1S/CO2/c2-1-3 y se utiliza como refrigerante.
+D08AX05 es el código ATC de alcohol isopropílico que tiene los SMILES canónicos de CC(C)O. La fórmula química del alcohol isopropílico es C3H8O y se utiliza como desinfectante. En Ch I es InChI=1S/C3H8O/c1-3(2)4/h3-4H,1-2H3.
+L01AA05 es el código ATC de mecloretamina, que tiene los SMILES canónicos de CN(CCCI)CCCl. La fórmula química de mecloretamina es C5H11Cl2N y se utiliza como agente blister.
+D11AX11 es el código ATC de hidroquinona que tiene la fórmula química de C6H6O2 y es un agente reductor. La hidroquinona es un peligro asociado con la exposición a la hidroquinona.
+D08AX05 es el código ATC de alcohol isopropílico que tiene los SMILES canónicos de CC(C)O y se utiliza como insecticida. La fórmula química del alcohol isopropílico es C3H8O.
+A06AG04 es el código ATC de glicerol que es un humectante y tiene los SMILES canónicos de C(C(CO)O)O.
+La estricnina tiene el código de Kemler 66 y se utiliza como adúltera. Su fórmula química es C21H22N2O2.
+ESWC 2023 está en Grecia y es patrocinado por VideoLectures.net. Dieter Fensel es el orador de ESWC 2023. El idioma inglés se utiliza en el ESWC 2023 que tiene 41 contribuciones aceptadas y 167 presentaciones. La tasa de admisión es 0.1939.
+Gerhard Weikum es el orador en la 22a Conferencia Internacional Semántica Web en Grecia. La 22a Conferencia Internacional Semántica Web es patrocinada por Ontotext. La 22a Conferencia Internacional Semántica Web es en inglés y tiene 411 presentaciones. La 22a Conferencia Internacional Semántica Web tiene una tasa de admisión de 0,194 y 33 contribuciones fueron aceptadas.
+El Instituto de Innovación Tecnológica es el patrocinador de la Web Conference 2024 en Singapur. La Web Conference 2024 utiliza el idioma inglés y tiene 405 presentaciones en 2008. Jon Kleinberg es el orador de la Web Conference 2024.
+Lora Aroyo es la oradora de Neural Information Processing Systems 2023 que se encuentra en los Estados Unidos de América. El idioma de los Neural Information Processing Systems 2023 es el inglés. El número de contribuciones aceptadas es 3540 y el número de presentaciones es 13330. La tasa de admisión es 0,261.
+La Conferencia Internacional Conjunta 2024 sobre Lingüística Computacional, Recursos Lingüísticos y Evaluación está en Italia y utiliza el inglés. Tiene una tasa de admisión de 0,52, un número de contribuciones aceptadas de 1556 y 3471 presentaciones.
+La 5a Conferencia Internacional sobre Interfaces de Usuario Conversacional está en los Países Bajos y utiliza el inglés como su idioma. Tiene un número de presentaciones de 60 y una tasa de admisión de 0.367. Hay 22 contribuciones aceptadas y la 5a Conferencia Internacional sobre Interfaces de Usuario Conversacional tiene un número de presentaciones de 22.
+En Turke se celebró la 31a Conferencia internacional anual sobre el turismo electrónico, cuyo idioma es el inglés y se presentaron 75 comunicaciones. Se aceptaron 46 contribuciones.
+Johan Bos es el ponente en la Conferencia 2018 sobre Métodos Empíricos en el Procesamiento de Lenguas Naturales en Bélgica. La conferencia contó con 351 contribuciones aceptadas y 2231 presentaciones.
+Patrocinada por Google, la Conferencia 2023 sobre Factores Humanos en la Computación se encuentra en Alemania y utiliza el idioma inglés.
+La Trigésima Cuarta Conferencia de la AAAI sobre Inteligencia Artificial está en los Estados Unidos de América y en inglés. Tiene una tasa de admisión de 0,24.
+es el nombre oficial de Jeju Air que se encuentra en Corea del Sur y tiene el sitio web oficial en http://www.jejuair.net. El código contable de la aerolínea es 806 y la designación IATA es 7C. La designación de la OACI es JJA. Corea del Sur tiene una tasa de suicidio de 21,2, un índice de desarrollo humano ajustado a la desigualdad de 0,838 y un índice de Happy Planet de 39.8.
+El sitio web oficial de Cathay Pacific es https://www.cathaypacific.com y se encuentra en la República Popular de China. El índice de desarrollo humano ajustado a la desigualdad del país es 0,651, el índice de democracia es 2,21 y el índice del planeta feliz es 41,9. El nombre oficial de la aerolínea es y su código contable es 160. La designación de la IATA es CX y el designador de la OACI es CPA.
+Bulgaria Air se encuentra en Bulgaria y tiene el nombre oficial de  Ł“. Su sitio web oficial es http://www.air.bg/en/. Su indicativo de llamada es FLYING BULGARIA. El designator de aerolíneas IATA para Bulgaria es FB. El índice de desarrollo humano ajustado a la desigualdad es 0,701 y el índice de Happy Planet es 40.1. Tiene una tasa de suicidio de 6.5.
+Pakistan International Airlines tiene el nombre oficial de s y su sitio web oficial es https://www.piac.com.pk/. Se encuentra en Pakistán y tiene la señal de llamada de PAKISTÁN. El designador de aerolíneas de la OACI para Pakistán es PIA. Pakistán tiene un índice de desarrollo humano ajustado a la desigualdad de 0,38 y una puntuación del índice Happy Planet de 45.1.
+Vanilla Air, con el código de contabilidad 842, se encuentra en Japón y tiene el nombre oficial de. La tasa de suicidio del país es de 14,6 y el índice de desarrollo humano ajustado a la desigualdad es de 0,85. La puntuación del índice del planeta feliz del país es 47.1.
+'' es el nombre oficial de Israel, donde la tasa de suicidio es de 5.2 y la puntuación del índice de Happy Planet es de 48.2. El país es el hogar de EL AL Israel Airlines Ltd. que tiene la señal de llamada de ELAL.
+LUFTHANSA es el indicativo de Lufthansa que se encuentra en Alemania. Su sitio web oficial es https://www.lufthansa.com/de/de/. El nombre oficial del país es Bundesrepublik Deutschland. El país tiene una tasa de suicidio de 8,3, un índice de desarrollo humano ajustado a la desigualdad de 0,883, una puntuación del índice del planeta feliz de 52,7 y un índice de desarrollo humano ajustado a la desigualdad de 0,883.
+La República Checa es conocida como eská republika y tiene el sitio web oficial en https://www.czechia.eu. El país tiene una tasa de suicidio de 9,5 y un índice de desarrollo humano ajustado a la desigualdad de 7,67. El país es el hogar de Czech Airlines que tiene la designación de OK IATA y el indicativo de CSA-LINES. El código de contabilidad de la aerolínea del país es 064 y tiene la designación de OK IATA.
+El nombre oficial del país es République française y tiene el sitio web oficial en https://www.service-public.fr/. La tasa de suicidio es de 9,7 y el índice de desarrollo humano ajustado a la desigualdad es de 0,825. La puntuación del índice Happy Planet es de 51,8 y el índice de desarrollo humano ajustado a la desigualdad es de 0,825.
+El nombre oficial de Bélgica es Koninkrijk Belgi y su sitio web oficial es https://www.belgium.be/. El país tiene una tasa de suicidio de 20.7, un índice de desarrollo humano ajustado a la desigualdad de 0,874, un índice de Happy Planet 42,5 y una tasa de suicidio de 20.7. Brussels Airlines tiene el código contable 082 y el indicativo BEELINE.
+Corea del Sur tiene una tasa de suicidio de 21,2, un índice de desarrollo humano ajustado a la desigualdad de 0,838 y un índice de planeta feliz de 39,8.
+La República Popular China tiene un índice de desarrollo humano ajustado a la desigualdad de 0,651, un índice de democracia de 2,21 y un índice de planeta feliz de 41,9.
+Bulgaria tiene una tasa de suicidio de 6,5, un índice de desarrollo humano ajustado a la desigualdad de 0,701, un índice de democracia de 6,71 y un índice de planeta feliz de 40,1.
+El Pakistán tiene una tasa de suicidio de 9,8, un índice de desarrollo humano ajustado a la desigualdad de 0,38, un índice de democracia de 4,31 y un índice de planeta feliz de 45,1.
+El nombre oficial de Japón es. Tiene una tasa de suicidio de 14,6, un índice de desarrollo humano ajustado a la desigualdad de 0,85, un índice de democracia de 8,15 y un índice de planeta feliz de 47,1.
+El nombre oficial de Israel es y tiene una tasa de suicidio de 5.2. Tiene un índice de desarrollo humano ajustado a la desigualdad de 0,815, un índice de democracia de 7,97 y un índice de planeta feliz de 48,2.
+El nombre oficial de Alemania es Bundesrepublik Deutschland. Tiene un índice de desarrollo humano ajustado a la desigualdad de 0,883, un índice de planeta feliz de 52.7, una tasa de suicidio de 8,3 y una incidencia de pobreza de 16.
+El nombre oficial de la República Checa es eská republika. Tiene un sitio web oficial llamado https://www.czechia.eu/. Tiene un índice de desarrollo humano ajustado a la desigualdad de 0,85, un índice de democracia de 7,67 y un índice del Planeta Feliz de 46,8. Tiene una tasa de suicidio de 9,5.
+El sitio web oficial de Francia es https://www.service-public.fr/. Tiene un índice de desarrollo humano ajustado a la desigualdad de 0,825, un índice de desarrollo humano ajustado a la desigualdad de 0,825, una tasa de suicidio de 9,7, una incidencia de pobreza de 13,6 y una puntuación del índice de planeta feliz de 51,8.
+El nombre oficial de Bélgica es Koninkrijk Belgi y su sitio web oficial es https://www.belgium.be/. Tiene un índice de desarrollo humano ajustado a la desigualdad de 0,874, una tasa de suicidio de 20,7, una incidencia de pobreza de 13,1 y una puntuación del índice Happy Planet de 42,5.
+El Koninklijke Luchtvaart Maatschappij N.V. es el nombre oficial de KLM que se encuentra en los Países Bajos. La designación de la IATA para la aerolínea es KL, la designación de la OACI es KLM y el código contable es 074. El sitio web oficial de KLM es http://www.klm.com.
+Arik Air se encuentra en Nigeria y tiene el sitio web oficial http://www.arikair.com/. El nombre oficial de la aerolínea es ARIK y tiene el indicativo de llamada de ARIK. La designación IATA es W3 y la designación OACI es ARA. El código contable de la aerolínea es 725.
+Finnair Oyj es el nombre oficial de Finnair, que se encuentra en Finlandia. Su sitio web oficial es https://www.finnair.com/. Tiene el indicativo de FINNAIR y la designación IATA de AY y la designación OACI de FIN. El código contable de la aerolínea es 105.
+AIR NEW ZELAND LIMITED es el nombre oficial de Air New Zealand que se encuentra en Nueva Zelanda. La designación IATA de Air New Zealand es NZ y la designación OACI es ANZ. El código contable de la aerolínea es 086 y su sitio web oficial es https://www.airnewzealand.com.
+NAS EXPRESS es el indicativo de Nas Air que se encuentra en Arabia Saudita. Su sitio web oficial es http://www.flynas.com. La designación IATA de Nas Air es XY y su designación OACI es KNE. El código contable de la aerolínea es 593.
+Dana Air se encuentra en Nigeria y tiene el sitio web oficial en http://www.flydanaair.com. El código IATA de Dana Air es 9J, su código contable es 234 y su designación de la OACI es DAN. Dana Air's callsign es DANACO y su designación de la OACI es DAN.
+Zhejiang Loong Airlines Company Limited se encuentra en China y su sitio web oficial es http://www.loongair.cn. Loong Air tiene el código contable 891, el indicativo de llamada de la aerolínea es HUALONG, la designación IATA es GJ y la designación OACI es CDC.
+HORIZON AIR es la señal de llamada de la aerolínea Horizon Air que se encuentra en los Estados Unidos. Su código contable es 481 y su sitio web oficial es http://www.horizonair.com/. La designación de la aerolínea IATA para Horizon Air es QX y la designación de la aerolínea OACI es QXE.
+Situado en Portugal, el sitio web oficial de Hi Fly es http://www.hifly.aero/en/. El indicativo de Hi Fly es SKY FLYER. Su código IATA es 5K, su designación OACI es HFY y su código contable es 026.
+Seaborne Airlines se encuentra en los Estados Unidos y tiene el sitio web oficial en http://www.seaborneairlines.com/. La señal de llamada de la aerolínea es SEABORNE y el código contable es 376. La designación IATA es BB y la designación OACI es SBS.
+Safair se encuentra en Sudáfrica y tiene el sitio web oficial http://www.safairoperations.com/. Su código contable es 640, su indicativo es CARGO, su designación IATA es FA y su designación OACI es SFR.
+Asiana Airlines, Inc. se encuentra en Corea del Sur y tiene el sitio web oficial en https://www.flyasiana.com. Asiana Airlines tiene el código contable 988, el designator IATA es OZ y el designator OACI es AAR.
+Turkish Airlines se encuentra en Turquía y tiene el nombre oficial de Türk Hava Yollar. El sitio web oficial de Turkish Airlines es https://www.turkishairlines.com/. El indicativo de la aerolínea es TURKISH y la designación IATA es TK. La designación OACI es THY.
+Chalair Aviation tiene el nombre oficial de CHALAIR AVIATION y su sitio web oficial es https://www.chalair.fr/. Su indicativo es CHALLAIR y su código contable es 980. La designación de la IATA para la aerolínea es CE y la designación de la OACI es CLG.
+LATAM Cargo Chile se encuentra en Chile y tiene el indicativo de LAN CARGO. El código contable de la aerolínea es 145, la designación IATA es UC y la designación OACI es LCO.
+TARONAVIA es el indicativo de Taron Avia que tiene el sitio web oficial en http://taron-avia.am/en. Tienen el código contable 379, la designación IATA H7 y la designación OACI TRV.
+Situado en Rusia, Globus tiene un código contable de 674, una designación IATA de GH y una designación OACI de GLP. El sitio web oficial de Globus es http://www.s7.ru.
+Middle East Airlines - El sitio web oficial de Air Liban es https://www.mea.com.lb/ y tiene el indicativo de CEDAR JET. La designación IATA de la aerolínea es ME y la designación OACI es MEA. El código contable de la aerolínea es 076.
+TURISMO REGIONAL es el indicativo de Air Panama que se encuentra en Panamá. La designación IATA IATA es 7P y la designación IATA de la OACI es PST. El código contable de Air Panama es 600.
+La designación de la aerolínea de la OACI para Albawings es AWT y la designación de la IATA es 2B. El sitio web oficial de la compañía es http://www.albawings.com y su indicativo es ALBAWINGS. El código contable de Albawings es 654 y su designador de la aerolínea de la OACI es AWT.
+European Air Transport Leipzig se encuentra en Alemania y tiene el indicativo de POSTMAN. Cuenta con un código contable de 615, una compañía aérea IATA designadora de QY y una compañía aérea de la OACI designadora de BCS.
+Situado en la República Popular China, Kunming Airlines tiene el indicativo de llamada KUNMING AIR y su sitio web oficial es http://www.airkunming.com. La designación de la IATA para la aerolínea es KY y el código contable es 833.
+La designación de la línea aérea de la OACI para Yemen es el AIE y la designación de la línea aérea de la IATA es el AIE. El país se encuentra en Yemen y tiene un código contable de 635.
+LAM Mozambique Airlines se encuentra en Mozambique y tiene el código contable 068. La designación IATA es TM y la designación OACI es LAM.
+DHL International Aviation ME se encuentra en Bahréin y tiene la señal de llamada de DILMUN. El código de contabilidad de la aerolínea es 155 y el designador de la aerolínea de la OACI es DHX.
+La designación de la línea aérea de la OACI para Aurora (Rusia) es SHU. Su indicativo de llamada es SATAIR y su sitio web oficial es http://www.flyaurora.ru/en.
+MALAWIAN es el indicativo de Malaui Airlines que tiene el sitio web oficial en https://www.malawian-airlines.com. La designación de la IATA para Malaui Airlines es 3W y el código contable es 529.
+Hawaiian Airlines tiene la designación IATA de HA y el código contable de 173. Tienen el indicativo HAWAIIAN y su sitio web oficial es https://www.hawaiianairlines.com/.
+Fuzhou Airlines se encuentra en la República Popular China y tiene el indicativo de STRAIT AIR. La designación IATA es FU y la designación OACI es FZA.
+ICEAIR es el indicativo de Iceair que tiene el sitio web oficial en http://www.icelandair.com. La designación IATA de Iceair es FI y su código contable es 108.
+TJT es la compañía aérea de la OACI designadora de Twin Jet que tiene el código contable 294 y su sitio web oficial es http://www.twinjet.fr.
+El nombre de la aerolínea de la OACI para Flybmi es BMR y su código contable es 480. La señal de llamada de la aerolínea es MIDLAND.
+AEROGAL es el indicativo de Avianca Ecuador, cuyo sitio web oficial es https://www.avianca.com/otr/en/. Su designación IATA es 2K.
+AIR CALEDONIE INTERNATIONAL es el nombre oficial de Aircalin que se encuentra en Francia y tiene el código contable de la aerolínea 063.
+VC es la compañía aérea IATA designada para ViaAir que se encuentra en los Estados Unidos y tiene el código contable 359.
+La designación de la aerolínea de la OACI para AlMasria Universal Airlines es LMU. Su indicativo es ALMASRIA y su código contable es 110.
+Blue Panorama Airlines S.p.A. tiene el código contable 004 y la designación IATA BV. Tienen un sitio web oficial en http://www.blue-panorama.com.
+Lnea Aérea Amaszonas es AMASZONAS y su designación IATA es Z8. El designador de líneas aéreas de la OACI para Lnea Aérea Amaszonas es AZN.
+Volaris IATA designa a la aerolínea es Y4 y OACI designa a la aerolínea es VOI.
+Nippon Cargo Airlines se encuentra en Japón y su sitio web oficial es http://www.nca.aero.
+154 es el código contable de las líneas aéreas de IrAero que cuenta con el designador de líneas aéreas de la OACI de IAE.
+ERNEST es el indicativo de Ernest Airlines cuyo sitio web oficial es https://flyernest.com.
+CORSICA es el indicativo de Air Corsica que es el nombre oficial de Air Corsica.
+El sitio web oficial de Uni Air es https://www.uniair.com.tw/ y su indicativo es GLORY.
+El indicativo de Sriwijaya Air es SRIWIJAYA y su sitio web oficial es http://www.sriwijayaair.co.id/id.
+SHENZHEN AIR es el indicativo de Shenzhen Airlines que se encuentra en la República Popular China.
+El designador de aerolíneas de la OACI de Air Sinai es ASD y su código contable es 903.
+El jordano real es de Jordania.
+Iberia está en España.
+CALIDAD es el indicativo de ASL Airlines Belgium.
+Evelop Airlines se encuentra en España.
+BEAUTY es la señal de llamada de TUI volar Bélgica.
+El indicativo de Severstal Air Company es SEVERSTAL.
+LRC es la aerolínea designada por la OACI para Avianca Costa Rica.
+881 es el código contable de la aerolínea Cóndor.
+124 es el código contable de Air Algérie.
+OP(=O)(O)O es el SMILES canónico del ácido fosfórico que se utiliza como aditivo alimentario, un regulador de acidez y un sinergista. La fórmula química del ácido fosfórico es H3PO4 y tiene el inChI=1S/H3O4P/c1-5(2,3)4/h(H3,1,2,3,4).
+El amoníaco se utiliza como refrigerante, como un gas de elevación y como un disolvente prótico polar. Tiene la fórmula química de NH3 y tiene los SMILES canónicos de N. Tiene la fórmula química de NH3 y está en Ch I de InChI=1S/H3N/h1H3. El amoníaco está asociado con la exposición al amoníaco.
+Los SMILES canónicos del aspartamo son COC(=O)C(CC1=CC=C1)NC(=O)C(CC(=O)O)N. La fórmula química del aspartamo es C14H18N2O5 y se utiliza como aditivo alimentario, edulcorante, medicamento y sustituto de azúcar. También está en Ch I que es InChI=1S/C14H18N2O5/c14, SMILES canónicos del aspartamo CO (CO(=O)C(CO)C(
+Los SMILES canónicos del agua son O y tiene la fórmula química de H2O. Se utiliza como refrigerante, refrigerante para reactores nucleares, refrigerante para hidropónica y refrigerante para reactores nucleares.
+riboflavina, que se utiliza como colorante de los alimentos y como medicamento, tiene los SMILES canónicos de CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)O. riboflavina fórmula química es C17H20N4O6/c1-7-3-9-10(4-8(7)2)21(5-11(23)14(25)12(244)6-22)15-13(18-Rriboflavina tiene un medicamento como colorante de los alimentos y un colorante
+El código ATC del sulfóxido de dimetilo es M02AX03 y tiene los SMILES canónicos de CS(=O)C. La fórmula química del sulfóxido de dimetilo es C2H6OS y tiene el inChI=1S/C2H6OS/c1-4(2)3/h1-2H3. Se utiliza como disolvente aprótico polar y como medicamento.
+C6H8O7 es la fórmula química del ácido cítrico que se utiliza como aditivo alimentario, un regulador de acidez y un sinergista. Tiene los SMILES canónicos de C(C(=O)O)C(CC(=O)O)C(C(=O)O)O. Tiene el código ATC A09AB04.
+B05XA03 es el código ATC de cloruro de sodio que tiene los SMILES canónicos de [Na+].[Cl-]. La fórmula química del cloruro de sodio es NaCl. Se utiliza como sal de mesa y como medicamento. En Ch I es InChI=1S/ClH.Na/h1H;/q;+1/p-1.
+El 1,4-diclorobenceno se utiliza como insecticida y como bola de naftalina. Tiene la fórmula química de C6H4Cl2 y los SMILES canónicos de C1=CC(=CC=C1Cl)Cl. Está en Ch I y tiene la siguiente inChI=1S/C6H4Cl2/c7-5-1-2-6(8)4-3-5/h1-4H.
+A06AB04 es el código ATC de fenolftaleina que tiene los SMILES canónicos de C1=CC=C2C(=C1)C(=O)OC2(C3=CC=C(C=C3)O)C4=CC=C(C=C4)O. La fórmula química de fenolftaleina es C20H14O4 y se utiliza como medicamento y como indicador y reactivo.
+Los SMILES canónicos del hidróxido de potasio son [OH-].[K+] y tiene la fórmula química de KOH. Se utiliza como aditivo alimentario, un indicador y reactivo y se asocia con la exposición al hidróxido de potasio. En Ch I es InChI=1S/K.H2O/h;1H2/q+1;/p-1.
+O(O) O(O) O(O) O(O) O(O) O(O) O(O) O(O) O(O) O(O) O(O) O(O) O(O) O(O) O(O) O(O) O(O) O(O) O(O) O(O) O(O) O(O) O(O) O(O) O(O) O(O) O(O) O(O) O(O) O(O) O(O) O(
+La fórmula química de la glutatión es C10H17N3O6S, que se utiliza como antioxidante y como medicamento. El código ATC para la glutatión es V03AB32. La InChI=1S/C10H17N3O6S/c11-5(H glutatión es C(CC)CC(=O)CC(O)CC(O)C(=O)C(=O)C(=O)C(=O)C(O)C10H tiona es C10H17O
+CaH2O2 es la fórmula química del hidróxido de calcio que se utiliza como aditivo alimentario y aglutinante. Tiene los SMILES canónicos [OH-].[OH-].[Ca+2] y está en Ch I, InChI=1S/Ca.2H2O/h;2*1H2/q+2;;/p-2.
+El naftaleno se utiliza como bola de naftaleno y se asocia con la exposición al naftaleno. Los SMILOS canónicos del naftaleno son C1=CC=C2C=CC2=C1 y C10H8 es la fórmula química. En el cap. I es InChI=1S/C10H8/c1-2-6-10-8-4-3-7-9(10)5-1/h1-8H.
+C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)
+El código ATC de la cocaína es S02DA02. Tiene la fórmula canónica SMILLES CN1C2CCC1C(C(C2)OC(=O)C3=CC=CC=C3)C(=O)OC. La fórmula química de la cocaína es C17H21NO4 y se utiliza como medicamento. En Ch I es InChI=1S/C17H21NO4/c1-18-12-8-9-13(18)15(17(20)21-2HCO código de la cocaína cocaína, S02DA02, que SMILES
+P03AX06 es el código ATC de alcohol bencílico que se utiliza como portador y un medicamento. Los SMILES canónicos del alcohol bencílico son C1=CC=C(C=C1)CO y el InChI=1S/C7H8O/c8-6-7-4--2-1-3-5-7/h1-5-5,8H,6H2.
+N02BA04 es el código ATC de salicilato de sodio que tiene los SMILOS canónicos de C1=CC=C(C(=C1)C(=O)[O-])O.[Na+].La fórmula química del salicilato de sodio es C7H5NaO3 y se utiliza como medicamento. En Ch I es InChI=1S/C7H6O3.
+Utilizando el código ATC S01EX01, la guanetidina se utiliza como medicamento. Tiene los siguientes SMILES canónicos: C1CCCN(CCC1)CCN=C(N)N, en Ch I: InChI=1S/C10H22N4/c11-10(12)13-6-9-14-7-4-2-1-3-5-8-14/h1-9H2,(H4,11,12,13) y C10H22N4.
+El DDT, utilizado como insecticida, está asociado con el riesgo de exposición al DDT. Los SMILOS canónicos del DDT son C1=CC(=C1C(C2=C2=C(C2)Cl)Cl y la fórmula química es C14H9Cl5/c15-11-5-1-9(2-6-11)13(14(CC=CC=CC=CC=CC=CC=Cl) C(Cl)Cl(Cl)Cl(Cl)Cl(Cl)Cl(Cl)Cl(Cl)C
+El calcitriol se utiliza como medicamento y tiene el código ATC D05AX03. Tiene los siguientes SMILES canónicos: CC(CCCC(C)(C)O)C1CC2C1(CCCC2=CC=C3CC(C3C)O)C), en Ch I: InChI=1S/C27H44O3/c1-18(8-6-14-26(3,4)30)23-12-12-24-20(9-7. calcitriol tiene un medicamento como canon del código ATC D un canon del canon
+La aspirina se utiliza como medicamento y tiene el código ATC N02BA01. Sus SMILES canónicos son CC(=O)OC1=CC=CC=C1C(=O)O y su fórmula química es C9H8O4.
+A07AB03 es el código ATC de la sulfaguanidina que tiene los SMILES canónicos de C1=CC(=CC=C1N)S(=O)(=O)N=C(N)N. La fórmula química de la sulfaguanidina es C7H10N4O2S/c8-5-1-3-6(4-2-514(12,13)11-7(9)10/h1-4H,8H2,(H4,7A07AB03 es el código ATC de sulfaguan
+Los SMILOS canónicos del ácido metacrílico son CC(=C)C(=O)O. Su en Ch I es InChI=1S/C4H6O2/c1-3(2)4(5)6/h1H2,2H3,(H,5,6) y está asociado con la exposición al ácido metacrílico. La fórmula química del ácido metacrílico es C4H6O2.
+C(C) C(C) C(C(C(C(C)C(C(C)C(C)C(C(C)C(C)C(C(C)C(C(C)C(C(C)C(C(C)C(C)C(C(C)C(C(C)C(C(C)C(C(C)C(C(C)C(C(C)C(C(C)C(C(C)C(C(C)C(C(C)
+L-menthol se utiliza como agente lacrimógeno y tiene los SMILES canónicos de CC1CCC(C(C1)O)C(C)C. Su en Ch I es InChI=1S/C10H20O/c1-7(2)9-5-4-8(3)6-10(9)11/h7-11H,4-6H2,1-3H3/t8-,9+,10-/m1/s1.
+El acetileno se utiliza como combustible y está asociado con un riesgo de exposición al acetileno. Su en Ch I es InChI=1S/C2H2/c1-2/h1-2H y su fórmula química es C2H2.
+El fosfato dicálcico se utiliza como aditivo alimentario y tiene los SMILES canónicos de OP(=O)([O-])[O-].[Ca+2].La fórmula química del fosfato dicálcico es CaHPO4 y tiene los siguientes valores: InChI=1S/Ca.H3O4P/c;1-5(2,3)4/h;(H3,1,2,3,4)/q+2;/p-2.
+Los SMILOS canónicos de valsartán son CCC(=O)N(CC1=CC=C(C=C1)C2=CC=C2C3=NNN=N3)C(C(C)C)C(O)C(O)O.O.La fórmula química de valsartán es C24H29N5O3 y se utiliza como medicamento.El inChI es 1S/C24H29N5O3/C1-4,5 SMILOS valónicos de vals vals val
+Los SMILOS canónicos de 1-metilhipoxantina son CN1C=NC2=C(C1=O)NC=N2, en Ch I es InChI=1S/C6H6N4O/c1-10-3-9-5-4(6(10)11)7-2-8-5/h2-3H,1H3,(H,7,8) y la fórmula química es C6H6N4O.
+La fórmula química de azida sódica es NaN3 y tiene un código Kemler de 60. Se asocia con un riesgo de exposición a azida sódica.
+Los SMILOS canónicos del benzoato de calcio son C1=CC=C(C=C1)C(=O)[O-].[Ca+2].La fórmula química del benzoato de calcio es C14H10CaO4 y tiene la siguiente fórmula química: Ca/c2*8 (7(9)6-4-2-1-3-5-6;/h2*1-5H,(H8,9);/q;;+2/p-2.
+Los SMILES canónicos del alcohol furfurílico son C1=COC(=C1)CO e InChI=1S/C5H6O2/c6-4-5-2-1-3-7-5/h1-3,6H,4H2.
+Los SMILOS canónicos de 1-bromooctano son CCCCCCBr y C8H17Br. La fórmula química de 1-bromooctano es C8H17Br y en Ch I es InChI=1S/C8H17Br/c1-3-4-5-6-7-8-9/h2-8H2,1H3.
+El ácido fluoroacético se utiliza como rodenticida y tiene los SMILES canónicos de C(C(=O)O)F. Su en Ch I es InChI=1S/C2H3FO2/c3-1-2(4)5/h1H2,(H,4,5).
+Los SMILES canónicos del hidruro de sodio son [H-].[Na+] y su fórmula química es NaH. En Ch I es InChI=1S/Na.H/q+1;-1.
+La fórmula química del azul bromofenol es C19H10Br4O5S. Se utiliza como tinte y como indicador y reactivo.
+La fórmula química del aminometilpropanol es C4H11NO y en Ch I es InChI=1S/C4H11NO/c1-4(2,5)3-6/h6H,3,5H2,1-2H3.
+El código ATC de Tetrazepam es M03BX07 y sus SMILES canónicos son CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CCCCC3.
+LiI es la fórmula química del yoduro de litio que tiene la siguiente fórmula química: InChI=1S/HI.Li/h1H;/q;+1/p-1.
+C12H24O11 es la fórmula química del lactitol que se utiliza como edulcorante.
+El cloruro de potasio se utiliza como aditivo alimentario y como medicamento.
+La D-ribulosa en Ch I es InChI=1S/C5H10O5/c6-1-3(8)5(10)4(9)2-7/h3,5-8,10H,1-2H2/t3-,5-/m1/s1.
+Los SMILES canónicos del trietilenglicol son C(COCCOCCO)O y su en Ch I es InChI=1S/C6H14O4/c7-1-3-9-5-6-10-4-2-8/h7-8H,1-6H2.
+Los SMILES canónicos del cloruro cobalto son Cl[Co]Cl y su fórmula química es Cl2Co.
+Los SMILES canónicos de silanol son O[SiH3] y su fórmula química es H4OSi.
+La fórmula química de 1,3-indandiona es C9H6O2.
+El luminol se utiliza como indicador y reactivo.
+La fórmula química de la adenina es C5H5N5.
+Los SMILES canónicos del metóxido de sodio son C[O-].[Na+].
+El carbonato de hidrógeno de amonio se utiliza como regulador de acidez.
+La fórmula química de N,N-dimetilglicina es C4H9NO2.
+El 1,4-butanodiol se encuentra en Ch I, InChI=1S/C4H10O2/c5-3-1-2-4-6/h5-6H,1-4H2.
+El inChI de acetaldehído es 1S/C2H4O/c1-2-3/h2H,1H3.
+El InChI de hidróxido de litio es 1S/Li.H2O/h;1H2/q+1;/p-1.
+El nombre oficial de Mauricio es Mauricio y su sitio web oficial es http://www.govmu.org/. El idioma oficial es el francés y el idioma oficial es el inglés. El índice de desarrollo humano ajustado a la desigualdad es 0,666, el índice de democracia es 8,14 y el índice del planeta feliz es 51.5.
+El nombre oficial del Ecuador es la República Ekuador y su sitio web oficial es http://www.turismo.gob.ec/. Su idioma oficial es Shuar y su idioma oficial es el Quichua del Norte. Tiene un índice de desarrollo humano ajustado a la desigualdad de 0,604, un índice de democracia de 5,71 y un índice de planeta feliz de 58,8.
+El nombre oficial de Azerbaiyán es Azrbaycan Respublikas. Su sitio web oficial es http://mfa.gov.az/es. Su idioma oficial es el lenguaje de señas azerbaiyano. Tiene un índice de desarrollo humano ajustado a la desigualdad de 0,685, un índice de democracia de 2,68 y un índice de planeta feliz de 48.
+El nombre oficial de Sierra Leona es Repubblica della Sierra Leona y su sitio web oficial es https://statehouse.gov.sl/. El idioma oficial es Krio y se habla inglés. El índice de desarrollo humano ajustado a la desigualdad es 0,309 y el índice de democracia es 4,86.
+El nombre oficial de Macedonia del Norte es   . El idioma oficial es macedonio y albanés. El país tiene un índice de desarrollo humano ajustado a la desigualdad de 0,686, un índice de democracia de 5,89 y un índice de planeta feliz de 43,9. El sitio web oficial es https://vlada.mk/.
+Australia es el nombre oficial de la Commonwealth de Australia y tiene el sitio web oficial en https://www.australia.gov.au/. El idioma oficial es el inglés australiano y el índice de desarrollo humano ajustado a la desigualdad es 0,876.
+La República de Sénégal es el nombre oficial del Senegal, donde el idioma oficial es Balanta y Badyara. El sitio web oficial es https://www.sec.gouv.sn/. El índice de desarrollo humano ajustado a la desigualdad es 0,354 y el índice de democracia es 5,67. El idioma oficial es Wolof y el idioma oficial es Badyara.
+es el nombre oficial de Tayikistán, donde el idioma oficial es el tayiko. El país tiene un índice de desarrollo humano ajustado a la desigualdad de 0,599, un índice de democracia de 1,94 y un índice del planeta feliz puntuación de 55.2. El idioma oficial es el ruso.
+El nombre oficial de Ghana es Gana tingbani y su idioma oficial es el inglés. Tiene un índice de desarrollo humano ajustado a la desigualdad de 0,458, un índice de democracia de 6,5 y un índice de planeta feliz de 39,5. El sitio web oficial de Ghana es https://www.ghana.gov.gh/.
+El turcomano es el idioma oficial de Turkmenistán, donde el sitio web oficial es http://www.turkmenistán.gov.tm/eng/. El país tiene un índice de desarrollo humano ajustado a la desigualdad de 0,619, un índice de democracia de 1,66 y un índice de planeta feliz de 33.
+El sitio web oficial de las Comoras es https://beit-salam.km/. Su idioma oficial es el comorano y su idioma oficial es el francés. Tiene un índice de desarrollo humano ajustado a la desigualdad de 0,31, un índice de democracia de 3,09 y un índice de planeta feliz de 42,4.
+El nombre oficial de Costa Rica es République du Costa Rica y su sitio web oficial es https://www.presidencia.go.cr/. El español es el idioma oficial y el país tiene un índice de desarrollo humano ajustado a la desigualdad de 0,664.
+El nombre oficial de Bhután es el Reino de Bhután y su sitio web oficial es http://www.bhutan.gov.bt. El idioma oficial es Dzongkha. El país tiene un índice de desarrollo humano ajustado a la desigualdad de 0,471, un índice de democracia de 5,71 y un índice de planeta feliz de 36,7.
+Beninská republika es el nombre oficial de Benin, donde el idioma oficial es el francés. El sitio web oficial de Benin es https://www.gouv.bj/. Tiene un índice de desarrollo humano ajustado a la desigualdad de 0,334, un índice de democracia de 4,58 y un índice de planeta feliz de 41,4.
+El nombre oficial de Burundi es Uburundi y su idioma oficial es Kirundi. Tiene una puntuación del Índice de Planeta Feliz de 37.7 y un Índice de Democracia de 2.14. El sitio web oficial de Burundi es https://www.presidence.gov.bi/.
+El nombre oficial de Estonia es Eesti Vabariik y su sitio web oficial es https://valitsus.ee/. Su idioma oficial es el estonio y tiene un índice de desarrollo humano ajustado a la desigualdad de 0,829 y un índice de democracia de 7,84.
+El nombre oficial de Uganda es Ouganda y el idioma oficial es swahili. Tiene un índice de desarrollo humano ajustado a la desigualdad de 0,396, un índice de democracia de 4,94 y un índice de planeta feliz de 44,8.
+La République bolivarienne du Vénézuéla es el nombre oficial de Venezuela. El sitio web oficial es https://mppre.gob.ve/. El español es el idioma oficial y el país tiene un índice de desarrollo humano ajustado a la desigualdad de 0,592 y un índice de planeta feliz de 48,9.
+Meksiko Serikat es el nombre oficial de México, donde el idioma oficial es el español, el idioma oficial es el náhuatl y el idioma oficial es el yucatec maya. El sitio web oficial de México es https://www.gob.mx/.
+El nombre oficial de Djibouti es République de Djibouti y su sitio web oficial es https://www.presidence.dj/. El árabe es el idioma oficial.El índice de desarrollo humano ajustado a la desigualdad es 0,309 y el índice de democracia es 2,71.
+El nombre oficial de Filipinas es República ng Pilipinas y el idioma oficial es el filipino. Tiene un índice de desarrollo humano ajustado a la desigualdad de 0,574, una incidencia de pobreza de 13,2 y un índice de democracia de 6,62.
+La République du Salvador es el nombre oficial de El Salvador, donde el idioma oficial es el español. Tiene un índice de desarrollo humano ajustado a la desigualdad de 0,548 y un índice de planeta feliz de 56.3. El sitio web oficial de El Salvador es https://elsalvador.travel/en/.
+El sitio web oficial de Turquía es https://www.turkiye.gov.tr/. El idioma oficial es el turco y el país tiene un índice de Happy Planet de 41.3. El índice de democracia es 4,35.
+El nombre oficial de Niue es Niue y el idioma oficial es Niuean. El sitio web oficial de Niue es http://www.niueisland.com/. El inglés es el idioma oficial de Niue.
+es el nombre oficial de Mongolia que tiene un índice de desarrollo humano ajustado a la desigualdad de 0,644, un índice de democracia de 6,42 y un índice de planeta feliz de 24,5.
+El nombre oficial de Costa de Marfil es Repubblica della Costa d'Avorio. Tiene un índice de desarrollo humano ajustado a la desigualdad de 0,358, un índice de democracia de 4,11 y un índice de planeta feliz de 39,6.
+El ruso es el idioma oficial de Rusia, donde el índice de desarrollo humano ajustado a la desigualdad es de 0,751, el índice de democracia es de 3,31 y el índice del planeta feliz es de 34,9.
+El nombre oficial de Albania es República e Shqipris y el sitio web oficial es https://www.kryeministria.al/en/. El índice de democracia de Albania es 6.11.
+La République des Maldives es el nombre oficial de Maldivas, donde el idioma oficial es Divehi y el índice de desarrollo humano ajustado a la desigualdad es 0,594. El sitio web oficial de Maldivas es https://visitmaldives.com/.
+El nombre oficial de Etiopía es la République démocratique fédérale d'Éthiopie. Tiene un índice de desarrollo humano ajustado a la desigualdad de 0,363, un índice de democracia de 3,38 y un índice de planeta feliz de 41,7.
+El francés es la lengua oficial de Luxemburgo, que tiene una incidencia de pobreza de 17,5 y un índice de democracia de 8,88.
+El francés es el idioma oficial de la República del Congo, que tiene un índice del Planeta Feliz de 47.2 y un índice de democracia de 3.11.
+El nombre oficial de Qatar es l'État du Qatar y su sitio web oficial es https://www.diwan.gov.qa. Tiene un índice de democracia de 3,65.
+El índice del planeta feliz de Kazajstán es de 38,6 y el idioma oficial es el kazajo. El sitio web oficial de Kazajstán es https://www.gov.kz/.
+El nombre oficial de Italia es Repubblica Italiana y el idioma oficial es el italiano. El país tiene un índice de democracia de 7,74.
+El nombre oficial de Brunei es Negara Brunei Darussalam y el idioma oficial es Malay. El sitio web oficial de Brunei es https://www.gov.bn/SitePages/Home.aspx.
+La República de Túnez es el nombre oficial de Túnez, donde el idioma oficial es el árabe y el índice de democracia es 6,59.
+El nombre oficial de Aruba es Aruba y el idioma oficial es Papiamento. El sitio web oficial de Aruba es http://www.aruba.com/.
+El índice del Happy Planet de Eslovenia es 47,9 y el idioma oficial es esloveno.
+Rumania tiene un índice de desarrollo humano ajustado a la desigualdad de 0,733 y un índice de planeta feliz de 46,2.
+El índice de desarrollo humano ajustado a la desigualdad de Eslovaquia es de 0,803 y el índice de democracia es de 6,97.
+El nombre oficial de Andorra es Andorra y el idioma oficial es el catalán.
+El nombre oficial de Hungría es la Hongrie y su sitio web oficial es https://www.kormany.hu/.
+El índice de desarrollo humano ajustado a la desigualdad en Austria es de 0,851 y el idioma oficial es el alemán.
+El nombre oficial de Palau es Beluu er a Belau y el idioma oficial es el japonés.
+El sitio web oficial de las Islas Salomón es https://solomons.gov.sb y el índice de desarrollo humano ajustado a la desigualdad es de 0,43.
+El sitio web oficial de Chile es https://www.thisischile.cl/?lang=en y tiene un índice de desarrollo humano ajustado a la desigualdad de 0,722.
+El inglés es el idioma oficial del Reino Unido.
+El inglés es el idioma oficial de Antigua y Barbuda.
+La puntuación del Índice de Planeta Feliz de Suecia es 50.5.
+El índice de desarrollo humano ajustado a la desigualdad de Níger es de 0,292.
+El portugués es el idioma oficial de Brasil.
+El francés es el idioma oficial del Gabón.
+El inglés es el idioma oficial de Zambia.
+El albanés es el idioma oficial de Kosovo.
+El Índice de Democracia de Polonia es 6,85.
+Ontotext y Ontoprise GmbH son patrocinadores de la 7a Conferencia Internacional Semántica Web en Alemania. La 7a Conferencia Internacional Semántica Web tiene 43 contribuciones aceptadas, 261 presentaciones y una tasa de admisión de 0.4231. John Giannandrea es un orador en la conferencia.
+El ESWC de habla inglesa 2010 en Grecia tiene una tasa de admisión de 0.2122. Los oradores son Aldo Gangemi, Noshir Contractor y Sean Bechhofer.
+ESWC 2019 es una conferencia académica en Eslovenia y está patrocinada por Ontotext, IBM Research and Information. La oradora es Diana Maynard y la tasa de admisión es de 0,194.
+La 10a Conferencia Internacional de Informática Social se celebra en Rusia y está patrocinada por Springer Science+Business Media. Los ponentes son Bettina Berendt, Harith Alani e Ingmar Weber. La 10a Conferencia Internacional de Informática Social se celebra en inglés y está patrocinada por la Asociación de Maquinaria Informática.
+CHI 2018 es una conferencia académica en Canadá y es patrocinado por Google, Yahoo Inc., Bloomberg L.P., y Sue Gardner. Christian Timder es un orador en CHI 2018 que es patrocinado por Google.
+Elsevier y VideoLectures.net son patrocinadores de la ESWC 2012 en Grecia. La ESWC 2012 tiene una tasa de admisión de 0.2122 y es hablado por Elena Simperl, Isabelle Augenstein y Heiko Paulheim.
+La Asociación Económica Americana y la Asociación Aliada de Ciencias Sociales son patrocinadores de la Reunión Anual ASSA 2020 en los Estados Unidos. La Reunión Anual ASSA 2020 es una conferencia académica. Los oradores en la reunión son Teresa Ghilarducci, Ben Bernanke y Cheryl Doss.
+ESWC 2009 es una conferencia académica en Grecia. Los oradores son Craig Knoblock y Alan Smeaton. El idioma inglés se utiliza en la conferencia que tiene una tasa de admisión de 0,18.
+La 17a Conferencia Internacional Semántica Web se celebra en los Estados Unidos y está patrocinada por Metaphacts, Thomson Reuters y Vanessa Evers. La 17a Conferencia Internacional Semántica Web está en inglés y Jennifer A. Golbeck es una oradora.
+La 3a Conferencia Internacional Anual sobre Ciencias Sociales Computacionales es patrocinada por GESIS – Instituto Leibniz de Ciencias Sociales, SAGE Publishing y Emke-gnes Horvát. La 3a Conferencia Internacional Anual sobre Ciencias Sociales Computacionales se celebra en Alemania y es patrocinada por la Escuela de Gestión Kellogg y Milena Tsvetkova.
+La Agencia Gubernamental Sueca para Sistemas de Innovación es el patrocinador de la 27a Conferencia Internacional Conjunta sobre Inteligencia Artificial y la 23a Conferencia Europea sobre Inteligencia Artificial en Suecia. Danica Kragic y Yann Le Cun son oradores en la conferencia. La 23a Conferencia Europea sobre Inteligencia Artificial es patrocinada por DiDi y la 27a Conferencia Internacional Conjunta sobre Inteligencia Artificial es patrocinada por DiDi.
+SWIB16 es una conferencia académica en Alemania. Los oradores son Olaf Janssen, Andrómeda Yelton e Ivan Herman. Inglés es el idioma de SWIB16.
+LREC 2018 es una conferencia académica en Japón. Los ponentes son Charles Yang, Pascale Fung y Yukinori Takubo. El inglés es el idioma de la conferencia.
+Massimo Poesio y Viktor Mayer-Schönberger son los oradores en ESWC 2015 que es una conferencia académica. El idioma utilizado en la conferencia es el inglés y la tasa de admisión es de 0.2276. Lise Getoor y Viktor Mayer-Schönberger también hablaron en la conferencia.
+Dylan Roskams-Edris y Edward A. Fon son ponentes en Open Science in Action en Canadá. Lucie Opatrny es ponente en la conferencia.
+Estados Unidos es la sede de la Knowledge Graph Conference 2019 que utiliza el inglés como su idioma. Los oradores en la conferencia son Denny Vrandei y Joshua Shinavier. A la conferencia también asisten Alfio M. Gliozzo y Joshua Shinavier.
+La 15a Conferencia Internacional de la Sociedad Metabolomica se celebra en los Países Bajos y está en inglés. Los oradores son Joshua Denison Rabinowitz, Atsushi Fukushima y Michael Witting.
+Edificios y el Simposio del Cuerpo es una conferencia académica en el Reino Unido. Richard Newman y Antony Buxton son oradores en el simposio. Scott Miller también es un orador.
+Fabio Adriano Hering, Annette Frölich e Hilary Travis son los ponentes de TRAC 2004 que es una conferencia académica en el Reino Unido.
+La XI Conferencia Internacional Semántica Web está en los Estados Unidos y está patrocinada por IBM, Elsevier y Cristina Sarasua. Tiene una tasa de admisión de 0.4921 y la oradora es Cristina Sarasua.
+TRAC 2000 es una conferencia académica en el Reino Unido y es hablado por Kônstantina Katsarê, Shawn Graham y Kelly Spradley.
+Digital Humanities 2018 se encuentra en México y cuenta con el patrocinio de la Biblioteca Benjamin Franklin, la Asociación de Informática y Humanidades y Gale. El idioma inglés se utiliza en la Digital Humanities 2018.
+La 4a Conferencia holandesa de Bioinformática y Biología de Sistemas se celebra en los Países Bajos y es hablada por Chiara Dalla Man, Ilja C. W. Arts y Jason Locasale.
+'Our Aelred': Amistad, Liderazgo y Santidad en la Abadía de Rievaulx está en el Reino Unido y es hablado por Elizabeth Freeman, Alexandra Gajewski y Stuart Harrison.
+El ESWC de habla inglesa 2011 es una conferencia académica en Grecia y tiene una tasa de admisión de 0.2308.
+Cristina Sarasua es la oradora de ESWC 2017 que está patrocinada por Ontotext y tiene una tasa de admisión de 0,25.
+Aleks Krotoski es el ponente en CHI 2019, que es una conferencia académica en el Reino Unido. Se utiliza el idioma inglés.
+El XIV Simposio Internacional sobre Colaboración Abierta es una conferencia académica en Francia. Los ponentes son ngel Obregón Sierra y R. Stuart Geiger.
+Avances Recientes en Procesamiento Natural de Lenguas 2019 es una conferencia académica en Bulgaria y es hablada por Sebastian Padó y Kyunghyun Cho.
+Contar su historia: La historia de la mujer, el patrimonio y el entorno construido es una conferencia académica. Los ponentes son Jessica Malay, Rachel Delman y Karen Dempsey.
+La 33a Conferencia del Grupo de Arqueología Teórica en el Reino Unido está dirigida por Patrick Hadley y Lorna-Jane Richardson.
+La 22a Conferencia de la ACM sobre el trabajo cooperativo y la computación social apoyado por ordenador se celebra en los Estados Unidos y es hablada por Martin M. Wattenberg y Fernanda Bertini Viégas.
+ESWC 2016 es una conferencia académica en Grecia y tiene una tasa de admisión de 0,212.
+Mirella Lapata es ponente en la XX Reunión Anual del Grupo de Interés Especial sobre Discurso y Diálogo en Suecia, que es una conferencia académica.
+El 8. Workshop der AG CAA es una conferencia académica en Alemania donde se utiliza el idioma alemán.
+Aaron Halfaker y Michael Peel son ponentes en la Conferencia Científica Internacional de Wikipedia en Brasil.
+El 51o Congreso Internacional de Estudios Medieval es hablado por Jacqueline Veninger, Kieran O'Conor y Jennifer L. Immich.
+La 15a Conferencia Internacional Semántica Web es patrocinada por NHK e IBM y se celebra en Japón.
+La Conferencia de Mujeres en Ciencia de Datos 2019 en Copenhague está patrocinada por DM y la oradora es Claire Mathieu.
+El 28o Simposio de Seguridad USENIX, USENIX Security 2019, Santa Clara, CA, EE.UU., 14-16 de agosto de 2019 es una conferencia académica.
+La Conferencia 2020 sobre Métodos Empíricos en el Procesamiento del Lenguaje Natural está en inglés y la oradora es Janet Pierrehumbert.
+Ubiquitous Computing Systems, Tercer Simposio Internacional, UCS 2006, Seúl, Corea, octubre 11-13, 2006 es una conferencia académica en Corea del Sur.
+Mari Ostendorf fue ponente en la 16a Conferencia Anual del Capítulo Norteamericano de la Asociación de Lingüística Computacional: Tecnologías del Lenguaje Humano donde el inglés es el idioma utilizado.
+La Conferencia de Arqueología Romana es hablada por Rick Jones y Robert Rippengal.
+HSLACON 2019, 2a Conferencia Nacional sobre Tendencias y Tecnologías Emergentes en Biblioteca y Ciencia de la Información se celebra en la India y el orador es Shivendra Singh.
+El Taller Internacional sobre Comunicaciones Cuánticas y Medición 1994 es una conferencia académica en inglés.
+Antoine Bordes es el orador en la 3a Conferencia Internacional sobre Representaciones de Aprendizaje patrocinada por IBM.
+Procesamiento de Lenguas Naturales y Sistemas de Información - 23a Conferencia Internacional sobre Aplicaciones de la Lengua Natural a los Sistemas de Información, NLDB 2018, París, Francia, 13-15 de junio de 2018.
+Medición pasiva y activa - 18a Conferencia Internacional, PAM 2017, Sydney, NSW, Australia, 30-31 de marzo de 2017.
+La ACM/IEEE Sexta Conferencia Internacional sobre Sistemas Ciber-Físicos, ICCPS 2015, Seattle, WA, EE.UU., 14-16 de abril de 2015.
+SciDataCon 2018 es una conferencia académica.
+El Gobierno Electrónico y la Perspectiva de los Sistemas de Información - Segunda Conferencia Internacional, EGOVIS 2011, Toulouse, Francia, 29 de agosto - 2 de septiembre de 2011.
+Neural Information Processing Systems 2000 se encuentra en los Estados Unidos.
+La XI Conferencia Internacional sobre la Calidad de las Tecnologías de la Información y las Comunicaciones, QUÁTIC 2018, Coimbra, Portugal, 4-7 de septiembre de 2018.
+ACM Conferencia Internacional sobre Multimedia, MM '14, Orlando, FL, EE.UU., 03 - 07 de noviembre de 2014.
+Swatantra 2014 es una conferencia académica.
+Leishmania aethiopica, Leishmania tropica y Leishmania braziliensis son las causas de la leishmaniasis cutánea. Tiene un período de incubación mínimo de 2 y síntomas y signos de una úlcera. También se trata con pentamidina y fluconazol.
+La hepatitis C es causada por el virus de la hepatitis C y se encuentra en la médula ósea. Tiene los siguientes síntomas y signos: vómitos, dolor abdominal, hipertensión portal, sofosbuvir/velpatasvir, peginterferón alfa-2a y sofosbuvir/velpatasvir.
+La fiebre paratifoides es una especialidad de salud en enfermedades infecciosas. Es causada por Salmonella paratyphi B y Salmonella paratyphi C. Tiene los síntomas y signos de erupción, estreñimiento, faringitis y cefixima como un medicamento o terapia.
+La especialidad de salud de los muermo es la medicina veterinaria y las enfermedades infecciosas. Tienen síntomas y signos de fiebre, absceso, esplenomegalia, sulfametoxazol y sulfametoxazol. También tienen síntomas y signos de esplenomegalia y utilizan los medicamentos tobramicina y sulfametoxazol/trimetoprim.
+La encefalitis de Jamestown Canyon es causada por el Ortobunyavirus de Jamestown Canyon y es una especialidad de salud en enfermedades infecciosas. Tiene síntomas y signos de fiebre y dolor de cabeza. La enfermedad es transmitida por patógenos y tiene un período mínimo de incubación de 2 y un período máximo de incubación de 14 en humanos.
+La fiebre hemorrágica de Omsk es causada por el virus de la fiebre hemorrágica de Omsk y es una especialidad de salud en enfermedades infecciosas. Tiene los siguientes síntomas y signos: náuseas, mareos, sarpullido y transmisión transmitida por garrapatas. El período máximo de incubación de la fiebre hemorrágica de Omsk es de 4 y es causada por el virus de la fiebre hemorrágica de Omsk.
+La enfermedad de Barmah Forest tiene una localización anatómica en el hígado y es una especialidad de salud en enfermedades infecciosas. Tiene síntomas y signos de artralgia, fatiga, artritis y un período de incubación de 11 días.
+La necatoriasis es causada por Necator americanus y es parte de la especialidad de salud de enfermedades infecciosas. Tiene síntomas y signos de calambres abdominales, diarrea y es causada por infección. Se trata con albendazol y mebendazol.
+La fiebre de flebotomo es causada por el virus de Toscana, la fiebre de la mosca de arena, el virus de Sicilia, y Phlebotomus papatasi. Tiene síntomas y signos de hipotensión y 9 días es el período máximo de incubación en humanos.
+La bencilpenicilina, ciprofloxacino, ceftazidima y ciprofloxacino son fármacos o terapias utilizadas en el tratamiento de erisipelas. El período máximo de incubación de erisipelas en humanos es de 4 y sus síntomas y signos son escalofríos y fiebre.
+Brucellosis es causada por Brucella abortus y tiene síntomas y signos de neuritis. Tiene un período máximo de incubación de 5 años y se trata con minociclina, rifampicina y doxiciclina.
+La fiebre escarlata del Lejano Oriente tiene los síntomas y signos de las líneas de Pastia. Se transmite por vía fecal-oral y tiene un periodo máximo de incubación de 10 minutos. Se trata con gentamicina, pefloxacina y ampicilina.
+El virus Amur es la causa de la fiebre hemorrágica con síndrome renal que es causada por la localización anatómica de los vasos sanguíneos. La fiebre hemorrágica con síndrome renal tiene síntomas y signos de sangrado interno y se trata con furosemida y ribavirina.
+Haemophilus influenzae es causada por Haemophilus influenzae que está infectado por amoxicilina/ácido clavulánico, ampicilina y azitromicina. La enfermedad se transmite por transmisión aérea y es causada por Haemophilus influenzae.
+La melioidosis es causada por Burkholderia pseudomallei y se transmite por contacto. Tiene un período mínimo de incubación de 2 y un período máximo de incubación de 2. Se trata con los fármacos amoxicilina/ácido clavulánico y sulfametoxazol/trimetoprim.
+La balantidiasis es causada por Balantidium coli y pertenece a la especialidad de salud de enfermedades infecciosas. Tiene síntomas y signos de calambres abdominales y xerostomía. Tiene un período mínimo de incubación de 5 y un período máximo de incubación de 30.
+La encefalitis equina occidental tiene síntomas y signos de parálisis y mialgia. Su localización anatómica son las meninges, la médula espinal y el cerebro. Es transmitida por los mosquitos.
+Tabes dorsalis es una especialidad de salud en enfermedades infecciosas. Tiene síntomas y signos de disfunción eréctil, hiperestesia, glucocorticoide, bencilpenicilina y ceftriaxona.
+El silo, que tiene un periodo máximo de incubación de 90 minutos, es una especialidad de salud en enfermedades infecciosas. Se trata con bencilpenicilina, azitromicina y doxiciclina.
+La dicrocoeliasis es causada por Dicrocoelium dendriticum. Se encuentra en el conducto biliar y el sistema portal hepático. Se trata con praziquantel y triclabendazol.
+La Campylobacteriosis es causada por Campylobacter jejuni y se trata con azitromicina. Tiene un período mínimo de incubación de 1 y un período máximo de incubación de 7.
+La fiebre escarlata tiene un periodo máximo de incubación de 5 días y se transmite por transmisión de gotitas. Se trata con macrólidos, cefalosporina y vancomicina.
+La enfermedad de los legionarios, que tiene un período mínimo de incubación de 2 minutos, es una especialidad de salud en enfermedades infecciosas. Tiene síntomas y signos de tos y se trata con levofloxacino hemihidrato y eritromicina.
+La lepra es una enfermedad infecciosa con síntomas y signos de lagoftalmos y atrofia muscular. Se transmite por contacto y tiene un periodo máximo de incubación de 20.
+La fiebre hemorrágica del ébola es causada por el zairense del Ortoebolavirus y es una especialidad de salud en enfermedades infecciosas. Tiene síntomas y signos de sangrado interno y se transmite por contacto y transmisión de hemocontacto de patógenos.
+La meglumina es un fármaco o terapia utilizado para el tratamiento de la leishmaniasis visceral que se encuentra anatómicamente en el hígado y el hueso. La enfermedad tiene síntomas y signos de taquicardia y anemia.
+La pasteurelosis es causada por Mannheimia hemolytica y pertenece a la especialidad de salud de la medicina veterinaria. Tiene los síntomas y signos de neumonía y fiebre.
+La fiebre hemorrágica de Crimea-Congo tiene síntomas y signos de anuria. Se transmite por contacto y tiene un periodo máximo de incubación de 14 días en humanos. Se trata con corticosteroides y anticuerpos.
+Cefoxitina y nifuratel son medicamentos utilizados para el tratamiento de infecciones del tracto urinario, que tiene síntomas y signos de fiebre y hematuria.
+La enfermedad de Brill-Zinsser, que tiene la causa de Rickettsia prowazekii, pertenece a la especialidad de salud de las enfermedades infecciosas. Se trata con cloranfenicol y doxiciclina.
+La trichuriasis es causada por Trichuris trichiura y es causada por oxantel. Tiene síntomas y signos de dolor abdominal, diarrea y se trata con oxantel.
+La singamosis es causada por Syngamus y se encuentra anatómicamente en la tráquea. Se trata con tiabendazol y albendazol.
+La tuberculosis pulmonar es una enfermedad infecciosa con localización anatómica en el pulmón. Se trata con rifabutina e isoniazida.
+Clostridium botulinum es la causa del botulismo infantil que tiene los síntomas y signos de ptosis, letargo, estreñimiento y letargo.
+Tenofovir disoproxil es un fármaco o terapia para la hepatitis B, causada por el virus de la hepatitis B y es una especialidad sanitaria en enfermedades infecciosas. La hepatitis B se transmite por transmisión de hemocontacto de patógenos.
+La conjuntivitis bacteriana es una especialidad de salud en oftalmología y enfermedades infecciosas. Se trata con norfloxacino y lomefloxacino.
+El tifus de garrapata siberiano es una enfermedad infecciosa con síntomas y signos de hiperemia. Tiene un período mínimo de incubación de 3 y un período máximo de incubación de 10.
+La dermatología es la especialidad de las infecciones cutáneas que se tratan con clindamicina, ticarcilina y azitromicina.
+La fiebre de las garrapatas de Colorado, que tiene los síntomas y signos de mialgia, tiene un período mínimo de incubación de 1 y es causada por el virus de la fiebre de las garrapatas de Colorado.
+El linfogranuloma venereo tiene síntomas y signos de un absceso y es causado por Chlamydia trachomatis 434/BU.
+El botulismo es causado por Clostridium botulinum y se trata con clindamicina. Tiene un período máximo de incubación de 10 y se trata con clindamicina.
+El virus delta de la hepatitis es la causa de la hepatitis D, que es una especialidad sanitaria en enfermedades infecciosas y tiene síntomas y signos de superinfección.
+Oseltamivir es un medicamento utilizado para el tratamiento de la gripe porcina que tiene los síntomas de vómitos y letargo.
+El herpesvirus humano 8, que se transmite por transmisión placentaria, tiene los síntomas y signos de derrame pleural y esplenomegalia.
+Dictyocaulus es una enfermedad infecciosa que es causada por una infección. Pertenece a la especialidad de salud de la medicina veterinaria y enfermedades infecciosas.
+La bencilpenicilina es un medicamento utilizado para el tratamiento del sodoku que tiene un periodo máximo de incubación de 60. La enfermedad se transmite por contacto.
+El período máximo de incubación de la gripe, que tiene síntomas y signos de dolor torácico, es 72. Pertenece a la especialidad de salud de la medicina familiar.
+Cefoperazona es un fármaco o terapia utilizado para el tratamiento de infecciones bacterianas gramnegativas, que es una especialidad de salud en enfermedades infecciosas y causa una infección.
+El sarpullido es un signo de rickettsialpox que se transmite por contacto.
+La diphyllobothriasis se trata con praziquantel y ácido fólico.
+La especialidad de salud de la dermatitis digital es la dermatología y las enfermedades infecciosas.
+Pediculus humanus capitis, que tiene los síntomas y signos de irritabilidad, es una especialidad de la salud.
+La estreptomicina es un fármaco o terapia para la tularemia que se encuentra anatómicamente en el pulmón.
+Plasmodium vivax (malaria) se trata con (RS)-primaquina y halofantrina.
+La neostigmina es un fármaco o terapia que se usa para tratar la encefalitis japonesa, una enfermedad infecciosa.
+La herpangina es una localización anatómica de la cavidad oral y pertenece a la especialidad de salud de las enfermedades infecciosas.
+El período mínimo de incubación del tifus endémico en humanos es de 5 y es transmitido por garrapatas.
+La localización anatómica de la heterofiasis es el cerebro.
+La especialidad de salud de la neurología es la infección del sistema nervioso central.
+Los síntomas y signos de tuberculosis laríngea son voz ronca.
+El Streptococcus pneumoniae es causado por una infección neumocócica.
+La neumonía enzoótica porcina es causada por Mycoplasma hyopneumoniae.
+El proceso de transmisión del cólera se transmite por el agua.
+La fusariosis es una especialidad sanitaria de enfermedades infecciosas.
+El albendazol es un fármaco o terapia que se usa para tratar la clonorquiasis.
+La encefalitis de California es una especialidad de salud de enfermedades infecciosas.
+El Campeonato Mundial Amateur Snooker 1978 es organizado por la Federación Internacional de Billar y Snooker. Es un torneo de round-robin con 25 participantes. El deporte utiliza bolas de taco y accesorios de snooker.
+La World Professional Billiards and Snooker Association organiza el Campeonato del Reino Unido 2019 que es un torneo de clasificación, un torneo de eliminación única y un torneo de eliminación única. El deporte utiliza bolas de taco y accesorios de snooker y cuenta con 128 participantes.
+La European Billiards and Snooker Association organiza el Campeonato Europeo de Snooker EBSA 2008. El Campeonato Europeo de Snooker EBSA 2008 es un torneo de eliminación única con 64 participantes. Snooker se utiliza como una bola de taco y como una bola de snooker.
+El Campeonato Panamericano de Bádminton de 2025 es organizado por Badminton Pan Am. Es un torneo round-robin con 9 participantes. El deporte utiliza una raqueta de bádminton y se juega con una raqueta de bádminton. El ganador del Campeonato Panamericano de Bádminton de 2025 fue el equipo nacional de bádminton.
+El Campeonato Mundial de Snooker IBSF 1986 es organizado por la Federación Internacional de Billar y Snooker y es un torneo de eliminación única. El deporte utiliza palos de taco y accesorios de snooker y es el deporte de snooker. Paul Mifsud fue el ganador del torneo.
+Robin Hull fue el ganador del Snooker Shoot-Out 2016 que es un torneo de invitación de un solo evento de eliminación. El deporte de snooker utiliza bolas de snooker, bolas de taco y accesorios de snooker.
+La European Billiards and Snooker Association organiza el Campeonato Europeo de Snooker EBSA 1994 que es un torneo de eliminación única. El deporte de snooker utiliza bolas de taco y accesorios de snooker. El ganador del torneo fue Danny Lathouwers.
+Organizado por la Asociación Mundial de Billar Profesional y Snooker, el Campeonato del Reino Unido de 1986 es un torneo de eliminación única de snooker. El deporte utiliza palos de taco y bolas de taco y tiene 117 participantes. Steve Davis fue el ganador del torneo.
+El Welsh Open 2017 fue organizado por la World Professional Billiards and Snooker Association. El deporte de snooker utiliza bolas de taco, palos de taco y bolas de snooker. Stuart Bingham fue el ganador del Welsh Open 2017 que contó con 128 participantes.
+El Pink Ribbon 2016 fue un torneo pro-am con 15 participantes y el ganador fue Jamie Jones. El deporte utiliza palos de taco y una bola de billar.
+El Strachan Challenge de 1994 – Evento 1 es un torneo de eliminación individual invitado con 217 participantes. El deporte utiliza bolas de taco y se juega con una bola de taco. El ganador del Strachan Challenge de 1994 – Evento 1 fue Anthony Hamilton.
+Judd Trump fue el ganador del Abierto de Gibraltar 2020, que es un torneo de clasificación en snooker. Snooker utiliza palos de taco y bolas de taco y está organizado por la Asociación Mundial de Billar Profesional y Snooker.
+Ronnie O'Sullivan fue el ganador de la Cinta Rosa 2015 que tuvo 2 participantes. El deporte de snooker utiliza palos de taco, bolas de taco y bolas de snooker.
+El Campeonato del Reino Unido de 1985 es organizado por la World Professional Billiards and Snooker Association. Es un torneo de clasificación con 105 participantes y un torneo de eliminación única. El ganador del Campeonato del Reino Unido de 1985 es Steve Davis.
+La European Billiards and Snooker Association organiza el 2021 European Snooker Championship de EBSA, que es un torneo de eliminación única de snooker. El deporte utiliza bolas de snooker, accesorios de snooker y es el deporte de snooker. El 2021 European Snooker Championship de EBSA cuenta con 120 participantes.
+El Welsh Open 2000, organizado por la World Professional Billiards and Snooker Association, es un torneo de eliminación única de snooker. El deporte utiliza palos de taco y bolas de taco y es ganado por John Higgins.
+El Strachan Challenge de 1994 – Evento 2 es un torneo de eliminación individual invitado en el que el snooker es el deporte. La bola de taco, palo de taco y accesorios de snooker son usos de snooker.
+Gary Owen fue el ganador del Campeonato Mundial Amateur Snooker 1966 que es un torneo de round-robin. Snooker se utiliza para bolas de taco y accesorios de snooker.
+El Campeonato de Jugadores 2021 es organizado por la Asociación Mundial de Billar Profesional y Snooker y tiene 16 participantes. Es un torneo de clasificación y un torneo de eliminación única. El ganador del Campeonato de Jugadores 2021 es John Higgins.
+La European Billiards and Snooker Association organiza el European Snooker Championship 2019 de EBSA, que es un torneo de eliminación única. El torneo cuenta con 125 participantes y fue ganado por Kacper Filipiak.
+Organizado por la Asociación Mundial de Billar Profesional y Snooker, el Shanghai Masters 2012 es un torneo de clasificación con 136 participantes. El ganador del Shanghai Masters 2012 es John Higgins.
+El Campeonato del Reino Unido de 2002 está organizado por la Asociación Mundial de Billar Profesional y Snooker y cuenta con 128 participantes. Es un torneo de clasificación y un torneo de eliminación única. El ganador del Campeonato del Reino Unido de 2002 es Mark Williams.
+John Higgins ganó el British Open 2001 que es un torneo de clasificación y un torneo de eliminación única. El deporte utiliza un snooker bola y se juega con un snooker bola.
+La European Billiards and Snooker Association organiza el Campeonato Europeo EBSA Under-18 Snooker 2018 que es un torneo de eliminación única con 84 participantes. El ganador del Campeonato Europeo EBSA Under-18 Snooker 2018 es Jackson Page.
+La Confederación Asiática de Billar Deportes organiza el Campeonato Asiático de Snooker de 2005 ACBS que es un torneo de eliminación única con 16 participantes. El ganador del Campeonato Asiático de Snooker de 2005 ACBS es Jin Long.
+El EBSA 2021 European Under-18 Snooker Championship es organizado por la European Billiards and Snooker Association y la Federaço Portuguesa de Bilhar. Es un torneo de eliminación única con 64 participantes y el ganador es Ben Mertens.
+La Asociación Mundial de Billar Profesional y Snooker organiza el Abierto de Gibraltar 2019, que es un torneo de eliminación única y un torneo de clasificación. El ganador del Abierto de Gibraltar es Stuart Bingham.
+El Abierto Escocés 2000 fue organizado por la World Professional Billiards and Snooker Association y cuenta con 128 participantes. Es un torneo de clasificación y un torneo de eliminación única. Ronnie O'Sullivan fue el ganador del Abierto Escocés 2000.
+El Masters 2008 es un torneo invitado de snooker que utiliza una bola de snooker. Tiene 18 participantes.
+Robert Milkins fue el ganador de la Cinta Rosa 2017 que cuenta con 14 participantes y utiliza accesorios de snooker.
+Con 228 participantes, el Paul Hunter Classic 2013 es un torneo de eliminación única de snooker que utiliza palos de taco.
+El organizador del Campeonato Asiático de Snooker de 1990 ACBS es la Confederación Asiática de Billar Deportes. El Campeonato Asiático de Snooker de 1990 ACBS es un torneo de eliminación única con 9 participantes.
+El Campeón de Campeones 2016 tiene 16 participantes y es un torneo invitado. El deporte utiliza una pelota de billar y se juega con una pelota de billar.
+El Grand Prix Mundial 2025 es organizado por la World Professional Billiards and Snooker Association y es un torneo de clasificación. El ganador es Neil Robertson y el torneo es un torneo de eliminación única.
+Steve Davis ganó el Grand Prix 1988 de Norwich Union que es un deporte de billar. Snooker se utiliza como una bola de taco y como una bola de billar.
+Ronnie O'Sullivan fue el ganador de los Masters alemanes 2012 que es un torneo de clasificación en snooker y tiene 106 participantes.
+El clásico Paul Hunter 2010 es organizado por la World Professional Billiards y Snooker Association. Snooker se utiliza como una bola de taco y como una bola de snooker.
+El Masters alemán 2011 es un torneo de eliminación única de snooker que utiliza bolas de snooker y accesorios de snooker.
+John Higgins fue el ganador del British Open 1995 que es organizado por la World Professional Billiards and Snooker Association y es un torneo de eliminación única.
+James Wattana fue el ganador del Campeonato Asiático de Snooker de 1988 ABSF, que es un campeonato con 24 participantes.
+Bjorn Haneveer fue el ganador del PIOS 2008 - Evento 1 que fue un torneo de clasificación con 140 participantes.
+Fergal O'Brien ganó el British Open (I) de 1999, que es un torneo de clasificación y un torneo de eliminación única.
+El ganador del Shoot-Out Snooker 2015, que fue un torneo de eliminación única, fue Michael White. Hubo 64 participantes.
+Lee Walker ganó el Campeonato Mundial de Seniors 2022, que es un torneo de eliminación individual y un torneo de invitación.
+El Campeonato del Reino Unido de 2022 está organizado por la World Professional Billiards and Snooker Association y cuenta con 144 participantes. El ganador del Campeonato del Reino Unido de 2022 es Mark Allen.
+El Masters 1978 es organizado por la World Professional Billiards and Snooker Association y utiliza accesorios de snooker.
+El Campeonato Profesional Escocés 1981 tiene 8 participantes y es un torneo de eliminación única.
+El Australian Goldfields Open 2014, que cuenta con 130 participantes, está dominado por el snooker, que utiliza bolas de taco.
+El Campeonato del Reino Unido de 1980 tiene un deporte de snooker que utiliza palos de taco.
+El Master alemán 2025 cuenta con 128 participantes y el ganador es Kyren Wilson.
+El British Open 2000 es un torneo de snooker donde se usa la bola cue.
+La bola cue se utiliza en snooker, que es el deporte del clásico Paul Hunter 2014.
+El EBSA European Snooker Championship 2012 es un torneo de eliminación única con 80 participantes.
+2006 PIOS - Evento 1 es un torneo de clasificación y un torneo de eliminación única.
+2007 PIOS - Evento 1 fue un torneo calificador y el ganador fue Simon Bedford.
+El Abierto de Gales de 1994 es un torneo de billar donde se utiliza la bola cue.
+El Campeonato Europeo de Snooker de 1999 es un deporte de snooker que utiliza una pelota de snooker.
+El deporte de snooker se juega en el Welsh Open 2010.
+El Abierto de Otoño de Pontins 1991 es un torneo invitado.
+El deporte de snooker se juega en el Campeonato del Reino Unido de 2009.
+El Campeonato del Reino Unido de 1993 es un torneo de eliminación única.
+El deporte Masters 2005 es snooker.
+El número de participantes en el Campeonato Asiático de Snooker de 1991 ACBS es 2.
+1997 British Open es un torneo de clasificación.
+El Campeonato Profesional Escocés 1988 es un campeonato.
+El Campeonato Asiático de Snooker 2010 de ACBS es un campeonato.
+La americana Rachel Brice es bailarina y coreógrafa, bailarina de vientre y coreógrafa, el mundo árabe es el origen de la danza del vientre, que fue inventada el 01 de enero -5000.
+Sofinar Grigoryan es un bailarín del vientre de Armenia, Rusia y Egipto. El mundo árabe es el origen de la danza del vientre que fue creado el 01 de enero -5000.
+El país de ciudadanía de Anita Berber es el Imperio Alemán y la República de Weimar. Ella es una bailarina que realiza baile erótico. También es actor y actúa en el teatro.
+Shantae es un personaje de videojuegos y también un jinn en una obra de ficción. Es un bailarín que realiza danza del vientre que se originó en el Medio Oriente y fue inventado el 01 de enero -5000.
+Katie Voutsakis es una bailarina de vientre de Egipto y Grecia. El mundo árabe es el origen de la danza del vientre que fue inventado el 01 de enero -5000.
+La República Social Italiana es el país de los ciudadanos de Bruno que es un bailarín de vals. Es una instancia de un personaje literario y un personaje de cine. Está presente en Sal, o los 120 Días de Sodoma. El vals tiene una firma de tiempo de 3/4.
+Louise Frevert es del Reino de Dinamarca y es coreógrafa, bailarina de vientre, bailarina de ballet y coreógrafa. La danza del vientre proviene del mundo árabe y del Medio Oriente.
+Anton du Beke es del Reino Unido y es ciudadano del Reino Unido. Es bailarín, coreógrafo, presentador de televisión y intérprete de música. Es bailarín de salón y coreógrafo.
+Nejla Ateş es una bailarina del vientre que es un ciudadano de Turquía y Rumania. El mundo árabe es el origen de la danza del vientre que fue inventado el 01 de enero -5000.
+El ciudadano turco Didem es un bailarín del vientre cuya ocupación es la bailarina. Danza del vientre se originó en el mundo árabe y el Oriente Medio y fue creado el 01 de enero -5000.
+Salma Hayek es una bailarina de vientre cuyos orígenes son del mundo árabe y del Medio Oriente. Es ciudadana de Francia, México, Estados Unidos y Estados Unidos.
+Aché Nana es bailarina de vientre en el Reino de Italia, Líbano e Italia. El mundo árabe es el origen de la danza del vientre.
+Ighraa es una bailarina siria y ciudadana de Siria. Ella es una bailarina del vientre cuyos orígenes son el mundo árabe y el Medio Oriente. La danza del vientre fue fundada el 01 de enero -5000.
+Alexandre Paulikevitch es un bailarín que es de Líbano y es ciudadano de Líbano. Realiza danza del vientre que se originó en el mundo árabe y se originó en el Medio Oriente.
+Cardi B es de los Estados Unidos y es ciudadana estadounidense. Ella es una bailarina que realiza hip hop, rap y baile erótico.
+Zoe Jakes es ciudadana estadounidense y bailarina de vientre. El mundo árabe y el Medio Oriente son los orígenes de la danza del vientre que se inventó el 01 de enero -5000.
+Zouba El-Klobatiyya es un bailarín de vientre e intérprete baladi en el Sultanato de Egipto y la República de Egipto. También es ciudadano del Reino de Egipto y la República de Egipto.
+Serena Wilson es ciudadana estadounidense y bailarina de vientre. El mundo árabe y el Medio Oriente son los orígenes de la danza del vientre que se inventó el 01 de enero -5000.
+Stanley Donen es bailarín, coreógrafo, director de cine y bailarín de tap.
+Jamileh es una bailarina de Irán y es una bailarina del vientre. El Oriente Medio es el origen de la danza del vientre que fue inventado el 01 de enero -5000.
+Nancy Callahan es de los Estados Unidos y es ciudadana estadounidense. Ella es un personaje de cómics, un personaje de cine y una bailarina erótica. Ella estaba en Sin City: A Dame to Kill For.
+Peggy Spencer es bailarina y coreógrafa en el Reino Unido de Gran Bretaña e Irlanda. Es bailarina de salón de baile.
+Dany Bustros es un bailarín que es ciudadano del Líbano y realiza danza del vientre. El mundo árabe es el origen de la danza del vientre que fue creado el 01 de enero -5000.
+Mousbah Baalbaki es una bailarina del vientre cuya ocupación es la bailarina. Danza del vientre se originó en el mundo árabe y el Medio Oriente y fue creado el 01 de enero -5000.
+Estelle Asmodelle es una ciudadana de Australia y su estilo de baile es danza del vientre. El mundo árabe es el origen de la danza del vientre que fue creado el 01 de enero -5000.
+Ma es bailarina, coreógrafa y compositora de música. Es ciudadana estadounidense y baila tap dance.
+Julianne Hough es bailarina, coreógrafa y actriz, es de los Estados Unidos y bailarina de salón de baile.
+Shakira, cuyo país de ciudadanía es Colombia, es una bailarina del vientre. El mundo árabe y el Medio Oriente son los orígenes de la danza del vientre que fue fundada el 01 de enero -5000.
+Sally Mursi es bailarina de vientre de Egipto y proviene del mundo árabe y del Medio Oriente.
+El país de la ciudadanía de Victor Kanevsky es la Unión Soviética y es ciudadano estadounidense. Es bailarín de salón y coreógrafo.
+Vartika Jha es bailarina de pop y coreógrafa de la India.
+Kini Kapahu es un bailarín en los Estados Unidos y el Reino de Hawaii. Es un bailarín de hula.
+Pierre Dulaine es un bailarín de salón de Irlanda y Jordania.
+El canadiense Jean-Marc Généreux es bailarín de salón y coreógrafo.
+Anna Janeczko es bailarina de salón de Polonia y trabaja en los campos de agronomía, brassinosteroides y agronomía.
+Kevin Clifton es bailarín de salón y coreógrafo. Es del Reino Unido y es ciudadano del Reino Unido.
+Gatito Natividad es un ciudadano mexicano que realiza baile erótico como bailarín y actor.
+Edna Deane es bailarina y coreógrafa del Reino Unido. Es bailarina de salón y coreógrafa.
+El estilo de danza de Nadia Gamal es la danza del vientre que se origina en el mundo árabe y el Medio Oriente.
+Charles Castle es del Reino Unido y es bailarín de tap.
+El país de Matti Nykänen es Finlandia y es instructor de saltos de esquí. Su estilo de baile es el baile erótico.
+El ciudadano francés Jean-Pierre Cassel es bailarín de tap.
+La Goony Chonga es una ciudadana estadounidense que realiza baile erótico y es bailarina.
+Alec Mazo es ciudadano estadounidense y bailarín de salón.
+Karen y Marcus Hilton son una pareja casada y un dúo de baile de salón.
+Nueva Zelanda es el hogar de Suga Pop que es un popper y un bailarín.
+Sammy Davis Jr es ciudadano estadounidense y bailarín de claqué.
+Corky Ballas es un ciudadano estadounidense y un coreógrafo. Su estilo de baile es el baile de salón.
+Harm Agteresch es una bailarina de claqué del Reino de los Países Bajos.
+El estilo de danza de Jade Above es la música house que se origina en los Estados Unidos.
+El estilo de baile de Badia Masabni es la danza del vientre que se originó en el mundo árabe.
+Caity Brown es bailarina Waacking.
+Jose DeCamps es un bailarín de salón.
+El país de ciudadanía de Charles Albert Bridges III es Estados Unidos y es bailarín de salón.
+Henry "Crip" Heard es un bailarín de claqué.
+Hanna Rn Ladóttir es bailarina de salón.
+El país de ciudadanía de Jared Murillo es Estados Unidos y es bailarín de salón.
+El estilo de baile de Lova Moor es el baile erótico.
+El estilo de baile de Nadja Abd el Farrag es el baile del vientre.
+El estilo de baile de Ervinas Merfeldas es el baile de salón.
+Gregorio Hernández Ros es bailarín de Rumba.
+El estilo de baile de Jake Pavelka es el baile erótico.
+El estilo de baile de Jonathan Roberts es el baile de salón.
+El estilo de baile de Maurizio Benenato es el baile de salón.
+El estilo de baile de Angel Salvadore es el baile erótico.
+El estilo de baile de Alex Da Silva es la salsa.

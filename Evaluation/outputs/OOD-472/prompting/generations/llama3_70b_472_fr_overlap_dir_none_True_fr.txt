@@ -1,0 +1,472 @@
+Jeju Air, une compagnie aérienne basée en Corée du Sud, a pour code comptable aérien 806, pour indicatif IATA 7C, pour indicatif OACI JJA et pour nom officiel 주식회사 제주항공. Son site officiel est accessible à l'adresse http://www.jejuair.net et son indicatif d'appel est JEJU AIR.
+Cathay Pacific, dont le nom officiel est 國泰航空公司, est une compagnie aérienne basée en République populaire de Chine. Ses codes sont 160 pour la comptabilité aérienne, CX pour le désignateur IATA, CPA pour le désignateur OACI et CATHAY pour son indicatif d'appel. Vous pouvez consulter son site officiel à l'adresse https://www.cathaypacific.com.
+Bulgaria Air, dont le site officiel est http://www.air.bg/en/, est une compagnie aérienne basée en Bulgarie. Elle est identifiée par le code comptable 623, le désignateur IATA FB et le callsign FLYING BULGARIA. Son nom officiel est „България Еър“ АД.
+Pakistan International Airlines, dont le code comptable est 214, est une compagnie aérienne basée au Pakistan. Son indicatif d'appel est PAKISTAN et son désignateur OACI est PIA. La compagnie aérienne est officiellement nommée پاکِستان اِنٹَرنیشَنَل ایئر لائنزs et son site officiel est accessible à l'adresse https://www.piac.com.pk/.
+Vanilla Air est une compagnie aérienne basée au Japon. Son code comptable est 842, son indicatif IATA est JW et son indicatif OACI est VNL. Son nom officiel est バニラ・エア株式会社.
+El Al, compagnie aérienne d'Israël, a pour code comptable 114, pour désignateur IATA LY, et pour indicatif d'appel ELAL. Son nom officiel est אל על נתיבי אויר לישראל בע''מ.
+Lufthansa, une compagnie aérienne allemande, a un code comptable de 220 et un indicatif d'appel de LUFTHANSA. Son site officiel est accessible à l'adresse https://www.lufthansa.com/de/de/.
+CSA Czech Airlines, dont le code comptable est 064, est basée en Tchéquie et a pour indicatif IATA OK. Son appel d'airline est CSA-LINES.
+Air France, compagnie aérienne française, a pour code comptable aérien 057 et pour désignateur aérien IATA AF.
+Brussels Airlines, dont le code comptable est 082, est basée en Belgique et utilise le surnom d'appel BEELINE.
+L'éthanol, dont la formule chimique est C₂H₆O, a une représentation canonique en SMILES « CCO » et un code InChI « InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3 ». Il est également connu par son code ATC D08AX08 et son code Kemler 33, qui correspond à la locomotive de disposition 030. L'éthanol est utilisé comme solvant et peut présenter un danger lié à l'exposition à l'éthanol.
+Le phénol, dont la formule chimique est C₆H₆O, a pour code Kemler 60, code ATC R02AA19, et pour représentation canonique SMILES C1=CC=C(C=C1)O. Il a un InChI égal à InChI=1S/C6H6O/c7-6-4-2-1-3-5-6/h1-5,7H. Il est associé à un danger lié à l'exposition au phénol. Il est utilisé comme médication.
+L'oxyde de magnésium (MgO) est un composé chimique dont la formule est MgO et dont le SMILES est O=[Mg]. Son InChI est InChI=1S/Mg.O. Il est utilisé comme additif alimentaire et a un code ATC A02AA02. Il est associé à un risque d'exposition à l'oxyde de magnésium.
+Le dioxyde de carbone (CO₂) est un gaz qui peut présenter un danger lié à l'exposition. Il a une formule chimique de CO₂ et est identifiable par son code ATC V03AN02, sa représentation canonique SMILES C(=O)=O et son InChI InChI=1S/CO2/c2-1-3. Le dioxyde de carbone est utilisé comme liquide de refroidissement.
+L'alcool isopropylique, également connu sous le code ATC D08AX05, a une formule chimique C₃H₈O et peut être représenté par la notation SMILES CC(C)O ou InChI InChI=1S/C3H8O/c1-3(2)4/h3-4H,1-2H3. Il est utilisé comme désinfectant.
+Le mechlorethamine, dont la formule chimique est C₅H₁₁Cl₂N et dont la représentation canonique SMILES est CN(CCCl)CCCl, a un code ATC L01AA05 et est associé à un danger d'exposition au mechlorethamine. Il est utilisé comme agent de vessie.
+L'hydroquinone, dont la formule chimique est C₆H₆O₂, a un code ATC D11AX11 et est associée à un danger lié à l'exposition à l'hydroquinone. Elle a également un usage comme agent réducteur.
+L'alcool isopropylique, dont la formule chimique est C₃H₈O et la représentation SMILES est CC(C)O, a pour code ATC D08AX05 et est utilisé comme insecticide.
+Le glycerol, dont le code ATC est A06AG04 et la formule canonique SMILES est C(C(CO)O)O, a pour usage d'être un humectant.
+La strychnine, dont la formule chimique est C₂₁H₂₂N₂O₂, a un code Kemler de 66 et est utilisée comme adultérant.
+L'ESWC 2023, qui a lieu en Grèce, a accueilli Dieter Fensel comme conférencier. L'événement a reçu 167 soumissions, dont 41 ont été acceptées, ce qui représente un taux d'admission de 0,1939. La langue utilisée était l'anglais. VideoLectures.net est le sponsor de l'événement.
+La 22e Conférence internationale sur le web sémantique a eu lieu en Grèce, avec Gerhard Weikum comme conférencier. La langue utilisée était l'anglais. Le taux d'admission était de 0,194, avec 33 contributions acceptées sur 411 soumissions. La conférence a été sponsorisée par Ontotext.
+La conférence The Web Conference 2024 aura Jon Kleinberg comme conférencier et utilisera la langue anglaise. Elle a reçu 2008 soumissions et en a accepté 405. Le Technology Innovation Institute est le sponsor de l'événement qui se tiendra à Singapour.
+Lora Aroyo est l'un des speakers de la conférence Neural Information Processing Systems 2023, qui a eu lieu aux États-Unis. La langue utilisée était l'anglais. Sur 13 330 soumissions, 3540 ont été acceptées, ce qui représente un taux d'admission de 0,261.
+La conférence internationale conjointe 2024 sur la linguistique computationnelle, les ressources linguistiques et l'évaluation a eu lieu en Italie et a utilisé la langue anglaise. Sur 3471 soumissions, 1556 ont été acceptées, ce qui représente un taux d'admission de 0,52.
+La 5ème Conférence Internationale sur les Interfaces Utilisateur Conversationnelles a eu lieu aux Pays-Bas et a utilisé la langue anglaise. Sur 60 soumissions, 22 ont été acceptées, ce qui représente un taux d'admission de 0,367.
+La conférence ENTER24 - 31e Conférence internationale annuelle sur l'eTourisme a reçu 75 soumissions et en a accepté 46. La langue utilisée était l'anglais et elle a eu lieu en Turquie.
+La conférence 2018 sur les méthodes empiriques en traitement automatique du langage naturel, qui a eu lieu en Belgique, a reçu 2231 soumissions et en a accepté 351. Johan Bos était l'un des conférenciers.
+La Conférence 2023 sur les facteurs humains dans l'informatique, qui aura lieu en Allemagne, est sponsorisée par Google et utilisera l'anglais comme langue officielle.
+La Trente-Quatrième Conférence sur l'Intelligence Artificielle de l'AAAI, qui a lieu aux États-Unis, utilise la langue anglaise et a un taux d'admission de 0,24.
+Jeju Air est une compagnie aérienne basée en Corée du Sud, pays où le taux de suicide est de 21,2, l'indice de développement humain ajusté pour l'inégalité est de 0,838 et le score de l'indice de planète heureuse est de 39,8. La compagnie aérienne a pour code comptable 806, pour désignateur IATA 7C, pour désignateur OACI JJA et pour indicatif d'appel JEJU AIR. Son site officiel est http://www.jejuair.net et son nom officiel est 주식회사 제주항공.
+Cathay Pacific, dont le nom officiel est 國泰航空公司, est une compagnie aérienne basée en République populaire de Chine. Elle a pour code IATA CX, code OACI CPA, et son indicatif d'appel est CATHAY. Son code comptable est 160. Vous pouvez consulter son site officiel à l'adresse https://www.cathaypacific.com. La République populaire de Chine, pays où est basée Cathay Pacific, a un indice de développement humain ajusté pour l'inégalité de 0,651, un indice de démocratie de 2,21 et un score d'indice de planète heureuse de 41,9.
+Bulgaria Air, dont le site officiel est http://www.air.bg/en/, est une compagnie aérienne bulgare, basée en Bulgarie, pays où l'indice de développement humain ajusté pour l'inégalité est de 0,701, l'indice de démocratie est de 6,71 et l'indice de bonheur planétaire est de 40,1. La compagnie aérienne a pour code IATA FB, pour appel radio FLYING BULGARIA et pour code comptable 623. Son nom officiel est „България Еър“ АД. La Bulgarie, pays de la compagnie aérienne, a un taux de suicide de 6,5.
+Pakistan International Airlines, dont le code comptable est 214, est une compagnie aérienne basée au Pakistan. Son indicatif d'appel est PAKISTAN et son désignateur OACI est PIA. La compagnie aérienne a pour nom officiel پاکِستان اِنٹَرنیشَنَل ایئر لائنز et son site officiel est https://www.piac.com.pk/. Le Pakistan, pays où la compagnie aérienne est basée, a un taux de suicide de 9,8, un indice de développement humain ajusté pour l'inégalité de 0,38, un indice de démocratie de 4,31 et un score d'indice de planète heureuse de 45,1.
+Vanilla Air est une compagnie aérienne japonaise dont le code comptable est 842, le code IATA est JW et le code OACI est VNL. Son nom officiel est バニラ・エア株式会社. Elle est basée au Japon, pays où le taux de suicide est de 14,6, l'indice de développement humain ajusté pour l'inégalité est de 0,85, l'indice de démocratie est de 8,15 et le score de l'indice de planète heureuse est de 47,1. Le Japon, officiellement nommé 日本国, est le pays d'origine de Vanilla Air.
+El Al, la compagnie aérienne israélienne, a pour code comptable 114, pour désignateur IATA LY, et pour indicatif d'appel ELAL. Son nom officiel est אל על נתיבי אויר לישראל בע''מ. Elle est basée en Israël, pays qui a un taux de suicide de 5.2, un indice de développement humain ajusté pour l'inégalité de 0.815, un indice de démocratie de 7.97 et un score d'indice de planète heureuse de 48.2. Le nom officiel d'Israël est ישראל.
+Lufthansa est une compagnie aérienne allemande, basée en Allemagne, dont le code comptable est 220. Son indicatif d'appel est LUFTHANSA et son site officiel est https://www.lufthansa.com/de/de/. L'Allemagne, pays où Lufthansa est basée, a un taux de suicide de 8,3, un indice de développement humain ajusté pour l'inégalité de 0,883, une incidence de pauvreté de 16, un indice de démocratie de 8,67 et un score d'indice de planète heureuse de 52,7. Le nom officiel de l'Allemagne est Bundesrepublik Deutschland.
+CSA Czech Airlines, dont le code comptable est 064, est une compagnie aérienne basée en Tchéquie, pays où le taux de suicide est de 9.5, l'indice de développement humain ajusté pour l'inégalité est de 0.85, l'indice de démocratie est de 7.67 et le score de l'indice de planète heureuse est de 46.8. La compagnie aérienne a pour indicatif IATA OK et pour appel CSA-LINES. Le site officiel de la Tchéquie, dont le nom officiel est Česká republika, est https://www.czechia.eu/.
+Air France est une compagnie aérienne française dont le code comptable est 057, le désignateur IATA est AF et le pays d'origine est la France. La France, officiellement nommée République française, a un site officiel à l'adresse https://www.service-public.fr/. Elle a un taux de suicide de 9,7, un indice de développement humain ajusté pour l'inégalité de 0,825, un taux de pauvreté de 13,6, un indice de démocratie de 7,99 et un score d'indice de planète heureuse de 51,8.
+Brussels Airlines est une compagnie aérienne belge dont le code comptable est 082 et le surnom est BEELINE. Elle est basée en Belgique, un pays dont le site officiel est https://www.belgium.be/. La Belgique a un taux de suicide de 20,7, un indice de développement humain ajusté pour l'inégalité de 0,874, un taux de pauvreté de 13,1, un indice de démocratie de 7,51 et un score d'indice de planète heureuse de 42,5. Le nom officiel de la Belgique est Koninkrijk België.
+La Corée du Sud a un taux de suicide de 21,2, un indice de développement humain ajusté pour l'inégalité de 0,838 et un score d'indice de planète heureuse de 39,8.
+La république populaire de Chine a un indice de développement humain ajusté pour l'inégalité de 0,651, un indice de démocratie de 2,21 et un score d'indice de planète heureuse de 41,9.
+La Bulgarie a un taux de suicide de 6,5, un indice de développement humain ajusté pour les inégalités de 0,701, un indice de démocratie de 6,71 et un score d'indice de planète heureuse de 40,1.
+Au Pakistan, le taux de suicide est de 9,8, l'indice de développement humain ajusté pour les inégalités est de 0,38, l'indice de démocratie est de 4,31 et le score de l'indice de planète heureuse est de 45,1.
+Le Japon, officiellement appelé 「日本国」, a un taux de suicide de 14,6, un indice de développement humain ajusté pour l'inégalité de 0,85, un indice de démocratie de 8,15 et un score d'indice de planète heureuse de 47,1.
+Israël a un taux de suicide de 5,2, un indice de développement humain ajusté pour l'inégalité de 0,815, un indice de démocratie de 7,97 et un score d'indice de planète heureuse de 48,2. Le nom officiel d'Israël est ישראל.
+L'Allemagne, officiellement appelée Bundesrepublik Deutschland, a un taux de suicide de 8,3, un indice de développement humain ajusté pour les inégalités de 0,883, une incidence de pauvreté de 16%, un indice de démocratie de 8,67 et un score d'indice de planète heureuse de 52,7.
+La Tchéquie, officiellement appelée Česká republika, a un taux de suicide de 9,5, un indice de développement humain ajusté pour l'inégalité de 0,85, un indice de démocratie de 7,67 et un score d'indice de planète heureuse de 46,8. Le site officiel du pays est https://www.czechia.eu/.
+La République française, également connue sous le nom de France, a un taux de suicide de 9,7, un indice de développement humain ajusté pour l'inégalité de 0,825, une incidence de pauvreté de 13,6, un indice de démocratie de 7,99 et un score d'indice de planète heureuse de 51,8. Le site officiel de la France est https://www.service-public.fr/.
+La Belgique, officiellement appelée Koninkrijk België, a un taux de suicide de 20,7, un indice de développement humain ajusté pour l'inégalité de 0,874, une incidence de pauvreté de 13,1%, un indice de démocratie de 7,51 et un score d'indice de planète heureuse de 42,5. Vous pouvez en savoir plus sur le site officiel de la Belgique, https://www.belgium.be/.
+KLM Royal Dutch Airlines, dont le nom officiel est Koninklijke Luchtvaart Maatschappij N.V., est une compagnie aérienne basée aux Pays-Bas. Ses codes sont : 074 pour la comptabilité aérienne, KL pour le désignateur IATA, KLM pour le désignateur ICAO et KLM pour l'appel radio. Vous pouvez consulter son site officiel à l'adresse http://www.klm.com.
+Arik Air, dont le site officiel est http://www.arikair.com/, est une compagnie aérienne basée au Nigeria. Ses codes sont les suivants : code comptable de la compagnie aérienne 725, désignateur IATA W3, désignateur OACI ARA et indicatif d'appel ARIK.
+Finnair, dont le nom officiel est Finnair Oyj, est une compagnie aérienne basée en Finlande. Ses codes sont les suivants : code comptable de l'airline 105, désignateur IATA AY, désignateur OACI FIN et indicatif d'appel FINNAIR. Le site officiel de Finnair est accessible à l'adresse https://www.finnair.com/.
+Air New Zealand, dont le nom officiel est AIR NEW ZEALAND LIMITED, est une compagnie aérienne basée en Nouvelle-Zélande. Elle utilise le code comptable 086, le code IATA NZ, le code OACI ANZ et le nom d'appel NEW ZEALAND. Vous pouvez consulter son site officiel à l'adresse https://www.airnewzealand.com.
+Nas Air est une compagnie aérienne basée en Arabie saoudite. Elle a pour code comptable aérien 593, pour indicatif IATA XY, pour indicatif OACI KNE et pour appel radio NAS EXPRESS. La compagnie aérienne a pour site officiel http://www.flynas.com.
+Dana Air est une compagnie aérienne basée au Nigeria. Ses codes sont : 234 pour la comptabilité aérienne, 9J pour le désignateur IATA, DAN pour le désignateur OACI et DANACO pour son indicatif d'appel. Vous pouvez consulter son site officiel à l'adresse http://www.flydanaair.com/.
+Loong Air, dont le site officiel est http://www.loongair.cn, est une compagnie aérienne basée en république populaire de Chine. Ses codes sont les suivants : code comptable de l'airline 891, désignateur IATA GJ, désignateur OACI CDC et indicatif d'appel HUALONG. La compagnie est officiellement connue sous le nom de Zhejiang Loong Airlines Company Limited.
+Horizon Air est une compagnie aérienne basée aux États-Unis. Elle a un code comptable de 481, un indicatif IATA de QX, un indicatif OACI de QXE et un indicatif d'appel de HORIZON AIR. Vous pouvez consulter son site officiel à l'adresse http://www.horizonair.com/.
+Hi Fly est une compagnie aérienne basée au Portugal. Elle a pour code comptable aérien 026, pour désignateur aérien IATA 5K, pour indicatif d'appel SKY FLYER et pour désignateur aérien OACI HFY. Vous pouvez consulter son site officiel à l'adresse http://www.hifly.aero/en/.
+Seaborne Airlines est une compagnie aérienne basée aux États-Unis. Elle a un code de comptabilité aérienne de 376, un indicatif IATA de BB, un indicatif OACI de SBS et un indicatif d'appel de SEABORNE. Le site officiel de Seaborne Airlines est accessible à l'adresse http://www.seaborneairlines.com/.
+Safair est une compagnie aérienne basée en Afrique du Sud. Elle a un code de comptabilité aérienne de 640, un indicatif IATA de FA, un indicatif d'appel de CARGO et un indicatif OACI de SFR. Le site officiel de Safair est accessible à l'adresse http://www.safairoperations.com/.
+Asiana Airlines, dont le siège est situé en Corée du Sud, est une compagnie aérienne identifiée par le code comptable 988, le code IATA OZ et le code OACI AAR. La compagnie est officiellement nommée Asiana Airlines Inc. et son site officiel est accessible à l'adresse https://www.flyasiana.com.
+Turkish Airlines, dont le nom officiel est Türk Hava Yolları, est une compagnie aérienne basée en Turquie. Son indicatif IATA est TK, son indicatif OACI est THY et son indicatif d'appel est TURKISH. Vous pouvez consulter son site officiel à l'adresse https://www.turkishairlines.com/.
+Chalair Aviation, dont le nom officiel est CHALAIR AVIATION, est une compagnie aérienne avec les codes suivants : code comptable aérien 980, désignateur aérien IATA CE, indicatif d'appel CHALLAIR et désignateur aérien OACI CLG. Le site officiel de la compagnie est accessible à l'adresse https://www.chalair.fr/.
+LAN Cargo, également connu sous le nom de LATAM Cargo Chile, est une compagnie aérienne basée au Chili. Elle utilise le code comptable aérien 145, le désignateur aérien IATA UC, le désignateur aérien OACI LCO et est identifiée par l'appel radio LAN CARGO.
+Taron Avia, dont le site officiel est http://taron-avia.am/en, est identifiée par plusieurs codes : 379 pour la comptabilité aérienne, H7 pour le désignateur IATA, TARONAVIA pour l'appel radio et TRV pour le désignateur OACI.
+La compagnie aérienne Globus, dont le code pays est la Russie, utilise le code comptable aérien 674, le désignateur aérien IATA GH (qui est également le code pays du Ghana) et le désignateur aérien OACI GLP. Le site officiel de Globus est accessible à l'adresse http://www.s7.ru.
+Middle East Airlines, également connue sous le nom de MEA, a un code comptable aérien de 076, un indicatif aérien IATA de ME, un indicatif d'appel de CEDAR JET et un indicatif aérien OACI de MEA. Le site officiel de la compagnie aérienne est accessible à l'adresse https://www.mea.com.lb/.
+Air Panama est une compagnie aérienne basée au Panama. Elle est identifiée par le code comptable aérien 600, le désignateur aérien IATA 7P, le désignateur aérien OACI PST et le nom d'appel TURISMO REGIONAL.
+Albawings est une compagnie aérienne identifiée par le code de comptabilité aérienne 654, le désignateur IATA 2B, le désignateur OACI AWT et l'appel radio ALBAWINGS. Le site officiel de la compagnie est accessible à l'adresse http://www.albawings.com.
+European Air Transport Leipzig est une compagnie aérienne basée en Allemagne. Elle est identifiée par le code comptable des compagnies aériennes 615, le désignateur IATA QY, le désignateur OACI BCS et le nom d'appel POSTMAN.
+Kunming Airlines, basée en république populaire de Chine, a un code de comptabilité aérienne de 833, un indicatif IATA de KY et un indicatif d'appel de KUNMING AIR. Vous pouvez consulter son site officiel à l'adresse http://www.airkunming.com/.
+Yemenia est une compagnie aérienne du pays du Yémen. Elle a le code comptable aérien 635, le désignateur aérien IATA IY et le désignateur aérien OACI IYE.
+Les Linhas Aéreas de Moçambique (LAM Mozambique Airlines) sont basées au Mozambique. L'entreprise aérienne a le code comptable 068, le désignateur IATA TM et le désignateur OACI LAM.
+DHL International Aviation ME est basé au Bahreïn et a le code de comptabilité aérienne 155. Son indicatif d'appel est DILMUN et son désignateur aérien OACI est DHX.
+Aurora, une compagnie aérienne russe, a pour indicatif d'appel SATAIR, pour désignateur aérien ICAO SHU et possède un site officiel à l'adresse http://www.flyaurora.ru/en.
+Malawi Airlines a un code comptable aérien de 529, un indicatif aérien IATA de 3W et un indicatif d'appel de MALAWIAN. Le site officiel de la compagnie aérienne est accessible à l'adresse https://www.malawian-airlines.com/.
+Hawaiian Airlines a un code comptable aérien de 173, un indicatif aérien IATA de HA et un indicatif d'appel de HAWAIIAN. Le site officiel de la compagnie aérienne est https://www.hawaiianairlines.com/.
+Fuzhou Airlines, basée dans la république populaire de Chine, a pour indicatif IATA "FU", pour indicatif OACI "FZA" et pour appel radio "STRAIT AIR".
+Icelandair, dont le code comptable est 108, a pour indicatif IATA FI et pour indicatif d'appel ICEAIR. Son site officiel est accessible à l'adresse http://www.icelandair.com.
+La compagnie aérienne Twin Jet a un code comptable aérien de 294 et un désignateur aérien OACI de TJT. Son site officiel est accessible à l'adresse http://www.twinjet.fr.
+La compagnie aérienne BMI Regional, également connue sous le nom de Flybmi, utilise le code comptable aérien 480, l'indicatif d'appel MIDLAND et le désignateur aérien OACI BMR.
+Avianca Ecuador a pour indicatif IATA « 2K » et pour indicatif d'appel « AEROGAL ». Son site officiel est https://www.avianca.com/otr/en/.
+Aircalin, officiellement connue sous le nom d'AIR CALEDONIE INTERNATIONAL, est une compagnie aérienne basée en France et possède le code comptable aérien 063.
+ViaAir est une compagnie aérienne basée aux États-Unis, qui utilise le code de comptabilité aérienne 359 et le désignateur aérien IATA VC.
+AlMasria Universal Airlines a un code comptable aérien de 110, un indicatif d'appel de vol ALMASRIA et un désignateur d'entreprise aérienne OACI de LMU.
+Blue Panorama Airlines S.p.A. a un code comptable aérien de 004, un indicatif aérien IATA de BV et un site officiel à l'adresse http://www.blue-panorama.com.
+Línea Aérea Amaszonas a pour indicatif IATA Z8, pour indicatif OACI AZN et pour nom d'appel AMASZONAS.
+Volaris a pour indicatif ATA Y4 et pour indicatif OACI VOI.
+Nippon Cargo Airlines est une compagnie aérienne basée au Japon et possède un site officiel : http://www.nca.aero.
+IrAero a le code comptable des compagnies aériennes 154 et le désignateur d'airline de l'OACI IAE.
+Ernest Airlines, dont l'indicatif d'appel est ERNEST, a un site officiel accessible à l'adresse https://flyernest.com.
+Air Corsica, officiellement dénommée Air Corsica, a pour indicatif d'appel CORSICA.
+L'indicatif d'appel de l'airline Uni Air est GLORY et son site officiel est https://www.uniair.com.tw/.
+Sriwijaya Air, dont l'indicatif d'appel est SRIWIJAYA, a un site officiel : http://www.sriwijayaair.co.id/id.
+Shenzhen Airlines, dont le surnom est SHENZHEN AIR, est une compagnie aérienne basée en république populaire de Chine.
+Air Sinai a le code comptable aérien 903 et le désignateur aérien OACI ASD.
+Royal Jordanian est de Jordanie.
+La péninsule Ibérique est située en Espagne.
+L'indicatif d'appel de la compagnie aérienne ASL Airlines Belgium est QUALITY.
+Evelop Airlines est basée en Espagne.
+L'indicatif d'appel de la compagnie aérienne TUI fly Belgium est BEAUTY.
+L'appel radio de la compagnie aérienne Severstal Air Company est SEVERSTAL.
+L'indicateur d'entreprise aérienne de l'OACI pour Avianca Costa Rica est LRC.
+Le code comptable aérien de Condor est 881.
+Le code comptable aérien d'Air Algérie est 124.
+L'acide phosphorique (H₃PO₄) est un additif alimentaire et un régulateur alimentaire de pH qui a pour usage de synergiste. Il a une formule chimique de H₃PO₄ et une représentation canonique SMILES de OP(=O)(O)O. Il est également connu par son InChI : InChI=1S/H3O4P/c1-5(2,3)4/h(H3,1,2,3,4). Cependant, il est associé à un danger, l'exposition à l'acide phosphorique.
+L'ammoniac (NH₃) est un fluide frigorigène qui a pour usage de servir de gaz de levage et de solvant protique. Cependant, il est associé à un danger, l'intoxication à l'ammoniac. Sa formule chimique est NH₃ et son InChI est InChI=1S/H3N/h1H3.
+L'aspartame, également connu sous la formule chimique C₁₄H₁₈N₂O₅, est un édulcorant et un sucrette utilisé comme additif alimentaire et médicament. Sa formule canonique SMILES est COC(=O)C(CC1=CC=CC=C1)NC(=O)C(CC(=O)O)N et son InChI est InChI=1S/C14H18N2O5/c1-21-14(20)11(7-9-5-3-2-4-6-9)16-13(19)10(15)8-12(17)18/h2-6,10-11H,7-8,15H2,1H3,(H,16,19)(H,17,18)/t10-,11-/m0/s1.
+L'eau (H₂O) a plusieurs usages, notamment en hydroponie, comme fluide frigorigène, pour stocker de l'énergie potentielle et en tant que fluide réfrigérant dans les réacteurs nucléaires. Sa formule chimique est H₂O et son InChI est InChI=1S/H2O/h1H2.
+La riboflavine, dont la formule chimique est C₁₇H₂₀N₄O₆, a pour usages le médicament, l'additif alimentaire et le colorant alimentaire. Elle a également un code ATC S01XA26 et ses représentations moléculaires sont InChI=1S/C17H20N4O6/c1-7-3-9-10(4-8(7)2)21(5-11(23)14(25)12(24)6-22)15-13(18-9)16(26)20-17(27)19-15/h3-4,11-12,14,22-25H,5-6H2,1-2H3,(H,20,26,27)/t11-,12+,14-/m0/s1 et SMILES CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(CO)O)O)O.
+Le diméthyl sulfoxyde (formule chimique C₂H₆OS) est utilisé comme solvant aprotique polaire, comme solvant et comme médicament. Il a un code ATC M02AX03 et ses représentations chimiques sont CS(=O)C en SMILES et InChI=1S/C2H6OS/c1-4(2)3/h1-2H3 en InChI.
+L'acide citrique, dont la formule chimique est C₆H₈O₇, a pour usage de synergiste, d'additif alimentaire et de régulateur alimentaire de pH. Son code ATC est A09AB04 et sa représentation canonique en SMILES est C(C(=O)O)C(CC(=O)O)(C(=O)O)O. Son InChI est InChI=1S/C6H8O7/c7-3(8)1-6(13,5(11)12)2-4(9)10/h13H,1-2H2,(H,7,8)(H,9,10)(H,11,12).
+Le chlorure de sodium, également connu sous le nom de sel alimentaire, a pour usage comme médicament et comme sel de table. Il a une formule chimique de NaCl, une représentation canonique en SMILES [Na+].[Cl-] et un code InChI InChI=1S/ClH.Na/h1H;/q;+1/p-1. Il est également identifié par le code ATC B05XA03.
+Le 1,4-dichlorobenzène, dont la formule chimique est C₆H₄Cl₂, est utilisé comme insecticide et comme boule de naphtaline. Il a une représentation canonique en SMILES : C1=CC(=CC=C1Cl)Cl et un InChI : InChI=1S/C6H4Cl2/c7-5-1-2-6(8)4-3-5/h1-4H. Il est associé à un danger lié à l'exposition au 1,4-dichlorobenzène.
+La phénolphtaléine est utilisée comme médicament et comme indicateur et réactif. Elle a une formule chimique de C₂₀H₁₄O₄ et son code ATC est A06AB04. Sa représentation canonique en SMILES est C1=CC=C2C(=C1)C(=O)OC2(C3=CC=C(C=C3)O)C4=CC=C(C=C4)O et son InChI est InChI=1S/C20H14O4/c21-15-9-5-13(6-10-15)20(14-7-11-16(22)12-8-14)18-4-2-1-3-17(18)19(23)24-20/h1-12,21-22H.
+L'hydroxyde de potassium, également connu sous la formule chimique KOH, a pour usage d'additif alimentaire et d'indicateurs et réactifs. Il est important de noter que l'exposition à l'hydroxyde de potassium peut être dangereuse. Sa représentation canonique en SMILES est [OH-].[K+] et son InChI est InChI=1S/K.H2O/h;1H2/q+1;/p-1.
+Le citrate de magnésium, dont la formule chimique est C₆H₆O₇Mg, a pour usages laxatif et régulateur alimentaire de pH. Il a également un code ATC B05CB03 et sa représentation canonique en SMILES est [Mg+2].O=C([O-])CC(O)(CC(=O)[O-])C(O)=O. De plus, son InChI est InChI=1S/C6H8O7.Mg/c7-3(8)1-6(13,5(11)12)2-4(9)10;/h13H,1-2H2,(H,7,8)(H,9,10)(H,11,12);/q;+2/p-2.
+Le glutathione a pour usage médicament et antioxydant. Il a pour code ATC V03AB32 et sa formule chimique est C₁₀H₁₇N₃O₆S. Sa représentation canonique en SMILES est C(CC(=O)NC(CS)C(=O)NCC(=O)O)C(C(=O)O)N et son InChI est InChI=1S/C10H17N3O6S/c11-5(10(18)19)1-2-7(14)13-6(4-20)9(17)12-3-8(15)16/h5-6,20H,1-4,11H2,(H,12,17)(H,13,14)(H,15,16)(H,18,19)/t5-,6-/m0/s1.
+L'hydroxyde de calcium, également connu sous la formule chimique CaH₂O₂, a pour usage d'additif alimentaire et de liant. Il a une représentation canonique en SMILES [OH-].[OH-].[Ca+2] et une représentation InChI InChI=1S/Ca.2H2O/h;2*1H2/q+2;;/p-2. Cependant, il est associé à un risque d'exposition à l'hydroxyde de calcium.
+Le naphtalène a pour usage la boule de naphtaline. Il est associé à un danger, l'exposition au naphtalène. Sa formule chimique est C₁₀H₈ et sa représentation canonique en SMILES est C1=CC=C2C=CC=CC2=C1. Son identifiant InChI est InChI=1S/C10H8/c1-2-6-10-8-4-3-7-9(10)5-1/h1-8H.
+Le dactinomycine est un médicament qui a pour usage médical. Il a pour code ATC L01DA01. Sa formule chimique est C₆₂H₈₆N₁₂O₁₆. Sa représentation canonique en SMILES est CC1C(C(=O)NC(C(=O)N2CCCC2C(=O)N(CC(=O)N(C(C(=O)O1)C(C)C)C)C(C)C)NC(=O)C3=C4C(=C(C=C3)C)OC5=C(C(=O)C(=C(C5=N4)C(=O)NC6C(OC(=O)C(N(C(=O)CN(C(=O)C7CCCN7C(=O)C(NC6=O)C(C)C)C)C)C(C)C)C)N)C. Et sa représentation InChI est InChI=1S/C62H86N12O16/c1-27(2)42-59(84)73-23-17-19-36(73)57(82)69(13)25-38(75)71(15)48(29(5)6)61(86)88-33(11)44(55(80)65-42)67-53(78)35-22-21-31(9)51-46(35)64-47-40(41(63)50(77)32(10)52(47)90-51)54(79)68-45-34(12)89-62(87)49(30(7)8)72(16)39(76)26-70(14)58(83)37-20-18-24-74(37)60(85)43(28(3)4)66-56(45)81/h21-22,27-30,33-34,36-37,42-45,48-49H,17-20,23-26,63H2,1-16H3,(H,65,80)(H,66,81)(H,67,78)(H,68,79)/t33-,34-,36+,37+,42-,43-,44+,45+,48+,49+/m1/s1.
+La cocaïne a un usage médical et possède le code ATC S02DA02. Sa formule chimique est C₁₇H₂₁NO₄ et sa représentation canonique en SMILES est CN1C2CCC1C(C(C2)OC(=O)C3=CC=CC=C3)C(=O)OC. Elle a également une représentation InChI : InChI=1S/C17H21NO4/c1-18-12-8-9-13(18)15(17(20)21-2)14(10-12)22-16(19)11-6-4-3-5-7-11/h3-7,12-15H,8-10H2,1-2H3/t12-,13+,14-,15+/m0/s1.
+Le benzyl alcool a pour usage de servir de vecteur et de médicament. Il a un code ATC P03AX06 et une formule canonique SMILES C1=CC=C(C=C1)CO. Sa formule InChI est InChI=1S/C7H8O/c8-6-7-4-2-1-3-5-7/h1-5,8H,6H2.
+Le salicyclate de sodium est un médicament qui a pour usage la médication. Il a pour code ATC N02BA04 et sa formule chimique est C₇H₅NaO₃. Sa représentation canonique en SMILES est C1=CC=C(C(=C1)C(=O)[O-])O.[Na+] et son InChI est InChI=1S/C7H6O3.Na/c8-6-4-2-1-3-5(6)7(9)10;/h1-4,8H,(H,9,10);/q;+1/p-1.
+La guanéthidine est un médicament qui a pour usage la médication. Elle a pour code ATC S01EX01 et sa formule chimique est C₁₀H₂₂N₄. Sa représentation canonique en SMILES est C1CCCN(CCC1)CCN=C(N)N et son InChI est InChI=1S/C10H22N4/c11-10(12)13-6-9-14-7-4-2-1-3-5-8-14/h1-9H2,(H4,11,12,13).
+Le DDT est un insecticide qui a un usage spécifique. Il est associé à un danger lié à l'exposition au DDT. Sa formule chimique est C₁₄H₉Cl₅ et sa représentation canonique en SMILES est C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)Cl. Son identifiant InChI est InChI=1S/C14H9Cl5/c15-11-5-1-9(2-6-11)13(14(17,18)19)10-3-7-12(16)8-4-10/h1-8,13H.
+Le calcitriol a pour usage médicinal. Il a pour code ATC D05AX03. Sa formule chimique est C₂₇H₄₄O₃. Sa représentation canonique en SMILES est CC(CCCC(C)(C)O)C1CCC2C1(CCCC2=CC=C3CC(CC(C3=C)O)O)C. Et sa représentation InChI est InChI=1S/C27H44O3/c1-18(8-6-14-26(3,4)30)23-12-13-24-20(9-7-15-27(23,24)5)10-11-21-16-22(28)17-25(29)19(21)2/h10-11,18,22-25,28-30H,2,6-9,12-17H2/b20-10+,21-11-/t18-,22-,23-,24+,25+,27-/m1/s1.
+L'aspirine a pour usage médicinal. Elle a le code ATC N02BA01 et sa formule chimique est C₉H₈O₄. Sa représentation canonique en SMILES est CC(=O)OC1=CC=CC=C1C(=O)O.
+La sulfaguanidine a le code ATC A07AB03. Sa formule chimique est C₇H₁₀N₄O₂S. Elle a une représentation canonique en SMILES : C1=CC(=CC=C1N)S(=O)(=O)N=C(N)N et une représentation en InChI : InChI=1S/C7H10N4O2S/c8-5-1-3-6(4-2-5)14(12,13)11-7(9)10/h1-4H,8H2,(H4,9,10,11)
+L'acide méthacrylique est associé à un risque d'exposition à l'acide méthacrylique. Sa formule chimique est C₄H₆O₂. L'acide méthacrylique peut être représenté par la notation SMILES CC(=C)C(=O)O ou par la notation InChI InChI=1S/C4H6O2/c1-3(2)4(5)6/h1H2,2H3,(H,5,6).
+L'isosorbide dinitrate a pour code ATC C05AE02. Sa formule chimique est C₆H₈N₂O₈. Sa représentation canonique en SMILES est C1C(C2C(O1)C(CO2)O[N+](=O)[O-])O[N+](=O)[O-]. Son InChI est InChI=1S/C6H8N2O8/c9-7(10)15-3-1-13-6-4(16-8(11)12)2-14-5(3)6/h3-6H,1-2H2/t3-,4+,5-,6-/m1/s1.
+Le L-menthol a pour usage d'agent lachrymatoire. Sa formule chimique est C₁₀H₂₀O et sa représentation canonique en SMILES est CC1CCC(C(C1)O)C(C)C. Son InChI est InChI=1S/C10H20O/c1-7(2)9-5-4-8(3)6-10(9)11/h7-11H,4-6H2,1-3H3/t8-,9+,10-/m1/s1.
+L'acétylène (C₂H₂) est un combustible qui peut être dangereux en cas d'exposition. Sa formule chimique est C₂H₂ et son InChI est InChI=1S/C2H2/c1-2/h1-2H. L'acétylène a pour usage de servir de combustible.
+Le phosphate bicalcique (formule chimique : CaHPO₄) est un additif alimentaire qui a pour usage d'être ajouté aux aliments. Sa représentation canonique en SMILES est OP(=O)([O-])[O-].[Ca+2] et son InChI est InChI=1S/Ca.H3O4P/c;1-5(2,3)4/h;(H3,1,2,3,4)/q+2;/p-2.
+Le valsartan est un médicament qui a pour usage une médication. Sa formule chimique est C₂₄H₂₉N₅O₃ et elle peut être représentée par la notation SMILES CCCCC(=O)N(CC1=CC=C(C=C1)C2=CC=CC=C2C3=NNN=N3)C(C(C)C)C(=O)O ou par la notation InChI InChI=1S/C24H29N5O3/c1-4-5-10-21(30)29(22(16(2)3)24(31)32)15-17-11-13-18(14-12-17)19-8-6-7-9-20(19)23-25-27-28-26-23/h6-9,11-14,16,22H,4-5,10,15H2,1-3H3,(H,31,32)(H,25,26,27,28)/t22-/m0/s1.
+La 1-méthylhypoxanthine a pour formule chimique C₆H₆N₄O et peut être représentée par les notations SMILES et InChI suivantes : CN1C=NC2=C(C1=O)NC=N2 et InChI=1S/C6H6N4O/c1-10-3-9-5-4(6(10)11)7-2-8-5/h2-3H,1H3,(H,7,8) respectivement.
+L'azoture de sodium (NaN₃) est associé à des intoxications par l'azide de sodium et a un code Kemler de 60.
+Le calcium benzoate a pour formule chimique C₁₄H₁₀CaO₄, et ses représentations moléculaires sont C1=CC=C(C=C1)C(=O)[O-].C1=CC=C(C=C1)C(=O)[O-].[Ca+2] en SMILES canonique et InChI=1S/2C7H6O2.Ca/c2*8-7(9)6-4-2-1-3-5-6;/h2*1-5H,(H,8,9);/q;;+2/p-2 en InChI.
+L'alcool furfurylique est associé à un danger lié à l'exposition à l'alcool furfurylique. Sa formule canonique SMILES est C1=COC(=C1)CO et son InChI est InChI=1S/C5H6O2/c6-4-5-2-1-3-7-5/h1-3,6H,4H2.
+Le 1-bromooctane a pour formule chimique C₈H₁₇Br et peut être représenté par la notation SMILES « CCCCCCCCBr » ou par la notation InChI « InChI=1S/C8H17Br/c1-2-3-4-5-6-7-8-9/h2-8H2,1H3 ».
+L'acide fluoroacétique, dont la formule canonique SMILES est C(C(=O)O)F et l'InChI est InChI=1S/C2H3FO2/c3-1-2(4)5/h1H2,(H,4,5), a pour usage de rodenticide.
+Le sodium hydride, dont la formule chimique est NaH, a pour représentation canonique en SMILES [H-].[Na+] et pour identifiant InChI InChI=1S/Na.H/q+1;-1.
+Le bleu de bromophénol, dont la formule chimique est C₁₉H₁₀Br₄O₅S, est utilisé comme teinture et comme indicateur et réactif.
+L'aminométhylpropanol a pour formule chimique C₄H₁₁NO et son InChI est InChI=1S/C4H11NO/c1-4(2,5)3-6/h6H,3,5H2,1-2H3.
+Le tetrazepam a pour code ATC M03BX07 et sa formule canonique en SMILES est CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CCCCC3.
+Le lithium iodide a pour formule chimique LiI et son InChI est InChI=1S/HI.Li/h1H;/q;+1/p-1.
+Le Lactitol, dont la formule chimique est C₁₂H₂₄O₁₁, a pour usage d'édulcorant.
+Le chlorure de potassium a pour usage le médicament et l'additif alimentaire.
+Le D-ribulose a pour formule chimique C₅H₁₀O₅ et son InChI est InChI=1S/C5H10O5/c6-1-3(8)5(10)4(9)2-7/h3,5-8,10H,1-2H2/t3-,5-/m1/s1.
+Le triethylene glycol a une formule canonique SMILES de C(COCCOCCO)O et une formule InChI de InChI=1S/C6H14O4/c7-1-3-9-5-6-10-4-2-8/h7-8H,1-6H2.
+Le chlorure de cobalt(II) a pour formule chimique Cl₂Co et peut être représenté par la notation SMILES Cl[Co]Cl.
+Le silanol a pour formule canonique SMILES O[SiH3] et pour formule chimique H₄OSi.
+La formule chimique du 1,3-indandione est C₉H₆O₂.
+Le luminol a pour usage les indicateurs et réactifs.
+La formule chimique de l'adénine est C₅H₅N₅.
+Le sodium méthoxide a une formule canonique SMILES égale à C[O-].[Na+].
+Le carbonate acide d'ammonium a pour usage de régulateur alimentaire de pH.
+La formule chimique de la N,N-dimethylglycine est C₄H₉NO₂.
+Le composé chimique 1,4-butanediol a une formule InChI égale à InChI=1S/C4H10O2/c5-3-1-2-4-6/h5-6H,1-4H2.
+L'acétaldéhyde a pour formule InChI InChI=1S/C2H4O/c1-2-3/h2H,1H3.
+Le lithium hydroxide a une formule InChI égale à InChI=1S/Li.H2O/h;1H2/q+1;/p-1.
+Maurice, dont les langues officielles sont le français et l'anglais, a un indice de développement humain ajusté pour l'inégalité de 0,666, un indice de démocratie de 8,14 et un score d'indice de planète heureuse de 51,5. Son site officiel est http://www.govmu.org/.
+L'Équateur, officiellement nommé Republik Ekuador, a un indice de développement humain ajusté pour l'inégalité de 0,604, un indice de démocratie de 5,71 et un score d'indice de planète heureuse de 58,8. Les langues officielles sont le shuar et le quichua. Le site officiel est accessible à l'adresse http://www.turismo.gob.ec/.
+L'Azerbaïdjan, officiellement appelé Azərbaycan Respublikası, a une langue officielle, l'azerbaïdjanais, ainsi que la langue des signes azerbaïdjanaise. Son indice de développement humain ajusté pour l'inégalité est de 0,685, son indice de démocratie est de 2,68 et son score d'indice de planète heureuse est de 48, ce qui correspond à la région du Nord. Le site officiel du gouvernement est http://mfa.gov.az/en.
+Sierra Leone, officiellement appelée la République de Sierra Leone, a l'anglais et le krio comme langues officielles. Le pays a un indice de développement humain ajusté pour l'inégalité de 0,309, un indice de démocratie de 4,86 et un score d'indice de planète heureuse de 29. Le site officiel du gouvernement est https://statehouse.gov.sl/.
+La Macédoine du Nord a deux langues officielles, l'albanais et le macédonien. Son site officiel est https://vlada.mk/. Le pays a un indice de développement humain ajusté pour l'inégalité de 0,686, un indice de démocratie de 5,89 et un score d'indice de planète heureuse de 43,9. Son nom officiel est Республіка Північна Македонія.
+L'Australie, officiellement nommée Commonwealth of Australia, a deux langues officielles, l'Auslan et l'anglais australien. Son site officiel est https://www.australia.gov.au/. Elle a un indice de développement humain ajusté pour l'inégalité de 0,876, un indice de démocratie de 8,85 et un score d'indice de planète heureuse de 43,1.
+Le Sénégal, officiellement nommé République du Sénégal, a pour langues officielles le wolof, le balanta et le badiaranké. Le pays a un indice de développement humain ajusté pour l'inégalité de 0,354 et un indice de démocratie de 5,67. Le site officiel du gouvernement est https://www.sec.gouv.sn/.
+Le Tadjikistan, officiellement appelé Ҷумҳурии Тоҷикистон, a deux langues officielles, le russe et le tadjik. Le pays a un indice de développement humain ajusté pour l'inégalité de 0,599, un indice de démocratie de 1,94 et un score d'indice de planète heureuse de 55,2.
+Le Ghana, officiellement appelé «Gana tingbani», a l'anglais comme langue officielle. Selon les indices, le pays a un score d'indice de développement humain ajusté pour l'inégalité de 0,458, un score d'indice de démocratie de 6,5 et un score d'indice de planète heureuse de 39,5. Le site officiel du Ghana est disponible à l'adresse https://www.ghana.gov.gh/.
+Le Turkménistan a comme langue officielle le turkmène. Selon les indices, le Turkménistan a un indice de développement humain ajusté pour l'inégalité de 0,619, un indice de démocratie de 1,66 et un score d'indice de planète heureuse de 33. Le nom officiel du pays est Türkmenistan et son site officiel est http://www.turkmenistan.gov.tm/eng/.
+Les Comores ont deux langues officielles, le français et le comorien. Le pays a un indice de développement humain ajusté pour l'inégalité de 0,31, un indice de démocratie de 3,09 et un score d'indice de planète heureuse de 42,4. Le site officiel des Comores est https://beit-salam.km/.
+La République du Costa Rica a pour langue officielle l'espagnol et son site officiel est https://www.presidencia.go.cr/. Le pays a un indice de développement humain ajusté pour l'inégalité de 0,664, un indice de démocratie de 8,16 et un score d'indice de planète heureuse de 62,1.
+Le Bhoutan, officiellement connu sous le nom de Royaume du Bhoutan, a pour langue officielle le dzongkha. Le pays a un indice de développement humain ajusté pour l'inégalité de 0,471, un indice de démocratie de 5,71 et un score d'indice de planète heureuse de 36,7. Le site officiel du gouvernement bhoutanais est accessible à l'adresse http://www.bhutan.gov.bt.
+Le Bénin, dont la langue officielle est le français, a un indice de développement humain ajusté pour l'inégalité de 0,334, un indice de démocratie de 4,58 et un score d'indice de planète heureuse de 41,4. Son nom officiel est la République du Bénin, également connue sous le nom de Beninská republika. Le site officiel du gouvernement est disponible à l'adresse https://www.gouv.bj/.
+Le Burundi, officiellement appelé Uburundi, a une langue officielle, le kirundi. Le pays a un indice de démocratie de 2,14 et un score d'indice de planète heureuse de 37,7. Le site officiel du gouvernement est disponible à l'adresse https://www.presidence.gov.bi/.
+L'Estonie, officiellement nommée Eesti Vabariik, a l'estonien comme langue officielle et un indice de développement humain ajusté pour l'inégalité de 0,829. Elle a également un indice de démocratie de 7,84 et possède un site officiel à l'adresse https://valitsus.ee/.
+L'Ouganda a un indice de développement humain ajusté pour l'inégalité de 0,396, un indice de démocratie de 4,94 et un score d'indice de planète heureuse de 44,8. L'Ouganda est officiellement nommé Ouganda et a le swahili comme langue officielle.
+La République bolivarienne du Vénézuéla, également connue sous le nom de Venezuela, a l'espagnol comme langue officielle et un site officiel à l'adresse https://mppre.gob.ve/. Le pays affiche un indice de développement humain ajusté pour l'inégalité de 0,592 et un score de l'indice de planète heureuse de 48,9.
+Le Mexique, également connu sous le nom de Meksiko Serikat, a pour langues officielles l'espagnol, le nahuatl et le maya yucatèque. Le site officiel du gouvernement mexicain est accessible à l'adresse https://www.gob.mx/.
+La République de Djibouti, officiellement nommée ainsi, a pour langue officielle l'arabe et possède un site officiel à l'adresse https://www.presidence.dj/. Le pays affiche un indice de développement humain ajusté pour l'inégalité de 0,309 et un indice de démocratie de 2,71.
+Les Philippines, officiellement nommées Republika ng Pilipinas, ont un indice de développement humain ajusté pour l'inégalité de 0,574, une incidence de pauvreté de 13,2%, un indice de démocratie de 6,62 et le filipino comme langue officielle.
+Le Salvador, officiellement nommé la République du Salvador, a l'espagnol comme langue officielle. Il a un indice de développement humain ajusté pour l'inégalité de 0,548 et un score d'indice de planète heureuse de 56,3. Vous pouvez en savoir plus sur le site officiel du pays, disponible à l'adresse https://elsalvador.travel/en/.
+La langue officielle de la Turquie est le turc. Le pays a un indice de démocratie de 4,35 et un score d'indice de planète heureuse de 41,3. Le site officiel de la Turquie est https://www.turkiye.gov.tr/.
+L'île de Niue a pour langues officielles l'anglais et le niuéen. Le site officiel de Niue est accessible à l'adresse http://www.niueisland.com/.
+La Mongolie a un indice de développement humain ajusté pour l'inégalité de 0,644, un indice de démocratie de 6,42 et un score d'indice de planète heureuse de 24,5. Le nom officiel de la Mongolie est ᠮᠤᠩᠭᠤᠯ ᠤᠯᠤᠰ, également connu sous le nom de Mongolie.
+La Côte d'Ivoire a un indice de développement humain ajusté pour l'inégalité de 0,358. Elle obtient un score de 4,11 à l'indice de démocratie et de 39,6 à l'indice de planète heureuse. La République de Côte d'Ivoire est également connue sous le nom officiel de Repubblica della Costa d'Avorio.
+La langue officielle de la Russie est le russe. Le pays a un indice de développement humain ajusté pour les inégalités de 0,751, un indice de démocratie de 3,31 et un score d'indice de planète heureuse de 34,9.
+L'Albanie, officiellement nommée Republika e Shqipërisë, a l'albanais comme langue officielle. Elle a un indice de démocratie de 6,11 et possède un site officiel à l'adresse https://www.kryeministria.al/en/.
+Les Maldives ont comme langue officielle le maldivien. Le pays a un indice de développement humain ajusté pour l'inégalité de 0,594. La République des Maldives est le nom officiel du pays, qui possède un site officiel à l'adresse https://visitmaldives.com/.
+L'Éthiopie, officiellement connue sous le nom de la République démocratique fédérale d'Éthiopie, a un indice de développement humain ajusté pour les inégalités de 0,363. Le pays a également un indice de démocratie de 3,38 et un score d'indice de planète heureuse de 41,7.
+Au Luxembourg, la langue officielle est le français, le pays affiche un taux d'incidence de pauvreté de 17,5% et obtient un score de 8,88 dans l'indice de démocratie.
+La République du Congo a pour langue officielle le français, obtient un score de 3,11 à l'indice de démocratie et un score de 47,2 à l'indice de planète heureuse.
+L'État du Qatar, dont l'indice de démocratie est de 3,65, a un site officiel à l'adresse https://www.diwan.gov.qa/.
+Le Kazakhstan a un score de 38,6 dans l'indice Happy Planet et a comme langue officielle le kazakh. Son site officiel est disponible à l'adresse https://www.gov.kz/.
+Le royaume d'Italie a l'italien comme langue officielle, il a un indice de démocratie de 7,74 et son nom officiel est la Repubblica Italiana.
+Le Brunei Darussalam, officiellement nommé Negara Brunei Darussalam, a pour site officiel https://www.gov.bn/SitePages/Home.aspx et pour langue officielle le malais.
+La langue officielle de la Tunisie, ou Républik Tunisia, est l'arabe, et le pays a un indice de démocratie de 6,59.
+Aruba, officiellement nommée Aruba, a pour langue officielle le papiamento et possède un site officiel à l'adresse http://www.aruba.com/.
+La Slovénie a une langue officielle, le slovène, et obtient un score de 47,9 à l'indice Happy Planet.
+La Roumanie a un indice de développement humain ajusté pour l'inégalité de 0,733 et un score d'indice de planète heureuse de 46,2.
+La Slovaquie a un indice de développement humain ajusté pour l'inégalité de 0,803 et un indice de démocratie de 6,97.
+L'Andorre a pour langue officielle le catalan et est officiellement nommée Andorre.
+La Hongrie, officiellement nommée ainsi, a un site officiel : https://www.kormany.hu/.
+L'Autriche-Hongrie a pour langue officielle l'allemand et un indice de développement humain ajusté pour les inégalités de 0,851.
+Le Palaos, également connu sous le nom de Beluu er a Belau, a le japonais comme langue officielle.
+Les Îles Salomon ont un indice de développement humain ajusté pour l'inégalité de 0,43 et possèdent un site officiel à l'adresse https://solomons.gov.sb.
+Le Chili a un indice de développement humain ajusté pour l'inégalité de 0,722 et possède un site officiel à l'adresse https://www.thisischile.cl/?lang=en.
+La langue officielle du Royaume-Uni de Grande-Bretagne et d'Irlande est l'anglais.
+La langue officielle d'Antigua-et-Barbuda est l'anglais.
+La Suède a un score de 50,5 dans l'indice de planète heureuse.
+L'indice de développement humain ajusté pour l'inégalité au Niger est de 0,292.
+La langue officielle du Brésil est le portugais.
+La langue officielle du Gabon est le français.
+La langue officielle de la Zambie est l'anglais.
+La langue officielle du Kosovo est l'albanais.
+L'indice de démocratie de la Pologne est de 6,85.
+La 7ème Conférence internationale sur le web sémantique a eu lieu en Allemagne et a été sponsorisée par Ontotext et Ontoprise GmbH. John Giannandrea a été l'un des orateurs de la conférence. Sur 261 soumissions, 43 ont été acceptées, ce qui représente un taux d'admission de 0,4231.
+Le congrès scientifique ESWC 2010 a eu lieu en Grèce et a utilisé la langue anglaise. Les orateurs invités étaient Sean Bechhofer, Aldo Gangemi et Noshir Contractor. Le taux d'admission était de 0,2122.
+Le congrès scientifique ESWC 2019 a eu lieu en Slovénie et a été sponsorisé par Information, Ontotext et IBM Research. Diana Maynard a été l'une des speakers de l'événement qui a connu un taux d'admission de 0,194.
+La 10e Conférence internationale sur les informatics sociales a eu lieu en Russie et a été sponsorisée par Springer Science+Business Media et l'Association for Computing Machinery. La langue utilisée était l'anglais. Les orateurs étaient Bettina Berendt, Harith Alani et Ingmar Weber.
+Le congrès scientifique CHI 2018 a eu lieu au Canada et a été sponsorisé par Google, Yahoo Inc. et Bloomberg LP. Les orateurs invités étaient Christian Rudder et Sue Gardner. Cette conférence est une instance de congrès scientifique.
+L'ESWC 2012, qui s'est tenue en Grèce, a eu un taux d'admission de 0,2122. Les sponsors de l'événement étaient VideoLectures.net et Elsevier. Les conférenciers invités étaient Elena Simperl, Isabelle Augenstein et Heiko Paulheim.
+Le congrès scientifique ASSA 2020 Annual Meeting a eu lieu aux États-Unis et a été sponsorisé par l'Allied Social Sciences Association et l'American Economic Association. Les orateurs invités étaient Cheryl Doss, Teresa Ghilarducci et Ben Bernanke. Cette conférence est une instance de congrès scientifique.
+Le congrès scientifique ESWC 2009 a eu lieu en Grèce et a utilisé la langue anglaise. Les orateurs étaient Craig Knoblock et Alan Smeaton. Le taux d'admission était de 0,18.
+La 17e Conférence internationale sur le web sémantique a eu lieu aux États-Unis et a utilisé la langue anglaise. Les orateurs étaient Vanessa Evers et Jen Golbeck. La conférence a été sponsorisée par Metaphacts et Thomson Reuters.
+La 3e Conférence internationale annuelle sur les sciences sociales computationnelles a eu lieu en Allemagne et a été sponsorisée par le GESIS - Institut Leibniz pour les sciences sociales, la Kellogg School of Management et SAGE Publications. Les orateurs de la conférence étaient Emőke-Ágnes Horvát et Milena Tsvetkova.
+La conférence conjointe 27e Internationale sur l'Intelligence Artificielle et 23e Européenne sur l'Intelligence Artificielle a eu lieu en Suède. Elle a été sponsorisée par Didi Chuxing et l'Agence gouvernementale suédoise pour les systèmes d'innovation. Les conférenciers invités étaient Danica Kragic, Yann Le Cun et Max Tegmark.
+Le congrès scientifique SWIB16 a eu lieu en Allemagne et a utilisé la langue anglaise. Les conférenciers étaient Olaf Janssen, Andromeda Yelton et Ivan Herman.
+Le congrès scientifique LREC 2018 a eu lieu au Japon et a utilisé la langue anglaise. Les orateurs étaient Charles Yang, Pascale Fung et Yukinori Takubo.
+Le congrès scientifique ESWC 2015 a eu lieu et a utilisé la langue anglaise. Les conférenciers étaient Massimo Poesio, Lise Getoor et Viktor Mayer-Schönberger. Le taux d'admission était de 0,2276.
+Le congrès scientifique Open Science in Action a lieu au Canada et compte parmi ses conférenciers Dylan Roskams-Edris, Edward A. Fon et Lucie Opatrny.
+La conférence The Knowledge Graph Conference 2019 a eu lieu aux États-Unis et a utilisé la langue anglaise. Les orateurs étaient Denny Vrandečić, Joshua Shinavier et Alfio M. Gliozzo.
+La 15ème Conférence Internationale de la Société de Métabolomique s'est tenue aux Pays-Bas et a utilisé la langue anglaise. Les conférenciers invités étaient Joshua Rabinowitz, Atsushi Fukushima et Michael Witting.
+Le congrès scientifique Buildings & the Body Symposium, qui a lieu au Royaume-Uni, a accueilli comme conférenciers Richard Newman, Antony Buxton et Scott Miller.
+Le congrès scientifique TRAC 2004 s'est tenu au Royaume-Uni et a compté parmi ses conférenciers Fabio Adriano Hering, Annette Frölich et Hilary Travis.
+La 11e Conférence Internationale sur le Web Sémantique a eu lieu aux États-Unis et a été sponsorisée par IBM et Elsevier. Cristina Sarasua a été l'une des intervenantes de la conférence, qui a connu un taux d'admission de 0,4921.
+Le congrès scientifique TRAC 2000 s'est tenu au Royaume-Uni et a accueilli des intervenants tels que Kônstantina Katsarê, Shawn Graham et Kelly Spradley.
+La conférence Digital Humanities 2018 a eu lieu au Mexique. Elle a été sponsorisée par la Bibliothèque Benjamin Franklin, l'Association for Computers and the Humanities et Gale. La langue utilisée lors de la conférence était l'anglais.
+La 4ème Conférence néerlandaise de bioinformatique et de biologie des systèmes a eu lieu aux Pays-Bas et a accueilli comme conférenciers Chiara Dalla Man, Ilja C. W. Arts et Jason Locasale.
+L'ouvrage 'Our Aelred': Friendship, Leadership and Sainthood at Rievaulx Abbey, provenant du Royaume-Uni, a été présenté par Alexandra Gajewski, Elizabeth Freeman et Stuart A. Harrison.
+Le congrès scientifique ESWC 2011, qui a eu lieu en Grèce, a utilisé l'anglais comme langue et a affiché un taux d'admission de 0,2308.
+Le congrès scientifique ESWC 2017, qui a une nature d'événement académique, a un taux d'admission de 0,25. Cristina Sarasua a été l'une des speakers de cet événement, qui a été sponsorisé par Ontotext.
+Le congrès scientifique CHI 2019 a eu lieu au Royaume-Uni, où la langue anglaise a été utilisée, et où Dr Aleksandra K Krotoski a été l'un des conférenciers.
+Le 14e congrès scientifique international sur la collaboration ouverte, qui a eu lieu en France, a accueilli Ángel Obregón Sierra et R. Stuart Geiger comme conférenciers. Cette manifestation est de nature de congrès scientifique.
+Le congrès scientifique Recent Advances in Natural Language Processing 2019, qui a eu lieu en Bulgarie, a accueilli les conférenciers Sebastian Padó et Kyunghyun Cho.
+Le congrès scientifique « Telling Her Story: Women's History, Heritage and the Built Environment » a eu comme conférencières Jessica L. Malay, Rachel Delman et Karen Dempsey.
+La 33ème Conférence du Groupe d'Archéologie Théorique a eu lieu au Royaume-Uni et a compté parmi ses conférenciers Patrick Hadley et Lorna-Jane Richardson.
+La 22e Conférence ACM sur le travail coopératif informatisé et les systèmes sociaux a eu lieu aux États-Unis et a compté parmi ses conférenciers Martin M. Wattenberg et Fernanda Viégas.
+Le congrès scientifique ESWC 2016 a lieu en Grèce et a un taux d'admission de 0,212.
+Le 20e congrès annuel du Groupe d'intérêt spécial sur le discours et le dialogue a eu lieu en Suède et a compté Mirella Lapata parmi ses intervenants. Il s'agit d'un congrès scientifique.
+Le 8. Workshop der AG CAA, un congrès scientifique, s'est tenu en Allemagne et a utilisé l'allemand comme langue.
+La Conférence scientifique internationale de Wikipédia a eu lieu au Brésil et a compté parmi ses intervenants Michael Peel et Aaron Halfaker.
+Le 51e Congrès international d'études médiévales a accueilli comme conférenciers Jacqueline Veninger, Kieran Denis O'Conor et Jennifer L. Immich.
+La 15e Conférence Internationale sur le Web Sémantique a eu lieu au Japon et a été sponsorisée par NHK et IBM.
+La conférence Women in Data Science 2019 à Copenhague a eu Claire Mathieu comme speaker et a été sponsorisée par la Dansk Magisterforening (DM).
+Le 28e congrès scientifique USENIX Security Symposium, également connu sous le nom de USENIX Security 2019, s'est tenu à Santa Clara, CA, États-Unis, du 14 au 16 août 2019. Il s'agit d'une nature de l'élément de congrès scientifique qui a eu lieu dans le pays des États-Unis.
+La Conférence 2020 sur les méthodes empiriques en traitement automatique du langage naturel a utilisé la langue anglaise et a accueilli Janet Pierrehumbert comme conférencière.
+Le congrès scientifique Ubiquitous Computing Systems, Third International Symposium, UCS 2006, s'est tenu à Séoul, en Corée du Sud, du 11 au 13 octobre 2006, et est une nature de l'élément de congrès scientifique.
+La 16e Conférence annuelle du chapitre nord-américain de l'Association pour la linguistique computationnelle : Technologies du langage humain a utilisé l'anglais comme langue et a eu Mari Ostendorf comme conférencière.
+La conférence d'archéologie romaine théorique a accueilli deux orateurs : Rick Jones et Robert Rippengal.
+La 2e conférence nationale HSLACON 2019 sur les tendances émergentes et les technologies dans les sciences de l'information et de la bibliothèque a eu lieu en Inde, avec Shivendra Singh comme conférencier.
+Le congrès scientifique International Workshop on Quantum Communications and Measurement 1994 a utilisé la langue anglaise.
+Antoine Bordes est intervenu en tant que conférencier à la 3ème Conférence internationale sur les représentations d'apprentissage, sponsorisée par IBM.
+La conférence Natural Language Processing and Information Systems - 23rd International Conference on Applications of Natural Language to Information Systems, NLDB 2018, a eu lieu à Paris, en France.
+La conférence Passive and Active Measurement - 18th International Conference, PAM 2017, s'est tenue à Sydney, NSW, en Australie.
+La conférence ACM/IEEE Sixth International Conference on Cyber-Physical Systems, ICCPS 2015, s'est tenue à Seattle, WA, aux États-Unis, du 14 au 16 avril 2015.
+SciDataCon 2018 est un congrès scientifique.
+La conférence Electronic Government and the Information Systems Perspective - Second International Conference, EGOVIS 2011, a eu lieu à Toulouse, en France.
+Le système de traitement d'informations neuronales 2000 a lieu aux États-Unis.
+La 11e Conférence internationale sur la qualité de l'information et des technologies de la communication, QUATIC 2018, s'est tenue à Coimbra, au Portugal, du 4 au 7 septembre 2018.
+La conférence internationale ACM sur les multimédias, MM '14, s'est tenue à Orlando, FL, USA, du 3 au 7 novembre 2014, aux États-Unis.
+Swatantra 2014 est un congrès scientifique.
+La leishmaniose cutanée est traitée avec de la pentamidine et du fluconazole. Elle est causée par Leishmania braziliensis, Leishmania tropica et Leishmania aethiopica. Les symptômes et signes de cette maladie incluent des ulcères. La période d'incubation minimale chez l'humain est de 2 jours.
+L'hépatite C est une maladie qui peut être traitée avec du peginterféron alfa-2a ou du sofosbuvir/velpatasvir. Elle affecte la moelle osseuse et est causée par le virus de l'hépatite C. Les symptômes de l'hépatite C incluent le vomissement, la douleur abdominale et l'hypertension portale.
+La fièvre paratyphoïde est une maladie infectieuse causée par Salmonella paratyphi B et Salmonella paratyphi C. Les symptômes et signes de cette maladie incluent l'exanthème, la constipation et la pharyngite. Le traitement de la fièvre paratyphoïde peut inclure l'utilisation de cefixime.
+La morve est une spécialité médicale relevant de la médecine vétérinaire et de l'infectiologie. La morve est traitée avec de la tobramycine et du cotrimoxazole. Les symptômes et signes de la morve incluent la fièvre, l'abcès et la splénomégalie.
+La Jamestown Canyon encephalitis est une maladie relevant de l'infectiologie. Elle est causée par le Jamestown Canyon orthobunyavirus et se caractérise par des symptômes tels que la fièvre et la céphalée. La transmission de pathogène est le processus de transmission de cette maladie. La période d'incubation minimale est de 2 jours et la période d'incubation maximale est de 14 jours.
+La fièvre hémorragique d'Omsk est une maladie qui relève de l'infectiologie. Elle est causée par le virus de la fièvre hémorragique d'Omsk et se transmet par les tiques. Les symptômes de la fièvre hémorragique d'Omsk incluent la nausée, l'étourdissement et l'exanthème. La période d'incubation maximale chez l'homme est de 4 jours.
+L'infection au virus de la forêt de Barmah est une maladie qui relève de l'infectiologie. Elle affecte le foie et peut causer des symptômes tels que l'arthralgie, la fatigue et l'arthrite. La transmission de cette maladie se fait par les insectes et la période d'incubation maximale chez les humains est de 11 jours.
+L'ankylostomose à Necator americanus, également connue sous le nom de nécatoriasis, est une infection traitée dans le domaine de l'infectiologie. Les médicaments utilisés pour traiter cette infection sont l'albendazole et le mébendazole. La nécatoriasis est causée par l'infection à Necator americanus et se manifeste par des symptômes tels que des crampe abdominale et de la diarrhée.
+La fièvre pappataci est causée par le Toscana virus, le sandfly fever Naples virus et le Sandfly fever Sicilian virus. Les symptômes de la fièvre pappataci incluent l'hypotension artérielle. La transmission de la fièvre pappataci se fait par l'intermédiaire de Phlebotomus papatasi et par transmission par les moustiques. La période d'incubation maximale chez l'homme est de 9 jours.
+L'érysipèle est traitée avec de la benzylpénicilline, de la ceftazidime ou de la ciprofloxacine. Les symptômes de l'érysipèle incluent des frissons et de la fièvre. La période d'incubation maximale de l'érysipèle chez l'humain est de 4 jours.
+La brucellose est causée par Brucella abortus et peut entraîner des symptômes tels que la neurite. La période d'incubation maximale chez l'homme est de 5 jours. Les traitements possibles incluent la minocycline, la rifampicine et la doxycycline.
+La fièvre scarlatiniforme d'Extrême-Orient est traitée avec de la gentamicine, de la péfloxacine et de l'ampicilline. Les symptômes et signes de cette maladie incluent les lignes de Pastia. La transmission de la maladie se fait par voie féco-orale. Le délai d'incubation maximal chez l'homme est de 10 jours.
+La fièvre hémorragique avec syndrome rénal peut être traitée avec du furosemide ou du ribavirin. Cette maladie affecte les vaisseaux sanguins et est causée par le virus d'Amour. Les symptômes incluent des saignements et des hémorragies internes.
+L'infection à Haemophilus influenzae est traitée avec Augmentin, azithromycine et ampicilline. Cette infection est causée par Haemophilus influenzae et est une infection. La transmission de cette maladie se fait par transmission aéroportée.
+La mélioïdose est une maladie causée par Burkholderia pseudomallei et qui peut être transmise par contact. Elle peut être traitée avec de l'Augmentin (amoxicillin/clavulanic acid) ou du cotrimoxazole (sulfamethoxazole/trimethoprim). La période d'incubation de la mélioïdose chez l'humain est comprise entre 2 et 2 jours.
+La balantidiase est une infection traitée par l'infectiologie. Elle est causée par le Balantidium coli et se caractérise par des symptômes tels que des crampe abdominale et de la xérostomie. La période d'incubation de la balantidiase chez l'humain est comprise entre 5 et 30 jours.
+La Western equine encephalitis est une maladie qui affecte le cerveau, les méninges et la moelle épinière. Les symptômes incluent la paralysie et la myalgie. Cette maladie est transmise par les moustiques.
+La tabes dorsalis est une maladie traitée par des spécialistes en infectiologie. Les traitements de la tabes dorsalis incluent l'utilisation de benzylpénicilline, de glucocorticoïdes et de ceftriaxone. Les symptômes de la tabes dorsalis comprennent la dysfonction érectile et l'hyperesthésie.
+Les framboésies sont une spécialité médicale relevant des maladies infectieuses. Les framboésies peuvent être traitées avec de la benzylpénicilline, de l'azithromycine ou de la doxycycline. La période d'incubation maximale chez l'humain est de 90 jours.
+La dicrocoeliasis, causée par Dicrocoelium dendriticum, affecte les canaux biliaires et le système porte hépatique. Les traitements de cette affection incluent le praziquantel et le triclabendazole.
+La campylobactériose est une maladie causée par Campylobacter jejuni et Campylobacter, qui peut être traitée avec de l'azithromycine. La période d'incubation de cette maladie chez l'homme est comprise entre 1 et 7 jours.
+La scarlatine est une maladie qui peut être traitée avec des macrolides, des céphalosporines ou de la vancomycine. Elle est transmise par transmission par gouttelettes respiratoires et a une période d'incubation maximale de 5 jours chez les humains.
+La maladie de Legionnaires est une spécialité médicale des maladies infectieuses. Elle peut être traitée avec de la lévofloxacine hémihydrate ou de l'érythromycine. Les symptômes et signes de la maladie comprennent une toux. La période d'incubation minimale chez l'humain est de 2 jours.
+La lèpre est une maladie qui relève de l'infectiologie, une spécialité médicale. Les symptômes et signes de la lèpre incluent la lagophtalmie et la fonte musculaire. La transmission de la lèpre se fait par contact. La période d'incubation maximale de la lèpre chez l'humain est de 20 ans.
+La fièvre hémorragique Ebola est une maladie traitée dans la spécialité médicale de l'infectiologie. Elle est causée par le virus Ebola et se caractérise par des hémorragies internes. La transmission de la fièvre hémorragique Ebola se fait par contact, notamment par transmission de l'agent pathogène par contact hématologique.
+La leishmaniose viscérale est traitée avec de la Méglumine. Cette maladie affecte les os et le foie. Les symptômes et signes de la leishmaniose viscérale incluent la tachycardie et l'anémie.
+La pasteurellose est une spécialité médicale qui relève de l'infectiologie et de la médecine vétérinaire. Elle est causée par Mannheimia haemolytica et se caractérise par des symptômes tels que la pneumonie et la fièvre.
+La fièvre hémorragique de Crimée-Congo peut être traitée avec des corticoïdes et des anticorps. Les symptômes de cette maladie incluent l'anurie. La transmission de la fièvre hémorragique de Crimée-Congo se fait par contact. Le délai d'incubation maximal chez l'humain est de 14 jours.
+L'infection des voies urinaires peut être traitée avec des médicaments tels que la cefoxitin ou le nifuratel. Les symptômes et signes de cette infection incluent la fièvre et l'hématurie.
+La maladie de Brill-Zinsser est une affection relevant de l'infectiologie et causée par Rickettsia prowazekii. Elle est traitée avec des médicaments tels que la chloramphénicol et la doxycycline.
+La trichocéphalose, causée par Trichuris trichiura, peut être traitée avec de l'oxantel et est caractérisée par des symptômes tels que des douleurs abdominales et des diarrhées.
+La syngamosis, une affection localisée dans la trachée-artère, est causée par Syngamus et peut être traitée avec l'albendazole ou le thiabendazole.
+La tuberculose pulmonaire est une maladie qui affecte les poumons et relève de la spécialité médicale des maladies infectieuses. Elle peut être traitée avec des médicaments tels que la rifabutine et l'isoniazide.
+Le botulisme du nourrisson est causé par Clostridium botulinum et se caractérise par des symptômes tels que la ptosis, la léthargie et la constipation.
+L'hépatite B est une maladie traitée par la ténofovir et relevant de l'infectiologie. Elle est causée par le Virus de l'hépatite B et peut être transmise par contact hématologique.
+La conjonctivite est une spécialité médicale relevant de l'ophtalmologie et des maladies infectieuses. Elle peut être traitée avec des médicaments tels que la norfloxacine ou la loméfloxacine.
+Le typhus d'Asie du Nord est une maladie qui relève de l'infectiologie. Les symptômes et signes de cette maladie incluent l'hyperémie. La période d'incubation minimale chez l'humain est de 3 jours, tandis que la période d'incubation maximale est de 10 jours.
+Les infections cutanées relèvent de la dermatologie, une spécialité médicale qui peut être traitée avec des médicaments tels que la clindamycine, la ticarcilline ou l'azithromycine.
+La fièvre à tiques du Colorado est causée par le Colorado tick fever virus et se caractérise par des symptômes tels que la myalgie. La période d'incubation minimale chez l'humain est de 1 jour.
+Le lymphogranulome vénérien est causé par Chlamydia trachomatis et également par la souche Chlamydia trachomatis 434/Bu. Les symptômes et signes du lymphogranulome vénérien incluent l'abcès.
+Le botulisme, causé par Clostridium botulinum, peut être traité avec de la clindamycine et a une période d'incubation maximale de 10 jours chez les humains.
+L'hépatite D est une spécialité médicale relevant de l'infectiologie, causée par le Hepatitis delta virus et caractérisée par une surinfection.
+La grippe porcine peut être traitée avec de l'oseltamivir et ses symptômes incluent le vomissement et la léthargie.
+La maladie infectieuse causée par le virus de l'herpès humain 8 se caractérise par des symptômes tels que l'effusion pleurale et la splénomégalie. Cette maladie peut être transmise par transmission placentaire.
+La dictyocaulose est une spécialité médicale relevant de la médecine vétérinaire et de l'infectiologie, causée par une infection.
+Le sodoku est traité avec de la benzylpénicilline et se transmet par contact. La période d'incubation maximale chez l'humain est de 60 jours.
+La grippe (influenza) est une spécialité médicale relevant de la médecine familiale, caractérisée par des symptômes tels que des douleurs thoraciques, et ayant une période d'incubation maximale de 72 heures chez les humains.
+L'infection bactérienne à gram-négatif est une maladie traitée par la céfopérazone, spécialité médicale des maladies infectieuses, et causée par une infection.
+La rickettsiose vésiculeuse, également connue sous le nom de rickettsialpox, est une maladie qui se caractérise par un exanthème et qui est transmise par contact.
+La diphyllobothriose peut être traitée avec deux médicaments : le praziquantel et l'acide folique.
+La maladie de Mortellaro, également connue sous le nom de digital dermatitis, relève à la fois de la dermatologie et de l'infectiologie en tant que spécialités médicales.
+La pédiculose du cuir chevelu relève de l'infectiologie et peut entraîner de l'irritabilité.
+La tularémie peut être traitée avec de la streptomycine et affecte souvent le poumon.
+Le paludisme à Plasmodium vivax peut être traité avec deux médicaments : la (RS)-primaquine et la halofantrine.
+L'encéphalite japonaise est une maladie traitée dans le domaine de l'infectiologie et peut être soignée avec de la néostigmine.
+L'herpangine est une affection relevant de l'infectiologie et se localisant dans la cavité buccale.
+Le typhus endémique est transmis par la transmission par les tiques et nécessite un délai d'incubation minimal de 5 jours chez les humains.
+La distomatose à Heterophyes heterophyes se localise au cerveau.
+L'infection du système nerveux central relève de la spécialité médicale de neurologie.
+La tuberculose laryngée peut causer une voix rauque.
+L'infection à pneumocoques est causée par Streptococcus pneumoniae.
+La pneumonie enzootique du porc est causée par Mycoplasma hyopneumoniae.
+Le choléra est transmis par transmission hydrique.
+La fusariose relève de l'infectiologie.
+La clonorchiase est traitée avec de l'albendazole.
+La spécialité médicale liée à l'encéphalite de Californie est les maladies infectieuses.
+Le Championnat du monde de snooker IBSF 1978 est une compétition de snooker qui a réuni 25 participants. Organisé par la Fédération internationale de billard et de snooker, ce championnat a été disputé sous forme de tournoi toutes rondes. Le snooker, qui nécessite l'utilisation d'une queue et de accessoires de snooker, est le sport pratiqué lors de cette compétition.
+Le championnat du Royaume-Uni de snooker 2019 est un tournoi de snooker qui a réuni 128 participants. Organisé par la World Professional Billiards and Snooker Association, ce tournoi à élimination directe est un tournoi de classement. Le snooker, qui utilise une queue et des accessoires de snooker, est le sport pratiqué lors de ce championnat.
+Le Championnat européen de snooker EBSA 2008 est un tournoi de snooker qui a réuni 64 participants et a été organisé par l'European Billiards and Snooker Association. Ce championnat a eu lieu sous forme de tournoi à élimination directe. Le snooker est un sport qui utilise des boules de snooker et des boules de cue. L'EBSA est l'organisatrice de cet événement.
+Le Championnat panaméricain de badminton par équipes mixtes 2025 est un tournoi de badminton qui utilise des raquettes de badminton. Organisé par la Confédération panaméricaine de badminton, ce championnat a réuni 9 équipes et a été remporté par l'équipe nationale de badminton du Canada. Le tournoi a eu lieu sous la forme d'un tournoi toutes rondes.
+Le Championnat du monde de snooker IBSF 1986 est un tournoi de snooker qui a été organisé par la Fédération internationale de billard et de snooker. Ce championnat a été disputé sous forme de tournoi à élimination directe et le vainqueur a été Paul Mifsud. Le snooker est un sport qui utilise une queue de billard et des accessoires de snooker. Le championnat du monde de snooker IBSF 1986 a été une compétition de snooker qui a couronné Paul Mifsud comme vainqueur.
+Le Snooker Shoot-Out 2016 est un tournoi de snooker qui a eu lieu en 2016. Ce tournoi à élimination directe a vu Robin Hull être couronné vainqueur. Le snooker est un sport qui utilise des boules de snooker, des attaches de snooker et une boule de cue. Le format du tournoi était un tournoi à élimination directe et il était également un tournoi invitational.
+Le Championnat européen de snooker EBSA 1994 est un tournoi de snooker qui a été organisé par l'European Billiards and Snooker Association. Ce championnat a été disputé sous forme de tournoi à élimination directe et le vainqueur a été Danny Lathouwers. Le snooker est un sport qui utilise des accessoires de snooker et une balle de cue.
+Le Championnat du Royaume-Uni 1986 est un tournoi de snooker qui a vu 117 participants s'affronter dans un format de tournoi à élimination directe. Le vainqueur de cette édition est Steve Davis. Le snooker est un sport qui utilise une queue de billard et une balle de billard. Le World Professional Billiards and Snooker Association est l'organisateur de cet événement.
+Le Welsh Open 2017 est un tournoi de snooker qui a réuni 128 participants et a été remporté par Stuart Bingham. Le snooker est un sport qui utilise une queue de billard, une boule de billard et une boule de snooker. Le tournoi a été organisé par la World Professional Billiards and Snooker Association.
+Le tournoi de snooker 2016 Pink Ribbon, qui a réuni 15 participants, est un événement pro-am où les joueurs utilisent une boule de snooker et une queue de billard. Le vainqueur de cette compétition est Jamie Jones.
+Le 1994 Strachan Challenge – Event 1 est un tournoi de snooker, un sport qui utilise une balle de cue. Ce tournoi à élimination directe a réuni 217 participants et a été remporté par Anthony Hamilton.
+Le Gibraltar Open 2020 est un tournoi de snooker, un sport qui utilise une queue de billard et une bille de cue. Judd Trump est le vainqueur de ce tournoi de classement, organisé par la World Professional Billiards and Snooker Association.
+Le tournoi de snooker 2015 Pink Ribbon, qui a vu deux participants s'affronter, a été remporté par Ronnie O'Sullivan. Ce sport, qui utilise une queue de billard, une boule de snooker et une boule de cue, a couronné O'Sullivan vainqueur.
+Le Championnat du Royaume-Uni 1985 est un tournoi de snooker qui a vu 105 participants s'affronter dans un format de tournoi à élimination directe. Organisé par la World Professional Billiards and Snooker Association, ce championnat a été remporté par Steve Davis.
+Le Championnat européen de snooker EBSA 2021 est un tournoi de snooker qui a réuni 120 participants et a été organisé par l'European Billiards and Snooker Association. Ce tournoi à élimination directe utilise des boules de snooker et des accessoires de snooker. Le snooker est le sport pratiqué lors de ce championnat.
+L'Open du pays de Galles 2000 est un tournoi de snooker, un sport qui utilise une queue de billard et une bille de billard. Le vainqueur de ce tournoi à élimination directe est John Higgins. L'organisateur de cet événement est la World Professional Billiards and Snooker Association.
+Le 1994 Strachan Challenge – Event 2 est un tournoi d'invitations de snooker, qui est un sport utilisant une queue de billard, une boule de billard, des accessoires de snooker et qui suit un format de tournoi à élimination directe.
+Le championnat de snooker 1966 est un tournoi de snooker qui s'est déroulé sous la forme d'un tournoi toutes rondes. Le vainqueur de ce championnat est Gary Owen. Le snooker utilise des accessoires de snooker et une balle de cue.
+Le 2021 Players Championship est un tournoi de classement qui a réuni 16 participants et a été organisé par la World Professional Billiards and Snooker Association. Il s'agissait d'un tournoi à élimination directe qui a couronné John Higgins comme vainqueur.
+Le Championnat européen de snooker EBSA 2019 est un championnat qui a réuni 125 participants et a été remporté par Kacper Filipiak. Cette compétition à élimination directe a été organisée par l'European Billiards and Snooker Association.
+Les Masters de Shanghai 2012 sont un tournoi de snooker de classement qui a réuni 136 participants. Organisé par la World Professional Billiards and Snooker Association, le vainqueur de ce tournoi est John Higgins.
+Le Championnat du Royaume-Uni 2002 de snooker a été organisé par la World Professional Billiards and Snooker Association et a réuni 128 participants. Il s'agissait d'un tournoi à élimination directe et Mark J. Williams en est sorti vainqueur.
+L'Open de Grande-Bretagne 2001 est un tournoi de snooker, un sport qui utilise des boules de snooker. Ce tournoi à élimination directe est un tournoi de classement et a été remporté par John Higgins.
+Le Championnat européen de snooker de moins de 18 ans EBSA 2018 est un championnat qui a réuni 84 participants et a été remporté par Jackson Page. Cette compétition à élimination directe a été organisée par l'European Billiards and Snooker Association.
+Le championnat ACBS Asian Snooker Championship 2005 est un tournoi à élimination directe qui a réuni 16 participants. L'organisateur de cet événement est la Asian Confederation of Billiard Sports. Jin Long est le vainqueur de cette édition.
+Le Championnat européen de snooker de moins de 18 ans EBSA 2021, organisé conjointement par l'European Billiards and Snooker Association et la Federação Portuguesa de Bilhar, a réuni 64 participants et a été remporté par Ben Mertens dans le cadre d'un tournoi à élimination directe.
+L'Open de Gibraltar de snooker 2019 est un tournoi de snooker qui a été organisé par la World Professional Billiards and Snooker Association. Il s'agit d'un tournoi à élimination directe et de classement. Le vainqueur de cette édition est Stuart Bingham.
+L'Open d'Écosse de snooker 2000 est un tournoi de classement qui a réuni 128 participants et a été organisé par la World Professional Billiards and Snooker Association. Ce tournoi à élimination directe a été remporté par Ronnie O'Sullivan.
+Le Masters 2008 est un tournoi d'invitations de snooker qui a réuni 18 participants et où les joueurs ont utilisé des boules de snooker.
+Le tournoi 2017 Pink Ribbon est un événement de snooker qui a réuni 14 participants et a été remporté par Robert Milkins. Le snooker utilise des accessoires de snooker.
+Le Classique Paul Hunter 2013 est un tournoi de snooker qui a vu 228 participants s'affronter dans un tournoi à élimination directe, utilisant une queue de billard.
+Le championnat ACBS Asian Snooker Championship 1990, organisé par la Asian Confederation of Billiard Sports, a réuni 9 participants qui ont disputé un tournoi à élimination directe.
+Le champion des champions de snooker 2016 est un tournoi d'invitation de snooker qui a réuni 16 participants et où les joueurs utilisent des boules de snooker.
+Le Grand Prix mondial 2025, organisé par la World Professional Billiards and Snooker Association, est un tournoi de classement qui se déroule sous forme de tournoi à élimination directe, et Neil Robertson en est le vainqueur.
+Le Norwich Union Grand Prix 1988 est un événement de snooker qui utilise une boule de snooker et une queue de billard. Steve Davis est le vainqueur de cette compétition.
+Le Masters d'Allemagne 2012 est un tournoi de snooker de type classement qui a réuni 106 participants et a été remporté par le vainqueur Ronnie O'Sullivan.
+La Classique Paul Hunter 2010 est un événement de snooker, un sport qui utilise une boule de snooker et une boule de cue. L'organisateur de cet événement est la World Professional Billiards and Snooker Association.
+Le German Masters 2011 est un tournoi de snooker qui utilise des boules de snooker et des accessoires de snooker. Ce tournoi à élimination directe a lieu en 2011.
+Le vainqueur du British Open 1995 est John Higgins. Ce tournoi à élimination directe a été organisé par la World Professional Billiards and Snooker Association.
+Le championnat ABSF Asian Snooker Championship 1988 a réuni 24 participants et a été remporté par James Wattana.
+L'événement 1 des PIOS 2008 était un tournoi de qualification qui a réuni 140 participants et a été remporté par Bjorn Haneveer, le vainqueur.
+Le vainqueur du British Open 1999 (I), un tournoi à élimination directe et de classement, est Fergal O'Brien.
+Le Snooker Shoot-Out 2015, un tournoi à élimination directe, a vu 64 participants s'affronter, et Michael White a été couronné vainqueur.
+Le championnat du monde de snooker seniors 2022 est un tournoi d'invitation qui s'est déroulé sous forme de tournoi à élimination directe et dont le vainqueur est Lee Walker.
+Le championnat du Royaume-Uni de snooker 2022, organisé par la World Professional Billiards and Snooker Association, a vu Mark Allen être couronné vainqueur parmi 144 participants.
+Le Masters 1978 est un tournoi de snooker, sport qui utilise des accessoires de snooker, et est organisé par la World Professional Billiards and Snooker Association.
+Le championnat écossais professionnel 1981 est un championnat qui a réuni 8 participants et qui a été disputé sous la forme d'un tournoi à élimination directe.
+L'Australian Goldfields Open 2014 est un tournoi de snooker qui utilise une bille de cue et a réuni 130 participants.
+Le Championnat du Royaume-Uni 1980 est une compétition de snooker, un sport qui utilise une queue de billard.
+Les Masters d'Allemagne 2025 ont réuni 128 participants et ont vu Kyren Wilson être couronné vainqueur.
+Le British Open 2000 est une compétition de snooker qui utilise une balle de cue.
+Le Classique Paul Hunter 2014 est un événement de snooker qui utilise une balle de cue.
+Le Championnat européen de snooker EBSA 2012 a réuni 80 participants et a été organisé sous forme de tournoi à élimination directe.
+Le 2006 PIOS - Event 1 est un tournoi de qualification dont le format est un tournoi à élimination directe.
+Le tournoi de qualification 2007 PIOS - Event 1 a vu Simon Bedford comme vainqueur.
+L'Open du pays de Galles 1994 est un tournoi de snooker, un sport qui utilise une bille de cue.
+Le Championnat européen de snooker EBSA 1999 est une compétition de snooker qui utilise des boules de snooker.
+L'Open du pays de Galles 2010 est un événement de snooker.
+Le Tournoi Pontins de snooker pro-am 1991 (automne) est un tournoi d'invitation.
+Le Championnat du Royaume-Uni 2009 est un événement de snooker.
+Le Championnat du Royaume-Uni 1993 est un tournoi à élimination directe.
+Le Masters 2005 est un événement de snooker.
+L'ACBS Asian Snooker Championship 1991 a vu la participation de 2 joueurs.
+Le British Open 201997 est un tournoi de classement.
+Le championnat écossais professionnel de 1988 est un championnat.
+Le championnat ACBS Asian Snooker Championship 2010 est un championnat.
+Rachel Brice est une danseuse et chorégraphe américaine, spécialisée dans la danse orientale. La danse orientale, qui a vu le jour il y a environ 7 000 ans, a ses racines dans le monde arabe et au Moyen-Orient.
+Sofinar Grigoryan est une danseuse de danse orientale qui possède la nationalité arménienne, russe et égyptienne. La danse orientale, dont les origines remontent au 1er janvier -5000, est originaire du monde arabe et du Moyen-Orient.
+Anita Berber est une danseuse allemande, née sous l'Empire allemand et ayant vécu sous la République de Weimar. Elle est spécialisée dans la danse sensuelle. Elle a travaillé dans le domaine du théâtre, de la danse et de la comédie.
+Shantae est une danseuse de danse orientale qui apparait dans le jeu vidéo Shantae. Elle est également une jin dans une œuvre de fiction. La danse orientale, qui a une origine datant du 01 janvier -5000, vient du Moyen-Orient et est pratiquée par Shantae en tant que danseuse.
+Katie Voutsakis, danseuse de danse orientale, est de nationalité grecque et égyptienne. La danse orientale, dont elle est spécialiste, a une origine qui remonte à -5000 et est issue du monde arabe et du Moyen-Orient.
+Bruno est un personnage de cinéma et de littérature qui danse la valse, un style de danse en 3/4. Il est italien, citoyen de la République sociale italienne. On le retrouve dans l'œuvre littéraire et cinématographique « Les 120 Jours de Sodome » et dans le film « Salò, ou les 120 Jours de Sodome ».
+Louise Frevert est une danseuse danoise, spécialisée dans la danse orientale. Elle est également danseuse classique et chorégraphe. La danse orientale, qu'elle pratique, a ses racines dans le monde arabe et le Moyen-Orient.
+Anton du Beke est un danseur et chorégraphe britannique, spécialisé dans la danse de salon. Il travaille dans le domaine de la danse, de la télévision et de la musique. Il est citoyen du Royaume-Uni.
+Nejla Ateş est une danseuse orientale turque et roumaine. Elle pratique la danse orientale, qui a ses racines dans le monde arabe et le Moyen-Orient, et qui remonte à -5000. Nejla Ateş est une professionnelle de cette danse qui a une longue histoire.
+Didem est une danseuse de danse orientale, native de Turquie. La danse orientale, dont les origines remontent au 01 janvier -5000, est issue du monde arabe et du Moyen-Orient. Didem est citoyenne turque et exerce la profession de danseuse.
+Salma Hayek, qui possède la nationalité française, mexicaine et américaine, pratique la danse orientale, originaire du monde arabe et du Moyen-Orient.
+Aïché Nana est une danseuse de danse orientale, originaire du monde arabe. Elle possède la nationalité italienne, du royaume d'Italie, ainsi que la nationalité libanaise.
+Ighraa est une danseuse de danse orientale syrienne. La danse orientale, dont les origines remontent au 01 janvier -5000, est issue du monde arabe et du Moyen-Orient. Ighraa est citoyenne syrienne et exerce la profession de danseuse.
+Alexandre Paulikevitch est un danseur de danse orientale, originaire du Liban. La danse orientale, qui a été créée il y a environ 7000 ans, a ses racines dans le monde arabe et au Moyen-Orient.
+Cardi B, danseuse et rappeuse américaine, est spécialisée dans la danse sensuelle. Elle est active dans le domaine du hip-hop, du rap et de la musique.
+Zoe Jakes est une danseuse américaine qui pratique la danse orientale. Cette dernière a ses racines dans le monde arabe et au Moyen-Orient, et remonte à -5000. Zoe Jakes est citoyenne des États-Unis et exerce comme danseuse.
+Zouba El-Klobatiyya est une danseuse orientale et danseuse qui a pratiqué le style de danse baladi. Elle a été citoyenne du Sultanat d'Égypte, du Royaume d'Égypte et de l'Égypte.
+Serena Wilson, danseuse américaine, est spécialisée dans la danse orientale, qui a ses racines dans le monde arabe et le Moyen-Orient, et dont l'origine remonte à -5000. Elle est citoyenne des États-Unis et exerce son métier de danseuse.
+Stanley Donen est un danseur et chorégraphe spécialisé dans les claquettes. Il travaille dans le domaine de la danse et de la direction de films.
+Jamileh est une danseuse iranienne qui pratique la danse orientale, une forme de danse qui a ses racines au Moyen-Orient et qui remonte à -5000. Elle est une spécialiste de cette danse qui a une longue histoire.
+Nancy Callahan est une personnage de cinéma et de bande dessinée américaine, connue pour sa danse sensuelle. Elle est présente dans l'œuvre Sin City : J'ai tué pour elle.
+Peggy Spencer est une danseuse et chorégraphe de danse de salon, citoyenne du Royaume-Uni, également connu sous le nom de Royaume-Uni de Grande-Bretagne et d'Irlande.
+Dany Bustros est une danseuse de danse orientale, originaire du Liban. La danse orientale, dont les origines remontent au monde arabe, a une histoire qui commence le 1er janvier -5000. Dany Bustros est une citoyenne libanaise et exerce la profession de danseuse.
+Mousbah Baalbaki est un danseur ou danseuse de danse orientale. La danse orientale a une date de fondation ou de création remontant au 1er janvier -5000 et elle a pour pays d'origine le monde arabe et le Moyen-Orient.
+Estelle Asmodelle est une Australienne qui pratique la danse orientale, une forme de danse qui a vu le jour il y a environ 7 000 ans dans le monde arabe et au Moyen-Orient.
+Mýa est une danseuse et chorégraphe américaine qui pratique la danse des claquettes. Elle est également compositeur de musique et exerce son activité aux États-Unis.
+Julianne Hough est une danseuse et chorégraphe de danse de salon, originaire des États-Unis. Elle est également active dans le domaine de la comédie.
+Shakira, de nationalité colombienne, pratique la danse orientale, qui a une origine datant du 1er janvier -5000 dans le monde arabe et le Moyen-Orient.
+Sally Mursi est une danseuse de danse orientale et possède la nationalité égyptienne. La danse orientale a pour origine le monde arabe et le Moyen-Orient.
+Victor Kanevsky, chorégraphe, est spécialisé dans la danse de salon et a détenu la nationalité de l'Union soviétique et des États-Unis.
+Vartika Jha, danseuse et chorégraphe indienne, est spécialisée dans le style de danse popping.
+Kini Kapahu, danseur ou danseuse de Hula, est citoyen des États-Unis et également du royaume d'Hawaï.
+Pierre Dulaine, danseur ou danseuse de danse de salon, est citoyen d'Irlande et de Jordanie.
+Jean-Marc Généreux, danseur et chorégraphe canadien, est spécialisé dans la danse de salon.
+Anna Janeczko est une danseuse de danse de salon, de nationalité polonaise. Elle travaille dans le domaine des brassinostéroïdes et de l'agronomie.
+Kevin Clifton, danseur et chorégraphe de danse de salon, est citoyen du Royaume-Uni.
+Kitten Natividad, une Mexicaine, est danseuse de danse sensuelle et comédienne. Elle est active dans le domaine de la comédie et de la danse.
+Edna Deane, danseuse et chorégraphe de danse de salon, est de nationalité britannique, du Royaume-Uni.
+Nadia Gamal est une danseuse de danse orientale, qui a ses racines dans le monde arabe et le Moyen-Orient.
+Charles Castle est un danseur de claquettes du Royaume-Uni.
+Matti Nykänen est finlandais et a exercé dans le domaine du saut à ski, mais il est également connu pour sa danse sensuelle.
+Jean-Pierre Cassel est un danseur de claquettes français.
+La Goony Chonga est une danseuse américaine, originaire des États-Unis, qui pratique la danse sensuelle.
+Alec Mazo est un danseur ou danseuse de danse de salon originaire des États-Unis.
+Karen et Marcus Hilton, un couple marié, forment un duo qui pratique la danse de salon.
+Suga Pop est un danseur ou danseuse de Nouvelle-Zélande, spécialisé dans le style de danse Popping.
+Sammy Davis Jr. est un danseur de claquettes américain, originaire des États-Unis.
+Corky Ballas est un chorégraphe américain, originaire des États-Unis, spécialisé dans la danse de salon.
+Harm Agteresch est un danseur de claquettes néerlandais, citoyen du Royaume des Pays-Bas.
+Jade Above est un artiste de house music, un genre qui trouve son origine aux États-Unis.
+Badia Masabni est une danseuse de danse orientale, un style de danse qui trouve son origine dans le monde arabe.
+Caity Brown est une danseuse qui pratique le Waacking.
+Jose DeCamps est un danseur qui pratique la danse de salon.
+Charles Albert Bridges III est un danseur de danse de salon et est citoyen des États-Unis.
+Henry "Crip" Heard est un danseur qui pratique les claquettes.
+Hanna Rún Óladóttir est une danseuse de danse de salon et elle fait carrière en tant que danseuse.
+Jared Murillo est un danseur de danse de salon et il est citoyen des États-Unis.
+Lova Moor pratique la danse sensuelle.
+Nadja Abd el Farrag pratique la danse orientale.
+Ervinas Merfeldas pratique la danse de salon.
+Gregorio Hernández Ríos pratique la danse Rumba.
+Le style de danse de Jake Pavelka est la danse sensuelle.
+Jonathan Roberts pratique la danse de salon.
+Maurizio Benenato pratique la danse de salon.
+Le style de danse d'Angel Salvadore est la danse sensuelle.
+Le style de danse d'Alex Da Silva est la salsa.
