@@ -1,0 +1,6 @@
+input_file: "data/train/best_MT/translation/merged_train_mbart_en_de.json"
+output_file: "data/train/best_MT/translation_score/sbert/merged_train_en_de_sbert.json"
+eval_method: "sbert"
+batch_size: 64
+model_name: "prism"
+target_lang: "de"

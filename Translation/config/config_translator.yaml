@@ -1,0 +1,64 @@
+input_file: "data/other/cp_webnlg_pt_en.txt"
+output_file: "data/other/cp_webnlg_pt_en_pt.txt"
+target_language: "pt"
+model_name: "Helsinki-NLP/opus-mt-tc-big-en-pt"
+model_type: "121" # 121 or m2m
+model_config:
+  facebook/nllb-200-distilled-600M:
+    max_tokens: 128
+    batch_size: 32
+    src_lang: 'eng_Latn'
+  facebook/nllb-200-3.3B:
+    max_tokens: 128
+    batch_size: 32
+    src_lang: 'eng_Latn'
+  facebook/mbart-large-50-many-to-many-mmt:
+    max_tokens: 128
+    batch_size: 32
+    src_lang: 'en_XX'
+  facebook/m2m100_418M:
+    max_tokens: 128
+    batch_size: 32
+    src_lang: 'en'
+  facebook/m2m100_1.2B:
+    max_tokens: 256
+    batch_size: 8
+    src_lang: 'en'
+  Helsinki-NLP/opus-mt-en-zh:
+    max_tokens: 128
+    batch_size: 32
+  Helsinki-NLP/opus-mt-en-de:
+    max_tokens: 128
+    batch_size: 32
+  Helsinki-NLP/opus-mt-en-fr:
+    max_tokens: 256
+    batch_size: 32
+  Helsinki-NLP/opus-mt-en-es:
+    max_tokens: 128
+    batch_size: 32
+  Helsinki-NLP/opus-mt-en-ru:
+    max_tokens: 128
+    batch_size: 32
+  Helsinki-NLP/opus-mt-en-ar:
+    max_tokens: 128
+    batch_size: 32
+  Helsinki-NLP/opus-mt-en-it:
+    max_tokens: 128
+    batch_size: 32
+  Helsinki-NLP/opus-mt-tc-big-en-pt:
+    max_tokens: 128
+    batch_size: 32
+  Helsinki-NLP/opus-mt-en-mt:
+    max_tokens: 128
+    batch_size: 32
+  Helsinki-NLP/opus-mt-en-ga:
+    max_tokens: 128
+    batch_size: 32
+  Helsinki-NLP/opus-mt-en-cy:
+    max_tokens: 128
+    batch_size: 32
+  Helsinki-NLP/opus-mt-en-CELTIC:
+    max_tokens: 128
+    batch_size: 32
+  
+default_model: "facebook/nllb-200-distilled-600M"
