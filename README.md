@@ -10,7 +10,7 @@ This repository is for the paper, "Multilingual Verbalisation of Knowledge Graph
 ## Authors:
 - Yifei Song (CNRS/Loria & Université de Lorraine)
 - William Soto Martinez (CNRS/Loria & Université de Lorraine)
-- Anna Anna Nikiforovskaya (CNRS/Loria & Université de Lorraine)
+- Anna Nikiforovskaya (CNRS/Loria & Université de Lorraine)
 - Claire Gardent (CNRS/Loria)
 
 ## Citation
