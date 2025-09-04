@@ -3,6 +3,5 @@ This directory gathers the generated texts produced by each of our three methods
 into 5 of the  9 target languages we could get native speakers for namely, English, French, Spanish, Russian and Chinese. To avoid data contamination the reference texts are not distributed. 
 - WebNLG: This includes the test sets from the WebNLG 2020 shared task (English, Russian);  from the 2023 WebNLG shared task
 (Breton, Welsh, Irish and Maltese) and a recently published test set for [Spanish](https://zenodo.org/records/15064345). 
-These test sets share the same 1,779 KGs (1,102 for Russian). The texts are human-written by crowdworkers (English, Maltese, Welsh, Irish), researchers working on the
-topic (Russian, Spanish) or by professional translators (Breton).
+These test sets share the same 1,779 KGs (1,102 for Russian). The texts are human-written by crowdworkers (English, Maltese, Welsh, Irish), researchers working on the topic (Russian, Spanish) or by professional translators (Breton).
 
