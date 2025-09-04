@@ -172,26 +172,20 @@ def linearize_tripleset(tripleset, clean=True, subj_token='<S>', pred_token='<P>
 
 def load_file(file_path):
     formatted_data = {
-        'input_text':[],
-        'target_text':[]
+        'input_text':[]
     }
     
     with open(file_path) as file:
         data = json.load(file)
     
     for entry in tqdm(data['entries']):
-        if args.lang in entry['lexicalisations']:
-            input_text = linearize_tripleset(entry['modifiedtripleset'])
-            if args.model == 'helsinki':
-                if args.lang == 'po':
-                    input_text = '>>pob<< '+input_text
-                elif args.lang in ['br', 'cy', 'ga']:
-                    input_text == f'>>{args.lang}<< '+input_text
-            for lex in entry['lexicalisations'][args.lang]:
-                formatted_data['input_text'].append(input_text)
-                formatted_data['target_text'].append(lex['lex'])
-        elif args.lang not in entry['labels']:
-            raise Exception('Language not present in training file')
+        input_text = linearize_tripleset(entry['modifiedtripleset'])
+        if args.model == 'helsinki':
+            if args.lang == 'po':
+                input_text = '>>pob<< '+input_text
+            elif args.lang in ['br', 'cy', 'ga']:
+                input_text == f'>>{args.lang}<< '+input_text
+        formatted_data['input_text'].append(input_text)
 
     return formatted_data
 
@@ -204,7 +198,7 @@ def tokenize_dataset(sample):
     return tokenizer(sample['input_text'], return_tensors='pt', truncation=True)
 
 # Prepare DataSet
-test_ds = Dataset.from_dict(formatted_test_data).map(tokenize_dataset, remove_columns=['input_text', 'target_text'])
+test_ds = Dataset.from_dict(formatted_test_data).map(tokenize_dataset, remove_columns=['input_text'])
 
 with open(args.test_file) as file:
     data = json.load(file)
@@ -229,3 +223,4 @@ for entry, sample in tqdm(zip(data['entries'], test_ds), total=len(test_ds)):
 
 with open(args.gen_file, 'w', encoding='utf-8') as file:
     json.dump(output, file, indent=4, ensure_ascii=False)
+
