@@ -1,4 +1,4 @@
-# Multi-Lingual-KG-Verbalisation
+# Multilingual-KG-Verbalisation
 
 This repository is for the paper, "Multilingual Verbalisation of Knowledge Graphs" (EMNLP 2025 Findings). We provide the following components:
 - Training/Prompting codes for our methods:
