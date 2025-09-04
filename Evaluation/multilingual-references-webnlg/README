@@ -1,7 +1,4 @@
-We evaluate our three methods on two test sets:
-- OOD-472: we create a new test set of 472 KG/Text pairs where each graph was extracted from WikiData and aligned with its verbalisation
-into 5 of the  9 target languages we could get native speakers for namely, English, French, Spanish, Russian and Chinese.
-- WebNLG: This includes the test sets from the WebNLG 2020 shared task (English, Russian);  from the 2023 WebNLG shared task
+We evaluate our three methods on WebNLG test data. This includes the test sets from the WebNLG 2020 shared task (English, Russian);  from the 2023 WebNLG shared task
 (Breton, Welsh, Irish and Maltese) and a recently published test set for [Spanish](https://zenodo.org/records/15064345). 
 These test sets share the same 1,779 KGs (1,102 for Russian). The texts are human-written by crowdworkers (English, Maltese, Welsh, Irish), researchers working on the
 topic (Russian, Spanish) or by professional translators (Breton).
