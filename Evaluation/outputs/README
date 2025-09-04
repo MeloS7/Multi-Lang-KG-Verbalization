@@ -1,5 +1,5 @@
 This directory gathers the generated texts produced by each of our three methods on two test sets:
-- OOD-472: a new test set of 472 KG/Text pairs we created where each graph was extracted from WikiData and aligned with its verbalisation
+- 5L-GOLD-OOD: a new test set of 472 KG/Text pairs we created where each graph was extracted from WikiData and aligned with its verbalisation
 into 5 of the  9 target languages we could get native speakers for namely, English, French, Spanish, Russian and Chinese. To avoid data contamination the reference texts are not distributed. 
 - WebNLG: This includes the test sets from the WebNLG 2020 shared task (English, Russian);  from the 2023 WebNLG shared task
 (Breton, Welsh, Irish and Maltese) and a recently published test set for [Spanish](https://zenodo.org/records/15064345). 
