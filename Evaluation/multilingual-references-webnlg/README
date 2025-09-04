@@ -1,4 +1,5 @@
-Say where references come from
-- webnlg 2020 andn 2023
-- Italian ?? ACL 2025
-- Spanish from ???
+We evaluate our three methods on WebNLG test data. This includes the test sets from the WebNLG 2020 shared task (English, Russian); from the 2023 WebNLG shared task (Breton, Welsh, Irish and Maltese) and a recently published test set for [Spanish](https://zenodo.org/records/15064345). 
+
+These test sets share the same 1,779 KGs (1,102 for Russian). The texts are human-written by crowdworkers (English, Maltese, Welsh, Irish), researchers working on the
+topic (Russian, Spanish) or by professional translators (Breton).
+
