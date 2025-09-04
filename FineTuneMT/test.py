@@ -34,7 +34,6 @@ args = parser.parse_args()
 
 
 # Load Model and Tokenizer
-dsdir = os.environ['DSDIR']
 device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
 
 lang_mapping = {}
@@ -46,7 +45,7 @@ if args.model == 'mbart50':
     
     save_path = f'models/mbart50-rdf2{args.lang}'
     model = MBartForConditionalGeneration.from_pretrained(
-        f'{dsdir}/HuggingFace_Models/facebook/mbart-large-50',
+        save_path,
         low_cpu_mem_usage=True,
         device_map=device,
         cache_dir='cache'
@@ -63,7 +62,7 @@ if args.model == 'mbart50':
     }
     
     tokenizer = MBart50TokenizerFast.from_pretrained(
-        f'{dsdir}/HuggingFace_Models/facebook/mbart-large-50',
+        f'facebook/mbart-large-50',
         src_lang='en_XX',
         tgt_lang=lang_mapping[args.lang],
         cache_dir='cache'
@@ -76,13 +75,13 @@ elif args.model == 'm2m100':
     
     save_path = f'models/m2m100-rdf2{args.lang}'
     model = M2M100ForConditionalGeneration.from_pretrained(
-        f'{dsdir}/HuggingFace_Models/facebook/m2m100_1.2B',
+        save_path,
         low_cpu_mem_usage=True,
         device_map=device,
         cache_dir='cache'
     )
     tokenizer = M2M100Tokenizer.from_pretrained(
-        f'{dsdir}/HuggingFace_Models/facebook/m2m100_1.2B',
+        f'facebook/m2m100_1.2B',
         src_lang='en',
         tgt_lang=args.lang,
         cache_dir='cache'
@@ -95,7 +94,7 @@ elif args.model == 'nllb200':
         
     save_path = f'models/nllb200-rdf2{args.lang}'
     model = AutoModelForSeq2SeqLM.from_pretrained(
-        f'{dsdir}/HuggingFace_Models/facebook/nllb-200-distilled-1.3B',
+        save_path,
         low_cpu_mem_usage=True,
         device_map=device,
         cache_dir='cache'
@@ -115,7 +114,7 @@ elif args.model == 'nllb200':
     }
     
     tokenizer = NllbTokenizer.from_pretrained(
-        f'{dsdir}/HuggingFace_Models/facebook/nllb-200-distilled-1.3B',
+        f'facebook/nllb-200-distilled-1.3B',
         src_lang='eng_Latn',
         tgt_lang=lang_mapping[args.lang],
         cache_dir='cache'
@@ -135,18 +134,18 @@ elif args.model == 'helsinki':
 
     if args.lang != 'pt':
         model = AutoModelForSeq2SeqLM.from_pretrained(
-            f'{dsdir}/HuggingFace_Models/Helsinki-NLP/{model_path}',
+            save_path,
             low_cpu_mem_usage=True,
             device_map=device,
             cache_dir='cache'
         )
     else:
         model = AutoModelForSeq2SeqLM.from_pretrained(
-            f'{dsdir}/HuggingFace_Models/Helsinki-NLP/opus-mt-tc-big-en-pt',
+            save_path,
             cache_dir='cache'
         ).to_empty(device=device)
     tokenizer = AutoTokenizer.from_pretrained(
-        f'{dsdir}/HuggingFace_Models/Helsinki-NLP/{model_path}',
+        f'Helsinki-NLP/{model_path}',
         low_cpu_mem_usage=True,
         src_lang='en',
         tgt_lang=args.lang,
