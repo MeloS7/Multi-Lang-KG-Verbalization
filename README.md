@@ -1,6 +1,6 @@
 # Multi-Lingual-KG-Verbalisation
 
-This repository is for the paper, "Multilingual Verbalisation of Knowledge Graphs" (EMNLP 2025 Findings). We provide the following compotents:
+This repository is for the paper, "Multilingual Verbalisation of Knowledge Graphs" (EMNLP 2025 Findings). We provide the following components:
 - Training/Prompting codes for our methods:
     - FTMT
     - NLG+MT
